@@ -1,0 +1,1448 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11	col_12	col_13	col_14
+1	600 mph	0.1179	fabrice	Baseball	359	aNDREW	958 m/s	913	-597	652	0.3977	2.2247	Bioinformatics	-75	0.7676
+6	518 mph	1.0059	Tony	ice hockey	2650	Fabrice	456 m/s	2392	447	-191	1.2029	1.3058	Computer Game Design	575	1.0125
+3	-585 mph	-0.3057	Andrew	soccer	1234	Tony	1117 m/s	93	227	1153	0.8166	1.1266	Biotechnology	1845	2.2419
+3	-1042 mph	-0.2849	Andrew	soccer	705	Tony	557 m/s	1275	1581	-701	-0.2707	-0.1947	Natural Language Processing	489	0.1878
+1	473 mph	-0.4617	Fabrice	baseball	249	Lise	839 m/s	211	-819	-753	1.3098	1.7498	Bioinformatics	924	-0.0791
+7	267 mph	-0.2594	Inan	basketball	-178	Inan	1362 m/s	557	-470	224	-0.038	1.2435	Computational Media	845	0.5957
+2	927 mph	0.6301	Vani	track & field	930	Reilly	2580 m/s	3209	1254	575	-0.632	0.7487	dATA sCIENCE	-605	1.4734
+0	1243 mph	-0.71	Fabrice	motor sports	-313	Michael	212 m/s	437	262	1320	1.3147	1.4556	Electrical Engineering	-663	1.055
+2	1413 mph	1.7903	Reilly	track & field	576	Lise	360 m/s	1349	1642	343	1.0231	1.0992	Applied Mathematics	-360	1.036
+1	862 mph	-0.1857	Fabrice	baseball	168	Andrew	-976 m/s	1306	-56	591	0.7829	0.1314	BIOINFORMATICS	-20	-2.2398
+6	-81 mph	1.1979	Tony	golf	1470	Fabrice	-1516 m/s	1544	884	-113	0.2804	0.9136	Computer Game Design	-194	0.7297
+0	-141 mph	-0.3678	Lise	motor sports	606	Eriq	238 m/s	855	263	891	2.108	2.6919	Statistics	736	0.7908
+6	425 mph	1.7334	Tony	ice hockey	1028	Chris	917 m/s	609	1448	774	2.2572	0.9809	Computer Game Design	596	1.1295
+6	688 mph	0.694	Lise	ice hockey	NULL	Fabrice	1105 m/s	-279	-110	346	0.3916	0.6294	Computer Game Design	1185	2.0182
+0	1253 mph	1.3279	Lise	badminton	1722	Michael	1501 m/s	664	576	-1253	0.2354	0.5364	Bioengineering	-1374	1.7268
+3	-324 mph	-0.2007	Andrew	soccer	2186	Tony	688 m/s	1311	1311	-1039	-0.7644	0.4114	Natural Language Processing	825	1.4127
+6	1118 mph	1.8938	Tony	golf	1823	Chris	2002 m/s	831	-25	169	1.2049	-1.1068	Human Computer Interaction	1605	1.9992
+1	1921 mph	-1.1861	Fabrice	baseball	-566	Andrew	315 m/s	142	991	24	0.1317	0.2942	BIOINFORMATICS	853	0.006
+2	1095 mph	-0.8957	Reilly	track & field	1493	Reilly	-328 m/s	-425	1284	209	0.7836	1.576	Applied Mathematics	-1286	-1.1362
+2	1610 mph	1.0181	Vani	boxing	287	Inan	1858 m/s	827	694	-359	0.1733	-0.1828	Applied Mathematics	1689	0.7748
+5	545 mph	0.7594	Michael	football	-61	Sam	-733 m/s	-544	-589	89	1.5568	-0.7667	Biotechnology	-469	0.5837
+1	834 mph	0.19	Fabrice	boxing	-576	Andrew	297 m/s	1354	-200	-1096	1.2482	1.7483	Bioinformatics	630	1.0635
+5	-747 mph	0.529	Michael	running	1057	Sam	1145 m/s	-699	662	751	0.6394	0.1127	Biotechnology	-406	0.7164
+2	1324 mph	-0.1331	Vani	track & field	-424	Reilly	1520 m/s	-252	639	-1311	0.1428	0.3697	Data Science	-187	-0.281
+1	817 mph	0.4682	Inan	baseball	-845	Andrew	-264 m/s	352	96	-1739	0.5986	1.9345	Bioinformatics	178	0.1674
+7	-417 mph	0.0535	Inan	basketball	n/a	Inan	1970 m/s	1876	67	172	0.5033	0.8666	Computational Media	483	0.5875
+1	457 mph	-0.3969	Fabrice	baseball	150	Andrew	492 m/s	-1257	301	510	0.5366	-0.7111	Bioinformatics	632	0.6825
+1	727 mph	NULL	Fabrice	baseball	-353	aNDREW	-1532 m/s	133	997	-466	0.796	-0.1665	Bioinformatics	933	-0.5327
+5	628 mph	-0.5647	MICHAEL	running	1078	Sam	179 m/s	-1961	1068	-1249	-0.4188	0.7089	Biotechnology	45	0.3106
+3	-270 mph	0.1038	Andrew	soccer	1038	Tony	1378 m/s	-280	356	?	-0.0153	0.7656	Electrical Engineering	-478	1.3295
+4	737 mph	1.4899	Chris	soccer	1031	Vani	-518 m/s	1013	663	-438	-0.0655	1.7153	Robotics Engineering	469	1.1324
+5	488 mph	-0.3681	Sam	football	1517	Sam	-875 m/s	492	900	216	0.1705	-0.1016	Biotechnology	52	0.8708
+4	406 mph	0.9168	Chris	boxing	558	Vani	291 m/s	86	669	618	-0.18	0.9412	Technology and Information Management	534	1.2716
+4	883 mph	1.0861	Chris	volleyball	1474	Vani	-427 m/s	-1135	872	477	-1.5339	1.6005	Bioinformatics	1880	0.4278
+1	772 mph	0.0311	fABRICE	baseball	-119	Andrew	1391 m/s	-267	1151	823	1.3766	2.2225	Bioinformatics	1271	0.2845
+4	360 mph	0.3106	Chris	baseball	1551	Vani	699 m/s	-843	859	1989	-0.3926	1.6168	Robotics Engineering	1234	-0.7887
+7	-178 mph	1.3618	Inan	basketball	673	Inan	5 m/s	2502	104	251	-0.3856	0.4042	Computational Media	-1115	1.9174
+5	-86 mph	0.9991	Eriq	running	253	Sam	-563 m/s	-343	601	-534	1.8765	0.4274	Biotechnology	147	0.1788
+6	493 mph	0.2083	Tony	golf	-35	Fabrice	781 m/s	1325	1329	676	1.5361	1.723	Games and Playable Media	740	1.6627
+7	858 mph	0.4144	Inan	soccer	-219	Inan	702 m/s	88	126	-1721	0.5927	1.1892	Computational Media	1615	0.0328
+5	-2507 mph	1.075	Eriq	football	2220	Sam	-229 m/s	-579	-105	-177	-0.52	1.6105	Biotechnology	-435	-0.8309
+3	-341 mph	0.5648	Inan	soccer	1333	Tony	1310 m/s	-411	795	891	-0.99	0.712	Computer Science	1418	1.7317
+3	1397 mph	-0.4136	aNDREW	soccer	1117	tONY	632 m/s	542	1263	783	0.0338	0.568	nATURAL lANGUAGE pROCESSING	356	0.5759
+7	593 mph	1.1767	Inan	track & field	742	Eriq	1107 m/s	1824	-420	-643	0.2105	0.8647	Computational Media	-66	0.0347
+6	624 mph	0.9131	Tony	golf	1032	Fabrice	197 m/s	2190	1098	414	0.5727	-0.0671	Games and Playable Media	-595	0.6594
+7	530 mph	0.2043	Lise	tennis	791	Inan	796 m/s	596	-517	634	0.2414	-0.6758	Computational Media	1705	1.3706
+4	476 mph	0.7333	Chris	boxing	1287	Vani	-1132 m/s	1077	1748	1384	-1.2858	0.3189	TECHNOLOGY AND INFORMATION MANAGEMENT	1229	0.2184
+0	-725 mph	0.2788	Lise	motor sports	439	Eriq	671 m/s	631	-91	825	0.7683	0.8766	Electrical Engineering	814	1.0414
+3	-202 mph	-0.0191	Andrew	soccer	-41	Tony	1238 m/s	323	1338	2641	0.0738	0.497	Computer Science	1782	1.7193
+6	1881 mph	1.3082	Tony	golf	1214	Chris	2894 m/s	-504	757	72	1.9513	0.9071	Human Computer Interaction	1300	-0.177
+5	-468 mph	0.0109	Michael	football	1037	Sam	1431 m/s	849	-702	694	0.3328	1.4518	Biotechnology	524	0.2535
+3	-567 mph	-0.8605	Andrew	soccer	1483	Tony	-105 m/s	209	961	1151	-0.181	0.3592	Natural Language Processing	-730	-0.0477
+3	407 mph	0.264	Andrew	soccer	30	Tony	?	236	41	565	1.075	1.0208	Natural Language Processing	752	1.3527
+2	1323 mph	0.6041	Vani	track & field	100	Andrew	387 m/s	912	610	1327	1.3572	0.7564	Applied Mathematics	888	1.2856
+5	639 mph	1.5936	Sam	football	1353	Sam	-286 m/s	692	1324	1887	0.0925	0.6039	Biotechnology	2672	0.7771
+3	-198 mph	0.1627	Andrew	soccer	1788	Tony	1987 m/s	797	144	574	1.212	0.0792	Natural Language Processing	-504	0.1359
+2	-1139 mph	1.298	Vani	TRACK & FIELD	-785	Reilly	910 m/s	1144	1031	292	0.8508	2.3836	Applied Mathematics	-309	1.7178
+2	1623 mph	0.5432	Vani	track & field	-474	Reilly	2613 m/s	1902	327	395	1.4086	0.6841	Applied Mathematics	1359	0.6824
+1	1491 mph	0.0093	Fabrice	baseball	215	Andrew	-298 m/s	1267	903	792	0.2596	0.2736	Bioinformatics	2800	0.3278
+6	1135 mph	1.1255	TONY	golf	810	Inan	1716 m/s	-1823	1360	-139	0.805	-1.0023	Computer Game Design	413	0.5438
+4	1153 mph	0.6224	Chris	volleyball	-16	vANI	548 m/s	n/a	1180	-782	-0.4862	0.4806	Robotics Engineering	-279	-0.7976
+3	26 mph	-0.478	Andrew	soccer	1650	Tony	1485 m/s	1361	1400	1341	-0.0003	1.7212	Natural Language Processing	1008	1.7427
+2	552 mph	0.0285	Vani		566	Lise	-611 m/s	-1792	1289	-190	-0.6647	1.709	Applied Mathematics	-845	0.7986
+3	7 mph	0.6693	Fabrice	soccer	237	Tony	2078 m/s	1467	452	1265	-0.5614	1.0525	Natural Language Processing	-786	-0.4088
+6	757 mph	-1.2442	tony	ice hockey	305	fabrice	722 m/s	939	2074	406	0.5264	-0.0552	Computer Game Design	3395	0.753
+2	806 mph	0.7677	REILLY	track & field	1148	Reilly	569 m/s	823	621	-503	0.0616	2.9469	Data Science	607	1.7414
+2	1742 mph	1.6771	Michael	track & field	-609	Lise	1578 m/s	1641	1249	-563	0.2987	-0.2051	Applied Mathematics	2192	0.3454
+6	1240 mph	0.8461	Tony	golf	895	Chris	2111 m/s	687	470	-792	0.1301	0.2049	Human Computer Interaction	-40	0.8332
+4	1181 mph	1.1441	Chris	volleyball	-112	Vani	-790 m/s	-1238	2035	-523	0.4616	1.846	Robotics Engineering	824	0.0789
+0	-1048 mph	-0.1616	Lise	motor sports	92	Michael	609 m/s	-1146	198	-207	0.0699	0.1661	Biotechnology	915	-0.4375
+3	1696 mph	1.2532	Andrew	soccer	2426	Inan	1569 m/s	411	1870	-2085	0.5348	0.5329	Computer Science	2044	0.4985
+6	495 mph	2.3584	Lise	golf	747	Fabrice	1698 m/s	1622	633	-427	0.4689	0.4759	Computer Game Design	86	-0.0794
+1	777 mph	-0.7307	Fabrice	volleyball	-1128	Andrew	-1029 m/s	1094	696	-410	0.1301	1.9242	Bioinformatics	1220	-0.8751
+6	-1254 mph	2.6409	TONY	golf	1252	Chris	834 m/s	75	1262	1014	0.2896	0.4216	Computer Game Design	1994	0.3955
+7	-580 mph	1.2644	Inan	basketball	1712	Inan	1130 m/s	-427	-303	887	-0.9259	-0.903	Computational Media	-355	0.3401
+2	-119 mph	1.1966	REILLY	track & field	240	Lise	2233 m/s	1566	1553	2122	1.1479	0.0509	Data Science	-865	0.2031
+1	1068 mph	1.0166	Fabrice	baseball	188	Andrew	793 m/s	1488	638	244	1.9666	-0.6715	Bioinformatics	-676	-0.1815
+2	1265 mph	1.0442	Vani	baseball	419	Reilly	1052 m/s	1194	2016	307	-0.9752	2.4671	Applied Mathematics	613	0.3984
+3	772 mph	0.6905	Andrew	soccer	1360	Tony	554 m/s	2480	609	2344	-0.8321	0.0719	Computer Science	-1110	0.5225
+2	-240 mph	0.6405	Reilly	track & field	1138	Reilly	447 m/s	-1787	826	-860	-2.4297	2.1304	Electrical Engineering	627	-0.553
+2	-210 mph	1.6859	Vani	track & field	-80	Reilly	597 m/s	-63	769	-1233	0.1167	1.1047	Applied Mathematics	-890	1.628
+7	-1029 mph	1.4384	Inan	tennis	799	Inan	1478 m/s	522	1758	185	0.5622	0.0115	Computational Media	-2402	1.9506
+3	649 mph	-0.9987	Andrew	N/A	2073	Tony	1364 m/s	-229	1256	555	-0.7166	-0.2023	Natural Language Processing	-684	1.5249
+0	1004 mph	0.0837	Lise	boxing	1490	Michael	1105 m/s	-646	1009	1674	0.7515	-0.3168	statistics	18	0.985
+4	804 mph	2.2484	Chris	volleyball	622	NULL	-759 m/s	1623	1668	672	0.6414	1.3629	Technology and Information Management	2171	0.1526
+7	1375 mph	0.486	Inan	basketball	-247	Inan	3253 m/s	748	132	-981	-0.6138	0.3683	Computational Media	1162	0.368
+1	75 mph	-0.358	Fabrice	baseball	-703	Tony	-609 m/s	297	1694	1198	1.1747	0.2103	Bioinformatics	-604	-0.6721
+4	47 mph	0.9407	Andrew	Boxing	578	Vani	775 m/s	48	1188	-316	-0.4393	0.2277	Technology and Information Management	1848	0.9912
+6	932 mph	1.0872	Tony	golf	-743	Fabrice	332 m/s	1254	779	1012	0.3297	1.6885	Computer Game Design	-1347	-0.2471
+6	1436 mph	0.235	Tony	ice hockey	810	Reilly	2053 m/s	3419	1401	1255	-0.2179	0.0974	Computer Game Design	317	0.8302
+0	545 mph	-0.6811	Lise	motor sports	1592	Michael	2243 m/s	1659	-229	361	1.3324	0.9708	Bioengineering	1502	-0.1151
+3	530 mph	0.0443	Andrew	soccer	1572	TONY	-226 m/s	1760	-198	-319	0.6466	-0.5494	Computer Science	682	n/a
+0	NULL	0.0443	Lise	motor sports	-854	Eriq	1655 m/s	1291	654	2292	-0.2667	0.904	Electrical Engineering	146	-0.8668
+5	866 mph	-0.2034	Sam	football	516	Sam	-346 m/s	-140	-149	1145	-0.4016	3.0195	Biotechnology	-647	-0.157
+1	965 mph	0.5267	Fabrice	baseball	1336	Andrew	67 m/s	2207	684	-1917	2.2207	-0.1188	Bioinformatics	1069	-0.0129
+5	604 mph	1.0453	Michael	running	632	sAM	2310 m/s	135	-472	-357	0.5568	-0.0364	Biotechnology	-34	-0.2178
+1	1493 mph	0.3076	Fabrice	baseball	385	Andrew	-445 m/s	1598	410	638	0.3539	1.0068	Bioinformatics	-1005	0.1515
+1	670 mph	-0.2756	Fabrice	baseball	549	Andrew	204 m/s	711	1569	-2	-0.2299	0.4194	Bioinformatics	1145	-0.5362
+7	-712 mph	-1.4502	Inan	tennis	750	Inan	-371 m/s	932	1722	2304	0.0264	-0.0814	Computational Media	942	1.2459
+1	-142 mph	0.0529	Fabrice	boxing	304	Andrew	847 m/s	251	902	579	0.0056	0.0202	Bioinformatics	1075	1.0716
+7	231 mph	1.8854	Inan	basketball	766	Inan	1512 m/s	1453	602	-463	-0.7868	1.6361	Computational Media	-42	0.2299
+6	-446 mph	0.9914	Tony	golf	727	Chris	1178 m/s	1431	195	823	-0.4026	0.0292	Human Computer Interaction	-196	0.8281
+3	405 mph	-0.8494	Andrew	soccer	1834	Tony	1795 m/s	459	1352	-1030	-0.4765	1.2141	Computer Science	1598	0.6025
+1	1567 mph	-0.6295	Fabrice	golf	122	Andrew	220 m/s	-122	35	-40	2.0915	1.4366	Bioinformatics	-558	0.741
+4	281 mph	0.4006	Chris	volleyball	1084	Vani	1545 m/s	-494	645	291	-0.466	1.401	Computer Engineering	-603	0.1613
+5	1709 mph	-1.0854	Michael	football	2177	SAM	1287 m/s	-259	-91	-602	0.5647	-0.4784	Biotechnology	-628	0.1612
+3	49 mph	-0.3874	Andrew	soccer	-987	Tony	1526 m/s	-634	1810	87	-0.0132	1.8498	Bioinformatics	-1158	0.1236
+5	-652 mph	1.224	Eriq	football	1460	Sam	1002 m/s	641	-429	332	-0.2377	-0.0042	biotechnology	-289	1.4003
+0	-231 mph	0.3901	Lise	badminton	1459	Michael	868 m/s	n/a	988	-173	1.1197	0.1518	Bioengineering	-751	0.678
+3	603 mph	-0.1119	Andrew	SOCCER	1258	Tony	1226 m/s	-158	1324	638	-0.0158	1.2057	Computer Science	846	0.3047
+4	125 mph	0.696	Chris	boxing	470	Vani	313 m/s	772	256	86	-1.6728	1.5137	robotics engineering	-1141	-0.8859
+6	206 mph	0.2492	Tony	GOLF	1737	Chris	718 m/s	615	1548	-323	1.5968	-0.626	Human Computer Interaction	-81	-0.9838
+0	863 mph	1.6578	Lise	motor sports	-569	Michael	969 m/s	1039	-38	1762	0.611	-0.3668	Electrical Engineering	1160	-0.8189
+0	1010 mph	0.6021	Lise	motor sports	884	Eriq	416 m/s	1356	853	-189	0.4484	-0.0005	Electrical Engineering	2380	0.6676
+2	920 mph	1.4377	VANI	track & field	-223	Reilly	672 m/s	-1853	1199	-286	-0.1084	-0.5922	Bioengineering	-95	0.5725
+6	-830 mph	0.9578	Tony	ice hockey	1995	Lise	1367 m/s	1192	1134	1035	-0.4538	-0.3259	Games and Playable Media	581	1.7108
+5	1060 mph	0.769	Sam	football	1821	Sam	1256 m/s	376	359	-1320	-0.4102	1.2672	Biotechnology	466	0.3345
+3	-470 mph	0.7932	Vani	soccer	799	Tony	1664 m/s	317	131	2775	-0.871	2.2321	Computer Science	790	0.1358
+7	-607 mph	0.9142	Inan	basketball	977	inan	1736 m/s	527	972	474	-1.1753	0.7695	Computational Media	505	0.469
+4	-257 mph	1.2805	Chris	Boxing	-169	Vani	-116 m/s	514	618	1646	-1.4532	0.2209	Computer Engineering	-82	0.4763
+4	324 mph	1.4623	Chris	volleyball	2874	Vani	297 m/s	112	1085	960	-0.3471	1.2059	Technology and Information Management	-1234	0.2254
+4	-868 mph	-0.0954	Chris	volleyball	635	Lise	-1151 m/s	702	115	1889	-1.1967	1.2207	Computer Engineering	-134	-0.4782
+1	1300 mph	-0.4369	FABRICE	baseball	1182	Andrew	2491 m/s	1235	-653	26	1.1612	0.2601	Bioinformatics	874	1.2463
+1	1469 mph	0.3947	Fabrice	baseball	-1410	Andrew	-651 m/s	2005	321	394	0.7951	-0.2238	Bioinformatics	1145	0.2445
+3	287 mph	0.7158	Andrew	soccer	784	Tony	992 m/s	-474	1496	?	0.4315	2.7948	Computer Science	1066	1.4093
+6	2089 mph	1.0489	Chris	ice hockey	558	Fabrice	1283 m/s	869	-812	-270	1.0402	0.1878	Computer Game Design	2900	0.8333
+7	841 mph	-0.2485	Inan	basketball	1595	Inan	1226 m/s	1785	-389	-1761	1.1982	0.336	Computational Media	-490	1.9126
+1	-579 mph	-1.4594	Fabrice	baseball	-315	Inan	-99 m/s	-530	491	-1146	2.0483	1.679	Bioinformatics	-1459	-0.3835
+6	602 mph	0.1649	Tony	golf	-163	Fabrice	183 m/s	1215	49	676	1.1691	1.6277	Biotechnology	2331	1.4879
+1	1711 mph	1.3404	Fabrice	volleyball	-752	Andrew	-6 m/s	1418	385	1538	-0.9728	0.954	Bioinformatics	2595	0.1215
+2	277 mph	0.9303	Reilly	track & field	308	Reilly	467 m/s	813	1113	-186	-0.6973	-0.2403	Data Science	1118	1.1514
+4	268 mph	-0.539	Andrew	volleyball	915	Vani	-68 m/s	-438	623	484	0.8595	2.3218	Computer Engineering	679	0.6626
+0	-638 mph	-0.7836	None	motor sports	83	Eriq	85 m/s	-919	528	1783	-0.3038	1.4623	Electrical Engineering	-1671	NULL
+1	1172 mph	-0.3272	Chris	golf	-1061	Andrew	394 m/s	-155	-770	170	1.3931	0.702	Bioinformatics	47	0.3983
+1	822 mph	0.4777	Fabrice	baseball	598		586 m/s	1211	94	-889	-0.1611	1.8159	Bioinformatics	-1130	0.7275
+7	1617 mph	-0.5445	Inan	basketball	1077	Fabrice	488 m/s	1504	231		0.1062	1.1149	Computational Media	143	1.3425
+3	-111 mph	-0.434	Andrew	track & field	481	Tony	771 m/s	1307	1481	-738	-0.5818	0.1654	Computer Science	1844	1.2668
+7	1001 mph	0.3767	Inan	tennis	1069	Inan	-815 m/s	2880	1012	1548	0.6119	n/a	Computational Media	0	1.5311
+6	987 mph	0.6323	Tony	ice hockey	241	Fabrice	1936 m/s	1367	298	-342	-0.1844	-0.6315	Games and Playable Media	582	0.4898
+7	333 mph	0.7315	Inan	tennis	308	Inan	107 m/s	1053	945	1065	-0.3847	1.462	Computational Media	557	0.9088
+2	784 mph	1.0617	Chris	track & field	-252	Lise	153 m/s	363	1449	803	-1.134	1.0412	Data Science	-696	1.1119
+2	4 mph	0.7567	Reilly	track & field	-304	Reilly	852 m/s	1571	-36	-273	1.5351	1.4648	Applied Mathematics	20	-0.7842
+2	1103 mph	1.6675	Fabrice	track & field	-5	Reilly	-743 m/s	790	876	-1182	-0.489	0.7906	Data Science	-254	-0.1891
+2	164 mph	0.2815	Reilly	track & field	-663	Lise	398 m/s	2198	1097	-533	-0.139	0.5984	Data Science	352	1.0669
+2	368 mph	1.2748	vANI	track & field	1091	Lise	-45 m/s	1441	632	817	0.6828	1.4589	Applied Mathematics	637	1.2373
+3	1125 mph	0.3134	Andrew	soccer	1162	Tony	129 m/s	515	498	823	-1.1592	1.5937	N/A	1507	0.3219
+3	574 mph	0.4392	Andrew	badminton	1225	Inan	265 m/s	568	940	-1145	0.5862	1.5805	Natural Language Processing	565	1.2445
+2	1330 mph	1.8396	Vani	track & field	705	Reilly	717 m/s	1801	296	430	1.6457	0.0198	Applied Mathematics	451	0.8843
+5	1052 mph	0.5511	Sam	football	-202	Sam	2086 m/s	-3	-162	104	1.3698	0.1528	Biotechnology	-505	0.6577
+3	1012 mph	0.6841	Andrew	motor sports	-99	Tony	806 m/s	790	1499	401	-0.3446	-0.271	Computer Science	1326	1.5434
+5	345 mph	0.5838	Inan	football	553	Sam	1008 m/s	442	181	1472	-0.2325	-0.0205	Biotechnology	-211	1.6934
+2	807 mph	0.1589	Vani	track & field	545	Lise	2136 m/s	2001	110	-240	0.5287	1.6034	Data Science	1588	0.7272
+1	88 mph	0.083	Fabrice	badminton	-13	Andrew	1243 m/s	1866	802	955	0.8848	1.8395	Bioinformatics	1983	-0.9199
+1	1088 mph	1.7458	Fabrice	baseball	-921	Andrew	160 m/s	980	903	199	-0.3606	1.1389	Bioinformatics	150	0.622
+3	1295 mph	0.2098	Andrew	soccer	-132	Tony	-487 m/s	-431	1294	2018	0.2045	0.3998	Natural Language Processing	2018	0.7755
+3	1150 mph	-1.0167	Andrew	soccer	728	Tony	1485 m/s	-974	1071	1794	-0.7336	1.5206	cOMPUTER sCIENCE	1160	0.3258
+3	-516 mph	0.815	Inan	soccer	715	Tony	1615 m/s	205	-83	454	-0.1812	-0.5638	Natural Language Processing	4119	0.7369
+2	1587 mph	0.91	Reilly	track & field	-755	Lise	801 m/s	200	524	-785	-0.5658	0.6911	Applied Mathematics	1754	-0.0106
+2	-976 mph	1.4819	Vani	track & field	508	Lise	571 m/s	1508	1369	1459	0.0602	-0.0533	Data Science	1232	1.0089
+5	559 mph	0.0637	Eriq	running	-183	Sam	-427 m/s	1843	559	-1012	-0.9999	0.2525	Biotechnology	240	-0.2882
+1	1593 mph	0.7071	Fabrice	baseball	0	Andrew	-839 m/s	887	-482	700	1.4562	1.4135	Bioinformatics	753	0.8499
+5	-1182 mph	-2.3921	SAM	track & field	367	Sam	1855 m/s	66	995	-450	0.1771	0.4897	Biotechnology	978	-0.0888
+2	-48 mph	-0.5125	Reilly	track & field	-53	Lise	1209 m/s	-396	680	203	0.1889	0.8239	Data Science	1078	-0.4757
+5	61 mph	-1.1589	Eriq	running	2040	Michael	1150 m/s	490	457	883	-1.0675	0.6284	Biotechnology	-264	1.7088
+7	-56 mph	1.6025	Inan	basketball	1387	Inan	-150 m/s	-524	124	1201	0.0509	1.295	Computational Media	-1184	0.9946
+6	254 mph	NULL	Tony	ice hockey	594	Fabrice	49 m/s	582	1445	-138	0.5712	0.6707	Human Computer Interaction	1590	0.4768
+3	-394 mph	0.5183	Andrew	soccer	711	Tony	1887 m/s	1342	289	770	0.036	0.0384	Computer Science	-1868	1.3587
+1	-6 mph	0.0246	Fabrice	baseball	380	Andrew	230 m/s	1832	20	-1412	0.3169	0.6738	Bioinformatics	-67	1.8387
+5	577 mph	-0.0719	Michael	football	944	Sam	1691 m/s	638	-735	-1236	-0.9863	0.6075	Biotechnology	1063	-0.8335
+6	1704 mph	0.0712	Tony	ice hockey	1593	Chris	703 m/s	920	1383	1017	0.8756	0.3491	Human Computer Interaction	1453	0.0446
+0	1562 mph	-0.0248	Lise	badminton	1325	Michael	None	303	198	-799	2.1551	0.5669	Electrical Engineering	-918	-0.1965
+4	-68 mph	1.1697	cHRIS	boxing	1688	Andrew	690 m/s	160	-7	987	-0.0668	1.5096	Computer Engineering	-126	0.5094
+1	392 mph	0.6566	Fabrice	baseball	1009	Andrew	1233 m/s	2446	545	54	0.0942	-0.753	Bioinformatics	-1263	-0.0926
+6	1700 mph	1.2744	Tony	golf	1614	Chris	136 m/s	-152	1079	1754	-0.1284	-0.1692	Biotechnology	663	1.3611
+0	639 mph	0.4683	Lise	motor sports	608	Eriq	1506 m/s	1126	-557	-666	0.0121	0.3889	Electrical Engineering	1001	-0.2594
+4	799 mph	-0.0255	Chris	volleyball	677	Vani	307 m/s	185	870	-473	0.4576	-0.2443	Technology and Information Management	1139	0.6503
+5	1295 mph	-0.7968	Sam	running	780	Sam	1708 m/s	830	978	702	-0.8029	0.024	Technology and Information Management	884	-0.2335
+7	-4 mph	-0.5063	Inan	tennis	760	Inan	1571 m/s	853	1214	1342	1.481	0.6564	Computational Media	-11	0.9375
+3	-270 mph	0.0035	Andrew	soccer	1104	Tony	139 m/s	-674	645	1029	-0.0133	1.125	Computer Science	1757	0.8598
+3	-143 mph	-0.0647	aNDREW	soccer	255	Tony	1125 m/s	-365	834	160	1.4172	1.599	Computer Science	-1063	1.3759
+7	1806 mph	0.4886	Inan	motor sports	2205	Inan	327 m/s	1226	17	406	-0.3438	1.2439	Computational Media	208	0.8304
+2	808 mph	1.9865	Vani	track & field	932	Lise	1521 m/s	447	1254	-1195	-0.2431	-0.4539	Data Science	-1397	0.1732
+5	641 mph	-0.3737	Sam	football	1857	Sam	26 m/s	1369	388	1446	0.0987	4.1892	Biotechnology	-348	0.37
+1	908 mph	-0.7334	Fabrice	baseball	-488	Andrew	1367 m/s	3107	-594	360	1.0188	2.1865	Bioinformatics	157	0.4198
+2	927 mph	1.4913	Reilly	track & field	631	Reilly	19 m/s	1934	592	2046	-0.4533	0.3866	Applied Mathematics	-431	1.7914
+0	749 mph	0.5036	Lise	motor sports	1944	Michael	546 m/s	1022	-715	1135	1.0813	0.1182	Bioengineering	220	-0.3575
+1	1899 mph	1.4426	Fabrice	baseball	-498	Andrew	1799 m/s	1260	-974	-1659	1.0874	1.9154	Bioinformatics	553	0.5729
+6	1042 mph	0.8007	Tony	golf	2159	Fabrice	-269 m/s	1580	665	922	0.2151	-0.487	Human Computer Interaction	530	0.9891
+7	953 mph	0.8578	Inan	tennis	1388	?	1734 m/s	655	878	931	-0.5938	0.5796	Computational Media	-135	0.5228
+1	812 mph	-0.0217	Fabrice	baseball	-109	Andrew	277 m/s	-618	469	524	2.3733	1.0272	Bioinformatics	434	-0.8141
+6	548 mph	0.0476	Tony	golf	9	Fabrice	560 m/s	2535	891	-697	0.3284	-1.2221	Games and Playable Media	532	0.193
+3	1578 mph	0.1664	Andrew	soccer	1659	Inan	987 m/s	612	125	-1284	-1.0116	0.5551	Computer Science	-1171	0.2644
+3	-18 mph	0.3766	Andrew	soccer	388	Tony	201 m/s	-952	341	2616	-0.2233	0.7058	Natural Language Processing	-845	1.8298
+3	1407 mph	-0.4035	Andrew	basketball	1612	Tony	284 m/s	-690	1291	-1469	-0.2496	0.6236	Computer Science	489	0.0466
+3	-213 mph	-0.2997	Andrew	soccer	567	Tony	1221 m/s	769	744	775	1.2333	2.1583	Natural Language Processing	996	
+0	-147 mph	0.4039	Lise	badminton	727	Eriq	2109 m/s	665	619	-1626	1.0452	0.1328	Statistics	-1008	0.6573
+0	-1248 mph	-0.3104	Lise	motor sports	697	Eriq	2402 m/s	-190	1317	124	0.5818	1.1639	Statistics	1033	-0.0297
+4	784 mph	0.6597	Chris	volleyball	607	Vani	725 m/s	-89	1682	-1557	-0.7833	1.9645	Computer Engineering	-684	1.2253
+3	-19 mph	-0.3717	Andrew	soccer	1584	Tony	34 m/s	412	166	2022	0.5124	1.423	Natural Language Processing	1084	0.8277
+2	427 mph	0.7595	Reilly	track & field	424	Vani	-329 m/s	162	-709	1261	0.1705	0.74	Applied Mathematics	-766	1.1527
+6	804 mph	0.8856	Tony	ice hockey	2133	Chris	1459 m/s	1084	1893	-114	-1.4121	0.6999	Computer Game Design	1451	0.313
+2	571 mph	0.3603	Reilly	track & field	972	Reilly	1142 m/s	202	622	-1099	0.1354	1.5358	Computational Media	1208	1.5649
+4	1043 mph	0.966	Chris	volleyball	245	vANI	243 m/s	517	1348	-1839	0.5179	1.0657	Computer Engineering	1414	-1.2836
+0	-1465 mph	0.736	Lise	motor sports	715	Eriq	777 m/s	24	-50	120	-0.4943	-0.711	Electrical Engineering	1240	1.5628
+4	1036 mph	1.7598	Chris	boxing	471	Vani	500 m/s	-32	47	1739	-0.6274	0.266	Technology and Information Management	1734	0.8286
+2	216 mph	2.6882	Vani	basketball	214	Reilly	1078 m/s	1322	106	597	0.6441	0.9393	Applied Mathematics	1519	1.8853
+5	672 mph	0.5176	Eriq	running	-282	Sam	-1451 m/s	-644	1033	868	-0.5887	-0.4663	Biotechnology	-82	-1.1358
+0	150 mph	-0.7763	Lise	badminton	1950	Michael	459 m/s	1187	175	1716	0.3202	1.2139	Electrical Engineering	2514	1.0459
+5	563 mph	0.1358	Michael	running	624	Sam	1007 m/s	84	1027	833	-0.193	0.2155	Biotechnology	-414	0.2072
+6	486 mph	1.0811	Tony	ice hockey	-228	Fabrice	2493 m/s	-498	1453	27	-1.9032	1.171	Computer Game Design	243	1.1
+6	1538 mph	0.4026	tONY	ice hockey	336	Fabrice	666 m/s	480	1651	1917	-0.2777	1.0904	Computer Game Design	320	1.687
+0	1143 mph	-0.2696	Lise	badminton	-411	Michael	1701 m/s	1014	525	705	0.2685	1.3468	Statistics	1821	0.6452
+5	-183 mph	-0.5842	Eriq	running	36	Sam	435 m/s	-1538	132	-410	0.1645	-0.4052	Biotechnology	1043	0.7904
+3	590 mph	-0.108	Andrew	soccer	1115	Tony	692 m/s	730	1288	-866	-0.4193	1.3938	Natural Language Processing	2175	0.0478
+1	-72 mph	-0.1028	Fabrice	baseball	-417	Andrew	503 m/s	-1107	50	1425	0.6298	-0.1008	Data Science	1418	0.029
+1	-208 mph	0.92	Fabrice	baseball	5	Andrew	-33 m/s	-585	-69	268	1.3574	0.8297	Bioinformatics	1083	1.1424
+4	1777 mph	0.6393	Chris	Volleyball	2342	Vani	-329 m/s	1748	1421	619	-0.5488	1.3125	Robotics Engineering	-217	N/A
+2	12 mph	2.082	Reilly	track & field	843	Lise	1081 m/s	-41	597	4	0.7149	1.581	Data Science	2208	0.8111
+6	1308 mph	1.5242	Tony	running	1675	Chris	3020 m/s	2768	889	-1997	0.1269	1.3145	Computer Game Design	1471	-0.5357
+4	905 mph	0.0796	Lise	volleyball	699	Vani	1314 m/s	568	39	782	0.6458	1.1175	Computer Engineering	555	1.364
+0	-165 mph	-0.2551	Lise	MOTOR SPORTS	820	Eriq	1854 m/s	487	359	-211	1.719	1.5822	Electrical Engineering	-327	-1.2114
+1	-233 mph	-1.0319	Fabrice	baseball	878	Andrew	224 m/s	1535	850	743	2.485	0.901	Bioinformatics	-1246	1.2883
+7	NULL	0.1945	Vani	tennis	825	Inan	1347 m/s	-11	-637	-1190	0.6843	0.929	Computational Media	835	2.0469
+1	1177 mph	-0.039	Fabrice	baseball	944	Andrew	-511 m/s	709	-41	2554	1.6408	0.5464	Biotechnology	1321	-0.555
+6	1822 mph	0.7006	Tony	golf	1077	Chris	845 m/s	833	1478	816	1.8654	-0.7449	cOMPUTER gAME dESIGN	175	-0.1779
+4	-852 mph	1.6113	Chris	volleyball	1438	Vani	541 m/s	1273	1943	-956	-0.8501	1.5891	Computer Engineering	982	1.9389
+3	961 mph	2.7046	Andrew	soccer	743	Tony	403 m/s	-864	1285	-17	-0.2948	0.5298	Computer Science	-415	0.3234
+0	227 mph	0.5401	Lise	badminton	-542	Eriq	324 m/s	997	-156	3139	0.1311	-0.378	statistics	453	-0.325
+1	434 mph	-0.1003	Fabrice	baseball	-594	Andrew	1120 m/s	1073	318	-43	1.0214	-0.9345	Bioinformatics	632	0.3048
+7	-231 mph	-0.8104	Inan	basketball	42	Inan	-228 m/s	1186	591	14	0.7314	0.8611	Computational Media	472	0.5678
+2	1491 mph	0.9569	Vani	track & field	-443	Reilly	1057 m/s	-133	1260	690	-0.6248	0.4779	Data Science	1613	0.8363
+7	-57 mph	-0.7929	Eriq	basketball	45	iNAN	156 m/s	-298	-381	1403	-0.9529	0.0698	Computational Media	725	2.2534
+3	-878 mph	-0.0855	Andrew	soccer	382	Tony	NULL	-506	1625	293	1.218	1.2463	Natural Language Processing	1325	-0.6576
+0	-420 mph	-0.4343	Inan	running	909	Michael	794 m/s	1137	309	503	0.6412	1.1681	Statistics	2142	-0.0608
+4	440 mph	0.3769	Chris	volleyball	600	Vani	1041 m/s	1774	1524	2525	-0.0113	-0.7505	Computer Engineering	667	-0.2052
+3	-19 mph	-0.5075	Andrew	soccer	1491	Tony	327 m/s	-758	1346	1604	-1.0878	1.3939	Natural Language Processing	76	0.3786
+0	856 mph	1.6445	Lise	motor sports	1402	Eriq	641 m/s	1375	468	-434	-1.9284	-0.227	Computational Media	1440	-0.1947
+7	587 mph	0.4156	Inan	tennis	-596	Inan	205 m/s	389	-828	-1114	0.91	0.9454	Computational Media	1242	-0.5148
+4	925 mph	2.4488	Chris	boxing	1469	Vani	-332 m/s	833	960	650	-0.4112	3.2964	Bioinformatics	58	0.3876
+4	-182 mph	1.0096	Chris	ice hockey	1424	Vani	-559 m/s	495	719	2347	-0.9029	-0.2853	Robotics Engineering	-409	-0.0237
+1	750 mph	0.5856	Fabrice	baseball	176	Andrew	557 m/s	1180	496	-813	-0.4843	0.8358		2519	-0.0226
+1	257 mph	-0.734	Fabrice	baseball	659	Andrew	1651 m/s	811	2017	480	0.4462	-0.4012	Bioinformatics	-506	1.0269
+0	-131 mph	1.1197	Lise	motor sports	NULL	Eriq	566 m/s	-913	-91	-753	0.342	0.8768	Bioengineering	1205	0.5458
+5	705 mph	0.0222	Sam	running	590	SAM	-277 m/s	612	517	1409	-0.8113	1.2764	Biotechnology	192	-0.3758
+7	-460 mph	0.2763	Inan	tennis	1309	Inan	440 m/s	1325	-631	2212	0.4794	0.3247	Computational Media	1019	0.7672
+1	-221 mph	0.3606	Vani	track & field	303	Andrew	1191 m/s	1306	824	1695	0.6187	1.4828	Bioinformatics	1279	1.1272
+4	787 mph	0.6006	Chris	volleyball	1944	Vani	1308 m/s	1181	868	439	0.5019	1.3785	Computer Engineering	-18	1.5105
+2	985 mph	0.0233	Reilly	track & field	-214	Lise	590 m/s	767	461	40	0.4485	0.646	Applied Mathematics	-281	0.8913
+4	341 mph	0.9028	Chris	volleyball	-1378	Vani	-712 m/s	269	934	1517	0.5652	2.4228	Robotics Engineering	-463	0.912
+0	341 mph	-0.6847	Lise	motor sports	-103	Eriq	980 m/s	1054	-513	-1677	None	1.5849	Electrical Engineering	1675	-0.3726
+5	249 mph	0.5445	Eriq	football	50	Sam	662 m/s	442	-236	656	-0.3641	0.935	Biotechnology	985	-0.2855
+4	1168 mph	1.013	Chris	boxing	998	Vani	3118 m/s	1581	-81	628	0.6543	0.4774	Robotics Engineering	520	-0.987
+2	710 mph	0.7457	Reilly	track & field	-807	Lise	109 m/s	2286	985	1259	NULL	0.9479	Applied Mathematics	660	0.2107
+0	1404 mph	1.3739	Lise	motor sports	1155	Michael	639 m/s	-347	-859	-220	1.7801	-0.0766	Bioengineering	-21	-0.4684
+0	-185 mph	0.3965	Lise	badminton	1781	Eriq	1185 m/s	425	582	760	1.5025	0.5663	STATISTICS	-683	0.3566
+2	1853 mph	1.3716	Reilly	track & field	182	Reilly	765 m/s	1618	414	76	0.8935	-0.0528	Data Science	2783	-0.0769
+0	285 mph	0.7167	Lise	badminton	1850	Michael	838 m/s	1601	888	1757	0.4501	1.0505	Statistics	858	-0.0164
+5	333 mph	0.139	Sam	running	1044	Inan	2383 m/s	157	-275	-221	-1.0138	-0.3221	Biotechnology	-305	-0.5606
+7	80 mph	0.6114	Inan	TENNIS	66	Inan	1420 m/s	1438	905	320	1.1716	-0.0658	Biotechnology	322	-0.2672
+1	261 mph	-1.0253	Fabrice	baseball	44	Andrew	-88 m/s	1048	-671	386	1.6857	1.0338	Bioinformatics	-788	-0.6115
+1	-96 mph	0.0317	Fabrice	baseball	272	Andrew	-128 m/s	216	1350	1014	0.3082	1.3148	Bioinformatics	321	0.6243
+3	626 mph	-0.9494	Andrew	tennis	942	Tony	1146 m/s	-682	1120	576	-0.8912	1.0145	Natural Language Processing	2249	0.7144
+3	-628 mph	-0.3132	Andrew	soccer	1711	Tony	1147 m/s	580	1382	447	2.0447	1.358	Natural Language Processing	421	0.1846
+5	-608 mph	-0.1828	Andrew	running	648	Sam	1950 m/s	1601	-319	-970	-0.0222	2.1676	Bioinformatics	42	0.3833
+4	2534 mph	1.8265	Chris	badminton	556	Vani	755 m/s	-175	1	2416	1.8559	0.222	Robotics Engineering	-1475	0.8931
+2	492 mph	0.5193	Andrew	track & field	-737	Reilly	1145 m/s	1886	1626	-48	-0.1006	-0.2286	Applied Mathematics	1275	0.1097
+1	135 mph	-0.2915	Fabrice	baseball	930	Andrew	856 m/s	444	467	413	0.367	-0.1681	Bioinformatics	-1425	-0.5344
+3	562 mph	1.2203	Andrew	basketball	89	Tony	2376 m/s	-195	133	1573	-0.3232	0.7994	Bioinformatics	584	0.9775
+5	310 mph	0.7015	Michael	boxing	534	Sam	636 m/s	1582	-155	366	0.5029	0.5018	Computational Media	825	0.196
+2	743 mph	1.4201	Vani	track & field	505	Reilly	265 m/s	569	1126	743	-0.3531	0.4533	Applied Mathematics	1517	1.032
+1	682 mph	0.0532	Fabrice	baseball	581	Andrew	916 m/s	1460	752	-281	0.7246	0.4619	Bioinformatics	283	-0.4539
+0	502 mph	-0.4098	Lise	motor sports	1544	Eriq	1501 m/s	613	-215	167	0.317	-0.2698	Statistics	498	0.9377
+5	730 mph	0.6515	Michael	running	1113	NULL	107 m/s	-1302	177	1285	-1.4573	2.1224	Biotechnology	1268	0.7164
+5	823 mph	-0.4055	Eriq	football	8	Sam	990 m/s	863	-104	582	-0.2968	0.4532	Biotechnology	713	-1.0147
+1	1291 mph	0.5776	Fabrice	baseball	-660	Andrew	-3 m/s	172	559	1316	2.0098	1.4822	Bioinformatics	2948	1.071
+2	1824 mph	1.0462	Reilly	track & field	-654	Reilly	2238 m/s	-1395	-4	-938	0.0061	-0.359	Data Science	-925	2.3999
+0	-45 mph	0.7107	Lise	motor sports	550	Eriq	707 m/s	1555	150	628	1.0689	0.4907	Biotechnology	1278	-0.6895
+5	-109 mph	0.2565	Sam	running	1414	Sam	2088 m/s	1679	444	394	1.0107	0.1502	Biotechnology	1191	-0.9082
+0	618 mph	0.4941	Lise	badminton	978	Eriq	28 m/s	816	693	711	1.4973	1.3252	Statistics	52	-0.0832
+0		0.0806	Lise	motor sports	984	Michael	830 m/s	234	-178	-1311	0.4192	0.9257	Bioengineering	1647	0.8096
+0	999 mph	-0.1796	Lise	badminton	-630	Eriq	193 m/s	1500	-195	-679	2.6535	0.5303	Electrical Engineering	1009	1.9692
+6	470 mph	0.4754	Tony	ice hockey	1205	Chris	503 m/s	-128	849	2018	1.1497	0.7381	Computer Game Design	1385	0.1556
+7	-88 mph	0.4028	Inan	tennis	1077	Inan	1145 m/s	111	871	1184	-0.2368	-0.3077	Computational Media	640	0.3325
+1	326 mph	-0.432	Fabrice	baseball	749	Andrew	1172 m/s	271	881	-9	-0.8162	1.123	Bioinformatics	156	0.0197
+5	849 mph	1.0858	Sam	football	1345	Sam	531 m/s	1153	-424	378	-0.724	-1.2992	Biotechnology	-320	1.4618
+3	920 mph	-0.6086	Andrew	soccer	-386	Reilly	1260 m/s	897	328	-409	0.6215	0.8396	Bioinformatics	447	-0.1561
+0	-1374 mph	0.5269	Lise	MOTOR SPORTS	-90	Eriq	-497 m/s	419	942	956	1.6191	1.033	Bioengineering	316	-0.1751
+7	857 mph	-0.1438	Inan	tennis	1278	Inan	623 m/s	326	1278	1017	0.44	1.4884	Computational Media	-558	-0.4008
+2	184 mph	1.0329	Vani	track & field	1437	Lise	1304 m/s	878	469	-1497	-0.5279	0.2625	Applied Mathematics	1770	0.2922
+4	471 mph	0.8361	Chris	boxing	-331	Vani	443 m/s	1055	311	956	-0.295	0.8588	Robotics Engineering	148	0.5737
+6	1594 mph	0.9304	Tony	badminton	487	Fabrice	1292 m/s	444	1271	-521	1.1923	0.468	Computer Game Design	1665	1.633
+3	-56 mph	0.1215	Andrew	soccer	1446	Tony	413 m/s	1938	1795	951	0.3543	1.4671	Biotechnology	437	1.1875
+5	N/A	-0.4002	Michael	running	-250	Sam	-305 m/s	738	316	2073	0.6026	0.8445	Biotechnology	85	1.0643
+1	620 mph	1.0243	Fabrice	baseball	-393	Andrew	-1280 m/s	-144	652	112	0.783	0.4117	Bioinformatics	136	0.7194
+1	-282 mph	0.4384	Tony	baseball	659	Andrew	245 m/s	1933	534	-107	0.5322	1.3891	Bioinformatics	-564	-0.9376
+3	-358 mph	-0.3749	Andrew	soccer	2071	Tony	1444 m/s	-933	1149	774	-0.6318	0.5126	Computer Science	2554	0.5847
+3	384 mph	-0.232	N/A	volleyball	688	Tony	-429 m/s	238	839	-940	-0.957	1.6306	Computer Science	1116	1.7936
+0	682 mph	1.0618	Lise	badminton	1232	Eriq	1697 m/s	?	-312	629	2.3617	0.82	Statistics	-285	-0.0236
+2	126 mph	1.6221	Reilly	track & field	147	Lise	2238 m/s	1646	1379	-358	-1.6799	1.1127	Applied Mathematics	-651	1.4706
+2	770 mph	0.8233	Reilly	track & field	89	Lise	2935 m/s	2086	37	1651	-1.4379	1.5324	Data Science	-693	0.2227
+5	-626 mph	-0.2635	Michael	football	1329	Sam	959 m/s	-1021	376	-144	-0.8332	2.085	Biotechnology	-1383	0.4069
+3	-1907 mph	-0.9734	Andrew	soccer	-402	Tony	785 m/s	-1255	814	1071	1.1073	-0.235	Computer Science	1272	1.7186
+1	2113 mph	-0.127	Lise	baseball	-742	Andrew	None	2219	201	1604	0.8396	1.4191	Bioinformatics	1510	0.8331
+0	721 mph	0.279	Lise	badminton	934	Eriq	155 m/s	-442	208	-1143	1.2112	0.1881	Bioengineering	796	0.2129
+5	298 mph	0.8891	Michael	running	1406	Sam	2013 m/s	1257	?	-607	0.4476	0.9747	Biotechnology	2303	1.2989
+6	1502 mph	0.3213	Sam	golf	-26	Chris	807 m/s	-384	1096	703	0.4512	1.6259	Computer Game Design	1247	0.7379
+2	1726 mph	-0.0288	Vani	baseball	732	Reilly	?	1472	106	-799	0.0742	1.6421	Applied Mathematics	1049	0.925
+3	45 mph	-0.498	Andrew	soccer	-425	Fabrice	770 m/s	606	1124	234	-0.4355	1.4586	Computer Science	-196	0.4199
+1	-448 mph	0.929	fabrice	baseball	-351	Andrew	524 m/s	1828	193	203	-0.0636	-0.1641	Bioinformatics	997	-0.5926
+4	-61 mph	-0.2306	Chris	volleyball	-273	Vani	-1180 m/s	125	911	888	2.0576	0.8191	Robotics Engineering	-642	0.4111
+1	145 mph	0.362	Fabrice	baseball	-915	Andrew	469 m/s	190	498	-329	-0.0128	2.7761	Bioinformatics	None	0.2349
+0	1266 mph	0.5538	Lise	badminton	1035	Michael	1028 m/s	1099	1304	-590	None	-0.5187	Computational Media	1037	0.6156
+1	669 mph	-0.6666	fABRICE	baseball	1046	Andrew	27 m/s	197	-512	188	1.097	-0.2064	Bioinformatics	-517	0.1656
+0	234 mph	-0.0808	Lise	soccer	1133	Michael	-261 m/s	-1492	-1019	1047	0.8477	-0.5861	Bioinformatics	63	1.3878
+1	1219 mph	-0.3201	Fabrice	baseball	725	Andrew	443 m/s	491	594	623	1.5332	0.7205	Bioinformatics	1030	-0.2824
+0	2315 mph	1.3259	Lise	BADMINTON	223	Michael	-504 m/s	933	96	752	0.0171	-1.2183	Electrical Engineering	1036	-0.7412
+0	873 mph	0.4387	LISE	motor sports	2033	Tony	-262 m/s	-38	589	413	1.4344	0.4836	Bioengineering	-454	0.8319
+4	-444 mph	0.5288	Chris	boxing	216	Vani	654 m/s	484	361	883	-1.9496	2.5168	Technology and Information Management	-785	0.8423
+2	1376 mph	2.1862	Vani	track & field	-573	Fabrice	1309 m/s	1151	1257	-500	-0.0896	0.1779	Applied Mathematics	1346	-0.7162
+2	1692 mph	0.9639	Reilly	tennis	-1249	Reilly	1199 m/s	442	534	-235	NULL	1.4986	Data Science	-918	1.4865
+6	837 mph	1.408	Tony	golf	894	Chris	?	263	272	450	1.7974	0.5566	Computer Game Design	1585	1.5883
+6	2661 mph	0.8739	Tony	golf	199	Chris	-175 m/s	1189	2052	264	2.3844	1.0984	Human Computer Interaction	853	1.2195
+6	761 mph	1.594	Tony	golf	1122	Tony	2813 m/s	583	1295	1177	1.4151	1.9565	Computer Game Design	204	-0.4139
+3	-429 mph	-0.0962	Andrew	soccer	433	Tony	-180 m/s	-624	275	439	0.5508	0.6462	Natural Language Processing	430	0.7441
+6	1496 mph	1.7915	Tony	ice hockey	1026	Chris	2426 m/s	314	1889	-1725	0.4382	-0.349	Computer Game Design	239	0.5282
+3	-346 mph	-0.5192	andrew	soccer	208	Tony	995 m/s	-956	1115	-709	N/A	-0.0361	Natural Language Processing	535	1.5913
+2	150 mph	-0.2962	Vani	track & field	1399	NULL	-678 m/s	13	1921	-340	0.6955	0.7701	APPLIED MATHEMATICS	1193	0.9657
+0	-1645 mph	-0.6406	Lise	motor sports	677	Michael	1608 m/s	867	337	1694	1.3281	0.5677	Technology and Information Management	160	0.1355
+1	483 mph	0.1582	Fabrice	basketball	-355	Andrew	299 m/s	610	664	-150	1.4998	1.8882	Bioinformatics	167	0.9683
+0	-30 mph	0.0551	Inan	badminton	-193	Michael	39 m/s	100	-767	-344	0.0968	-0.4612	Statistics	121	1.5265
+5	284 mph	1.2632	Sam	football	1862	Sam	1540 m/s	557	1458	-475	-1.3681	0.1531	Biotechnology	-164	-0.2244
+3	83 mph	-0.3019	Andrew	soccer	-894	Tony	1610 m/s	832	501	345	1.1499	2.2163	Applied Mathematics	-984	-0.6018
+2	796 mph	1.495	Vani	track & field	-256	Reilly	467 m/s	71	357	-44	-1.0627	0.1928	Applied Mathematics	-480	1.4896
+0	245 mph	0.1608	Lise	badminton	1015	Eriq	3504 m/s	1509	241	-838	1.2429	0.6889	Statistics	1389	-0.2287
+6	1414 mph	0.5701	Tony	golf	910	Chris	-206 m/s	-68	1821	189	0.4662	1.557	Human Computer Interaction	1016	0.2293
+2	935 mph	1.5918	Reilly	baseball	-346	Reilly	1019 m/s	1726	338	-312	0.9531	-0.0585	Applied Mathematics	2066	0.2849
+7	1642 mph	0.9485	Inan	basketball	471	Inan	859 m/s	1715	572	-239	-0.1038	0.3257	Computational Media	918	1.2453
+4	-306 mph	0.8753	Chris	volleyball	2014	Vani	-744 m/s	187	1186	-506	-0.5241	0.6476	Computer Engineering	2103	1.0697
+6	435 mph	1.1084	Tony	ice hockey	1714	Fabrice	742 m/s	11	671	1933	2.0798	-0.564	Human Computer Interaction	-360	-0.5562
+0	1931 mph	-1.3113	Lise	motor sports	961	Eriq	2681 m/s	-387	-158	-1304	0.1399		Electrical Engineering	460	-0.9841
+7	605 mph	1.4315	Inan	tennis	989	Inan	2298 m/s	563	612	453	1.9136	1.5311	Robotics Engineering	1091	0.5694
+2	-929 mph	-0.8158	Vani	track & field	-74	Reilly	931 m/s	1638	1491	879	-0.4463	0.3334	Applied Mathematics	945	0.3198
+7	1145 mph	-0.0165	Inan	basketball	916	Inan	375 m/s	-445	-215	616	-1.4377	-1.4118	Statistics	2086	1.0519
+6	1069 mph	0.3074	Tony	ice hockey	-268	Sam	1363 m/s	-445	817	-186	0.8049	0.3592	Computer Game Design	297	0.6779
+5	-378 mph	0.6721	Sam	football	591	Fabrice	1807 m/s	818	-156	738	-0.7395	-0.4222	Electrical Engineering	-719	0.0178
+7	-38 mph	-0.6328	Inan	tennis	424	Inan	2173 m/s	3649	511	1591	-0.9436	-0.9939	Computational Media	168	0.1905
+7	533 mph	-0.2595	Inan	basketball	1883	Inan	1526 m/s	618	-217	429	3.2091	0.0422	cOMPUTATIONAL mEDIA	39	0.7657
+7	-774 mph	1.1067	Chris	tennis	92	Inan	654 m/s	1373	621	389	1.3881	0.3086	Computational Media	-156	1.4789
+4	-51 mph	0.788	Chris	volleyball	1628	Vani	-659 m/s	235	936	-705	-1.1127	0.2602	Robotics Engineering	693	0.4196
+6	1856 mph	1.2535	Tony	ice hockey	2103	Fabrice	151 m/s	-761	1269	740	None	0.64	Human Computer Interaction	18	0.1894
+7	875 mph	-0.0054	Inan	basketball	681	Inan	646 m/s	82	-21	-363	N/A	-0.1019	Computational Media	929	0.6357
+4	-91 mph	1.0532	Chris	boxing	-1372	Inan	684 m/s	494	351	794	-0.1338	0.8358	Robotics Engineering	537	0.5693
+1	-274 mph	-1.1231	Fabrice	baseball	740	Michael	827 m/s	979	273	839	2.4233	0.7385	Bioinformatics	-1712	0.4101
+2	961 mph	0.9363	Vani	track & field	545	Reilly	458 m/s	1273	1959	-1391	-2.6485	0.8881	Applied Mathematics	3	0.8891
+1	1173 mph	1.2119	Fabrice	baseball	748	Andrew	1565 m/s	1822	516	-346	1.1362	0.9907	Bioinformatics	271	0.5341
+4	1207 mph	1.6145	Chris	boxing	-214	Vani	-985 m/s	394	2230	778	-0.7152	2.0461	Robotics Engineering	1103	-0.328
+2	1132 mph	1.012	Sam	track & field	447	Reilly	825 m/s	-196	1835	1367	0.9388	1.8234	Technology and Information Management	-200	2.3795
+3	673 mph	-1.1253	Andrew	soccer	582	Tony	216 m/s	1110	373	-654	0.6332	-0.5946	Natural Language Processing	2178	-1.0279
+6	1423 mph	1.1937	Inan	ice hockey	711	Fabrice	1060 m/s	NULL	668	-84	1.7447	-1.6678	games and playable media	-1135	-0.3287
+3	531 mph	0.1854	Andrew	running	2376	Tony	NULL	-1720	1448	1121	1.6038	0.1415	Computer Science	1275	0.9876
+4	-1595 mph	0.948	Chris	volleyball	1800	Vani	24 m/s	NULL	280	627	-0.1792	2.5217	Robotics Engineering	860	-0.0615
+1	-125 mph	-0.2668	Fabrice	volleyball	1	Andrew	-471 m/s	333	17	-213	0.3637	2.0647	Bioinformatics	-397	-0.3059
+5	-1270 mph	0.132	Michael	football	81	Sam	779 m/s	132	-264	799	-1.4976	2.0154	Biotechnology	536	0.0092
+3	657 mph	-0.0588	Andrew	soccer	1061	Tony	-168 m/s	422	1103	551	0.5925	-0.2464	NATURAL LANGUAGE PROCESSING	377	0.33
+6	730 mph	1.4989	Tony	golf	987	Sam	2978 m/s	-717	1296	-488	3.7319	-0.1958	Human Computer Interaction	298	1.5075
+6	140 mph	0.5562	Tony	tennis	654	Chris	-154 m/s	-815	564	1113	1.2135	0.6233	Games and Playable Media	2058	1.0129
+7	-704 mph	-0.4572	Inan	tennis	1585	Inan	524 m/s	252	217	-393	0.111	-0.1793	computational media	2713	0.5033
+7	556 mph	0.1144	Inan	tennis	868	Inan	852 m/s	1721	-299	1375	-1.4674	-0.1726	Computational Media	-57	0.7431
+0	-489 mph	-0.0381	Lise	motor sports	982	Eriq	916 m/s	1105	-650	2435	-0.5628	1.2177	Bioengineering	1202	N/A
+7	560 mph	-0.5526	Inan	tennis	1011	Inan	1215 m/s	489	434	1270	0.0344	0.0822	Computer Science	909	-0.955
+6	-169 mph	1.0054	Tony	soccer	295	Chris	1504 m/s	2814	461	97	0.1645	-0.3621	Computer Game Design	-140	0.9938
+2	652 mph	1.8761	Vani	track & field	-1061	Lise	2850 m/s	607	1536	-1715	-1.6401	-1.0754	Applied Mathematics	714	2.8328
+1	462 mph	0.5109	Fabrice	boxing	125	Andrew	18 m/s	736	1310	-260	-0.0359	0.7463	Biotechnology	-850	0.004
+5	1331 mph	0.9598	Sam	football	2966	Sam	-447 m/s	116	243	958	-0.7605	0.7042	Biotechnology	-895	0.8853
+2	1141 mph	2.127	Vani	track & field	957	Reilly	39 m/s	-296	828	N/A	-1.3624	1.3183	Applied Mathematics	-705	0.9781
+7	538 mph	0.836	Inan	NULL	100	Inan	209 m/s	1260	985	1750	1.4075	1.3325	Bioinformatics	-115	0.9369
+4	1470 mph	0.5111	chris	boxing	1153	Vani	-720 m/s	50	52	244	0.2254	0.5728	Technology and Information Management	-44	0.1061
+6	280 mph	2.0234	Tony	golf	1728	Chris	130 m/s	233	874	791	-0.2502	0.0635	Games and Playable Media	120	0.3737
+1	794 mph	0.5261	Reilly	baseball	845	Andrew	N/A	1332	192	1268	1.1672	2.2951	Bioinformatics	-639	-0.4006
+0	1314 mph	0.3234	lISE	badminton	293	Michael	2038 m/s	1515	13	524	0.3311	1.7799	Statistics	429	0.1507
+3	720 mph	0.4382	Tony	soccer	962	Tony	1498 m/s	891	1147	670	-0.3314	2.0896	Natural Language Processing	?	-0.1028
+0	-603 mph	0.5806	Lise	badminton	554	mICHAEL	-350 m/s	688	338	2667	-1.4684	0.4218	Electrical Engineering	-305	1.0473
+4	613 mph	0.9737	Chris	volleyball	1306	Vani	-548 m/s	103	1871	1703	?	0.9062	Technology and Information Management	-1050	0.6345
+3	-723 mph	0.6736	Andrew	soccer	1031	Tony	1875 m/s	-66	554	351	-0.3773	1.3515	Computer Science	678	0.6349
+7	949 mph	0.5487	Inan	basketball	635	INAN	1882 m/s	2240	492	1136	-0.6279	-0.0543	Electrical Engineering	332	1.0943
+7	1233 mph	1.1137	Inan	tennis	516	Inan	3116 m/s	1159	-593	-682	2.106	0.6517	Computational Media	1166	0.3749
+3	280 mph	-0.2028	Tony	soccer	1891	Tony	-1345 m/s	60	198	878	-0.219	-0.554	computational media	173	0.7947
+4	963 mph	0.7227	Chris	boxing	1571	Vani	-156 m/s	-639	346	1248	-0.9098	-0.3076	Computer Engineering	955	0.2704
+1	274 mph	n/a	Fabrice	baseball	288	Andrew	-920 m/s	1997	-1114	-128	0.1063	0.1478	BIOINFORMATICS	32	0.2279
+4	191 mph	0.5599	Chris	boxing	681	N/A	64 m/s	-805	-897	1982	-0.3344	-0.1349	rOBOTICS eNGINEERING	130	0.6656
+2	662 mph	0.3453	Reilly	track & field	296	rEILLY	1703 m/s	1245	374	394	-0.7387	1.9443	Applied Mathematics	-450	0.0506
+7	-78 mph	1.2237	Inan	basketball	1962	Michael	1564 m/s	1345	428	396	2.1629	0.4164	Computational Media	588	0.0122
+6	505 mph	2.5721	Tony	ice hockey	1341	Fabrice	210 m/s	921	1398	-443	1.7529	1.8512	Human Computer Interaction	694	-0.1732
+4	1749 mph	1.0334	Chris	boxing	957	Vani	-218 m/s	-748	196	1622	-1.3113	2.3386	Technology and Information Management	1801	-0.1521
+1	2139 mph	-0.0589	Fabrice	baseball	-988	Andrew	935 m/s	980	-671	155	0.4916	1.3364	Computer Science	130	1.1068
+1	314 mph	-0.3524	Fabrice	baseball	-646	Andrew	724 m/s	322	411	461	-1.0008	1.8479	Bioinformatics	564	0.8244
+6	1525 mph		Tony	golf	-171	Chris	1325 m/s	1105	594	1446	0.1012	-0.8027	Human Computer Interaction	-839	0.2882
+2	1807 mph	1.9253	Vani	track & field	-496	Lise	180 m/s	798	395	-2516	0.2698	0.7163	Technology and Information Management	407	-1.2494
+6	854 mph	0.6561	Tony	golf	-249	Chris	361 m/s	442	None	-229	0.3293	1.0543	Games and Playable Media	-213	-0.4426
+6	62 mph	-0.7818	Tony	ICE HOCKEY		Fabrice	1250 m/s	1134	699	-1603	0.41	1.4083	Computer Game Design	1843	-0.9606
+0	631 mph	0.4037	Lise	badminton	407	Michael	-56 m/s	1519	-107	760	1.3091	1.2012	Data Science	1068	0.5824
+5	-850 mph	0.0539	Michael	volleyball	1008	Sam	2572 m/s	1116	-721	361	-0.5665	1.2421	Biotechnology	-458	0.2921
+7	-243 mph	0.0144	Inan	basketball	345	Inan	1085 m/s	1908	-83	335	0.1126	0.55	Computational Media	-372	0.1301
+2	985 mph	0.5283	Vani	track & field	-236	Reilly	1692 m/s	1054	943	116	-0.8186	2.6104	Applied Mathematics	634	0.9319
+0	313 mph	?	Lise	motor sports	605	Eriq	527 m/s	565	-68	546	-0.4332	-0.2913	Statistics	1212	0.6472
+6	272 mph	1.9583	Tony	golf	994	Chris	-1157 m/s	-1280	-941	701	0.167	1.6332	Computer Game Design	408	1.0807
+2	1794 mph	0.6757	Vani	track & field	212	Lise	1641 m/s	1436	1454	-44	0.7156	3.2006	Applied Mathematics	-1314	1.6497
+1	857 mph	0.2823	Fabrice	baseball	635	Sam	218 m/s	683	588	1099	1.2847	1.0578	Bioinformatics	312	-0.0774
+0	-6 mph	0.1657	Lise	motor sports	466	Michael	1914 m/s	2174	919	804	1.9252	-0.416	Bioengineering	None	0.6955
+5	1022 mph	1.1249	Michael	football	1956	Sam	1274 m/s	2780	1600	-1089	0.6309	1.4957	Biotechnology	45	0.5903
+1	640 mph	0.9539	Fabrice	baseball	142	Andrew	-1001 m/s	81	1496	1472	0.7555	1.3697	BIOINFORMATICS	0	-0.2744
+6	1067 mph	0.093	Tony	golf	414	Chris	1768 m/s	92	2949	-283	2.1433	1.0745	Human Computer Interaction	301	N/A
+4	890 mph	0.895	Chris	volleyball	442	Vani	-81 m/s	-66	670	-738	-0.3471	0.8994	Robotics Engineering	-8	2.4048
+1	1618 mph	0.167	Fabrice	baseball	-5	Andrew	-427 m/s	698	1009	-171	-0.7297	0.91	Computer Engineering	1132	-0.5763
+1	876 mph	-0.5873	Fabrice	baseball	-559	Andrew	-1330 m/s	1780	666	1093	2.2928	0.1931	Bioinformatics	108	1.041
+3	-955 mph	0.3059	Andrew	soccer	250	Tony	68 m/s	-187	939	N/A	1.041	-0.2793	Computer Science	696	1.5862
+3	737 mph	0.3811	Andrew	soccer	373	TONY	1477 m/s	-535	1517	961	1.2084	0.7486	Computer Science	711	0.2224
+5	732 mph	0.2034	Michael	running	528	Sam	780 m/s	-97	-742	296	-1.5552	0.4308	Biotechnology	495	-0.262
+0	-504 mph	-0.2812	Lise	badminton	1677	Michael	1019 m/s	209	564	-36	1.0416	-0.1016	electrical engineering	-148	0.6053
+1	-1527 mph	1.3072	Fabrice	baseball	1372	Vani	-469 m/s	1748	-203	339	1.212	1.9727	Bioinformatics	344	0.192
+6	1178 mph	-0.1739	Tony	golf	1072	Chris	332 m/s	1369	1788	-1860	0.8722	0.6017	Computer Game Design	522	0.4538
+7	1364 mph	0.0589	Inan	basketball	1069	Inan	139 m/s	860	623	1679	0.1353	0.7301	Computer Game Design	-1011	1.9193
+0	989 mph	-0.0849	Lise	motor sports	911	Michael	925 m/s	1669	463	414	0.2095	0.1895	Electrical Engineering	934	-0.5521
+6	-207 mph	1.1377	Tony	golf	1612	Fabrice	-705 m/s	645	779	-586	-0.934	-0.1358	Games and Playable Media	-235	0.5641
+1	531 mph	-0.6488	Fabrice	baseball	-1165	Andrew	354 m/s	1073	605	-2579	0.6969	-0.4591	bioinformatics	1326	-0.1822
+0	-1102 mph	-0.0241	Lise	badminton	427	Eriq	261 m/s	1685	n/a	1761	0.3038	-0.6348	Bioengineering	572	0.478
+5	-1402 mph	0.7267	Sam	running	1023	Sam	390 m/s	-608	330	1060	0.4567	1.3683	Biotechnology	400	1.5422
+3	1435 mph	-0.5518	Andrew	SOCCER	1869	Tony	441 m/s	258	1451	1621	0.1493	1.8095	Computer Science	731	n/a
+1	119 mph	-1.1662	Fabrice	soccer	804	Fabrice	324 m/s	-341	424	-603	0.5176	0.0292	Bioinformatics	263	0.6805
+6	1736 mph	1.4297	Tony	golf	743	Fabrice	-1063 m/s	-385	1029	-693	0.3335	0.4789	Computer Game Design	529	-0.2373
+2	1387 mph	0.4723	Reilly	track & field	-239	Inan	1092 m/s	2077	-404	N/A	-0.8424	2.1746	Data Science	1294	1.327
+5	1163 mph	0.7338	Eriq	football	1849	?	548 m/s	917	1249	-525	-0.3784	-0.1523	Biotechnology	398	0.4724
+7	260 mph	-0.0427	Lise	soccer	1393	Inan	1509 m/s	3598	-299	995	-0.2567	2.2845	Computational Media	364	0.9977
+2	223 mph	-0.2013	Vani	track & field	1014	Lise	305 m/s	955	794	1519	-0.5129	-0.1969	Bioinformatics	-357	0.909
+6	-1435 mph	1.2889	Tony	ice hockey	523	Fabrice	1752 m/s	None	1135	1788	2.1976	-0.9796	Bioinformatics	66	0.9282
+0	-128 mph	0.5665	Lise	badminton	1130	Eriq	204 m/s	1531	86	1922	0.5369	1.0785	Electrical Engineering	380	-0.235
+3	-522 mph	-0.1183	Andrew	soccer	565	Tony	1090 m/s	886	742	191	-0.3268	-0.3155	Natural Language Processing	2910	0.1444
+5	457 mph	-0.0106	Eriq	football	1129	Sam	1233 m/s	-99	481	310	-1.132	1.785	Biotechnology	1745	0.1528
+0	648 mph		Lise	badminton	283	Eriq	362 m/s	382	-445	750	-1.2106	1.1618	Bioengineering	-362	0.6176
+5	2 mph	-1.2377	Sam	football	875	Inan	-641 m/s	1178	-505	654	-0.4136	1.964	Biotechnology	-560	0.5071
+3	-89 mph	1.1504	Fabrice	soccer	2018	Tony	641 m/s	479	-497	894	0.3666	1.7025	Natural Language Processing	1365	1.1639
+7	-599 mph	0.6039	Inan	tennis	2446	Inan	-79 m/s	1169	None	1850	-0.4248	0.5495	Computational Media	990	-0.7858
+4	612 mph	0.2619	Chris	volleyball	1089	Vani	359 m/s	-71	440	-317	1.0253	-0.2209	Robotics Engineering	-1545	-0.2526
+4	1949 mph	0.442	Chris	boxing	-253	?	-864 m/s	718	1701	1848	0.1311	-0.0917	Computer Science	-357	0.1006
+2	-437 mph	0.4313	Vani	track & field	9	Reilly	875 m/s	2274	1231	79	0.4893	-0.8195	Data Science	-56	0.3767
+5	-618 mph	0.2981	Eriq	running	1364	Sam	1650 m/s	670	-195	836	2.3541	0.0643	biotechnology	775	-0.3534
+2	640 mph	1.6909	Reilly	track & field	1452	Reilly	555 m/s	1266	238	813	-0.0882	0.5817	Data Science	2206	0.5056
+7	-389 mph	-0.3343	Inan	basketball	967	Inan	-455 m/s	723	-100	1617	-0.0321	2.4856	Computational Media	1539	1.2964
+7	696 mph	0.5697	Inan	basketball	-480	Inan	1249 m/s	1373	973	430	0.1313	0.7576	Computational Media	794	-0.2113
+3	1034 mph	0.1304	Andrew	motor sports	732	Tony	177 m/s	983	1244	2127	-0.0631	0.7659	Natural Language Processing	214	-0.8452
+5	475 mph	-0.1337	Eriq	running	822	Sam	1953 m/s	-1291	547	692	1.4819	2.2744	Biotechnology	-2008	-0.5365
+4	-755 mph	1.1731	Chris	boxing	90	Vani	-740 m/s	413	1166	-111	0.2339	1.394	Computer Engineering	383	0.6392
+3	848 mph	-0.5849	Andrew	soccer	-302	Tony	279 m/s	-792	639	-84	0.3143	-0.5781	Computer Science	900	0.7621
+0	-308 mph	0.6701	Lise	badminton	-358	Eriq	92 m/s	1187	N/A	-524	2.2346	0.3874	Electrical Engineering	1456	0.445
+5	-501 mph	-0.5226	Fabrice	N/A	298	Sam	744 m/s	-67	-19	2291	-0.7455	0.8485	Biotechnology	163	0.7015
+1	507 mph	-0.4383	Fabrice	baseball	1185	Andrew	1832 m/s	-94	529	-408	1.1465	-1.4584	bioinformatics	1940	-0.6247
+0	-637 mph	0.3516	Lise	motor sports	1082	Vani	1810 m/s	2481	535	-1214	1.4653	-0.4929	Bioengineering	590	0.1612
+0	1463 mph	0.5684	Lise	badminton	772	Michael	524 m/s	535	-610	580	1.2485	-0.0868	Statistics	-334	-1.1204
+7	812 mph	0.0184	Inan	basketball	643	Inan	1264 m/s	801	832	220	1.3066	-1.1929	Computational Media	655	0.4166
+3	1377 mph	-0.1857	Fabrice	soccer	604	Tony	1672 m/s	221	1402	344	0.192	0.3928	Computer Science	1467	1.0461
+0	919 mph	-0.4676	Lise	motor sports	439	Michael	-304 m/s	1943	-30	1541	-0.9492	1.3083	Bioengineering	2731	-0.2692
+4	638 mph	1.1283	Chris	volleyball	1385	Vani	-310 m/s	-1099	1695	132	1.2123	0.875	Computer Engineering	-414	-0.0268
+2	-99 mph	0.9878	Reilly	track & field	248	Reilly	-181 m/s	123	1279	-1604	0.5909	0.5834	Data Science	472	-0.1949
+3	805 mph	0.8951	Andrew	soccer	2055	Tony	1663 m/s	-307	932	99	-0.6429	0.7415	Natural Language Processing	-359	1.0154
+2	532 mph	0.6972	Reilly	track & field	-624	Lise	-843 m/s	605	629	234	0.3563	-0.1766	Applied Mathematics	989	0.7084
+5	46 mph	-0.0599	Michael	running	1373	Sam	1312 m/s	1301	122	1029	-0.1748	2.2542	Computer Game Design	-998	-0.1066
+5	-1510 mph	0.3342	Michael	running	1407	Sam	1443 m/s	-676	546	2125	0.1563	0.6445	Biotechnology	-2024	0.1586
+7	-711 mph	0.3876	Inan	basketball	3063	Inan	910 m/s	1614	546	130	0.5976	-1.3725	Computational Media	1387	1.0641
+1	537 mph	0.6227	Fabrice	baseball	-537	Andrew	39 m/s	3008	881	-1205	-0.3641	1.5367	Computer Science	-1253	1.6456
+6	496 mph	0.6539	Tony	golf	554	Fabrice	729 m/s	2026	846	896	2.3401	0.5501	Games and Playable Media	831	NULL
+1	222 mph	0.4068	Vani	FOOTBALL	366	Sam	-214 m/s	1259	-293	1675	0.9102	-0.4089	?	1478	-0.2603
+3	1363 mph	-1.1215	Andrew	soccer	1246	Tony	846 m/s	-979	1015	1340	-0.0969	0.9869	Natural Language Processing	1311	-0.7305
+0	826 mph	-1.1629	Lise	motor sports	-2	Michael	1509 m/s	1457	227	783	1.3982	-0.5508	?	508	0.1369
+4	218 mph	0.3677	Chris	soccer	1349	Vani	268 m/s	-711	1714	759	-0.8742	1.0444	Robotics Engineering	200	-0.4731
+4	-26 mph	1.8486	Chris	boxing	1423	Vani	-519 m/s	-136	652	457	0.6723	1.9595	Computer Engineering	176	1.5452
+0	-69 mph	-1.0898	Lise	badminton	1195	Eriq	-335 m/s	1104	128	1404	1.541	0.3846	Electrical Engineering	844	-0.303
+5	-699 mph	-0.229	Michael	football	-580	Sam	2011 m/s	-660	-211	2416	-0.5268	1.2741	Biotechnology	95	-0.3583
+6	372 mph	1.4199	Tony	ice hockey	1246	Chris	1265 m/s	-740	143	1321		-0.7968	Computer Game Design	575	0.2563
+0	1285 mph	-0.6974	Lise	badminton	832	Eriq	96 m/s	3026	1352	-1089	0.3095	0.9718	Bioengineering	1815	-0.7178
+7	132 mph	-0.6333	Inan	basketball	1240	Inan	1235 m/s	208	-1701	-1153	-0.8774	0.294	Computational Media	1040	0.984
+1	406 mph	0.4084	Fabrice	baseball	756	Andrew	418 m/s	793	895	1351	1.8039	0.7787	BIOINFORMATICS	-661	1.3908
+2	1242 mph	0.2552	Reilly	track & field	-212	Lise	995 m/s	943	1412	-809	-1.7124	0.961	Applied Mathematics	806	1.4239
+2	1031 mph	1.4291	Reilly	track & field	-922	Reilly	1631 m/s	1997	1173	195	-0.3257	2.6718	Data Science	1198	0.8412
+4	122 mph	0.5172	Tony	boxing	1235	Vani	282 m/s	-2901	1376	731	0.2614	1.1677	Computer Engineering	156	0.194
+1	1182 mph	0.9107	Fabrice	baseball	402	Andrew	492 m/s	433	635	-344	0.4401	2.0698	Bioinformatics	-478	0.364
+1	848 mph	0.2439	Fabrice	baseball	678	Andrew	551 m/s	793	945	-130	-0.3164	0.939	Bioinformatics	427	-0.5827
+1	1169 mph	-0.1924	Fabrice	baseball	458	Andrew	-28 m/s	594	411	333	1.0199	2.0601	Bioinformatics	1019	-0.0337
+1	1477 mph	1.0144	Fabrice	BASEBALL	966	Inan	-955 m/s	821	411	670	1.0126	0.6142	Bioinformatics	-497	-0.4447
+4	84 mph	1.7466	iNAN	boxing	1426	Vani	-784 m/s	-58	-539	2148	1.0352	0.8098	Robotics Engineering	-194	0.4705
+4	511 mph	0.4977	Chris	volleyball	203	Vani	701 m/s	425	209	-32	0.2937	0.3346	Technology and Information Management	-170	-0.3744
+4	1074 mph	0.5471	Chris	VOLLEYBALL	684	Vani	37 m/s	750	1494	541	-1.8687	1.3186	Robotics Engineering	166	1.0721
+3	1237 mph	0.6662	Andrew	soccer	235	Tony	1194 m/s	260	1517	1554	-1.3879	0.3629	Natural Language Processing	-1798	1.2087
+3	2232 mph	0.5238	Andrew	soccer	1369	Tony	270 m/s	1987	792	3700	-1.5269	1.108	Computer Science	1060	1.494
+2	1627 mph	-0.0257	Reilly	track & field	-1057	Reilly	4772 m/s	-299	380	132	-0.0653	2.1672	Data Science	-626	0.866
+2	-207 mph	0.6741	Vani	track & field	-308	Reilly	-280 m/s	2686	499	1063	0.9622	1.4118	Data Science	603	0.2519
+5	-89 mph	0.5843	Andrew	running	-366	Sam	538 m/s	226	1017	2785	0.4616	1.0328	Biotechnology	260	0.2908
+2	1175 mph	0.6256	Vani	track & field	555	Lise	1269 m/s	768	1206	-2	0.4176	1.6792	Computer Game Design	220	0.9603
+3	1635 mph	0.3361	Andrew	soccer	1439	Tony	704 m/s	874	987	1978	0.3283	2.1605	Computer Science	-550	0.2813
+1	-134 mph	0.1023	Fabrice	baseball	-1687	Andrew	-536 m/s	1706	957	332	-0.9262	1.8372	Bioinformatics	1575	0.4276
+0	-440 mph	0.0418	Lise	badminton	1899	Eriq	792 m/s	1355	70	660	0.021	2.3606	Statistics	715	0.3725
+1	682 mph	0.0988	Fabrice	baseball	168	Andrew	-196 m/s	1575	852	302	2.39	0.7545	Bioinformatics	-798	0.8112
+2	1375 mph	0.7287	Reilly	track & field	982	Reilly	1136 m/s	1377	729	1115	-0.2105	1.1951	Computational Media	1339	0.0231
+5	1100 mph	1.2975	Michael	soccer	1542	Sam	429 m/s	-331	-267	-18	0.2086	-0.0352	Biotechnology	-428	1.4194
+0	1286 mph	0.9774	Lise	motor sports	142	Michael	2363 m/s	622	n/a	-38	1.0101	-0.4336	Electrical Engineering	791	-0.6174
+7	651 mph	0.2863	Inan	basketball	735	Inan	926 m/s	1076	47	178	-0.9259	-0.7454	Computational Media	2054	1.2897
+7	-1084 mph	-0.6113	Inan	basketball	1152	Inan	?	-257	219	-37	-0.4381	0.3954	Computational Media	168	0.513
+5	-468 mph	0.1059	Sam		-737	Sam	-434 m/s	1358	1350	144	0.1565	1.3016	Biotechnology	148	-0.2269
+5	623 mph	1.8439	MICHAEL	ice hockey	657	Sam	1159 m/s	160	955	-206	-0.4155	-0.3574	Biotechnology	-962	0.0802
+0	-1008 mph	0.104	Fabrice	motor sports	361	Michael	675 m/s	824	139	1369	1.4764	0.4359	Statistics	-623	0.5341
+4	571 mph	1.1368	Chris	volleyball	-589	Vani	-822 m/s	2138	1211	213	-0.4072	2.2105	Computer Engineering	-1011	-0.467
+5	1148 mph	-0.5913	Lise	running	832	Sam	981 m/s	-1048	-966	-1315	0.1133	1.4034	Biotechnology	-1606	1.0034
+6	716 mph	1.4534	Vani	ice hockey	-744	Fabrice	-30 m/s	685	2074	-250	2.0262	0.9702	Human Computer Interaction	1607	0.2335
+2	1655 mph	-0.0708	Reilly	track & field	160	Lise	1087 m/s	2156	601	-1699	0.1413	-0.1024	Data Science	1989	1.764
+1	243 mph	0.3822	Fabrice	baseball	801	Andrew	-360 m/s	386	1415	-167	2.0312	0.5677	Bioinformatics	171	0.4682
+4	300 mph	1.0008	Chris	boxing	2010	Vani	20 m/s	1776	198	88	0.6888	1.8329	Computer Engineering	614	0.868
+2	232 mph	0.3468	Vani	track & field	1017	Lise	1671 m/s	1160	345	643	2.104	-0.6313	Applied Mathematics	382	0.649
+7	-198 mph	0.3441	Inan	boxing	-179	Inan	193 m/s	-102	826	983	-1.7465	0.1371	Computational Media	-786	1.047
+3	-795 mph	-0.2379	Andrew	motor sports	1797	Tony	2363 m/s	3	975	722	-0.7385	1.305	Natural Language Processing	-59	0.8481
+0	181 mph	1.0324	Lise	motor sports	630	Andrew	339 m/s	276	483	165	-0.0983	1.3005	Electrical Engineering	-746	0.2221
+5	1969 mph	0.3728	Sam	running	-351	Sam	-61 m/s	861	-954	774	-0.0397	1.7034	Biotechnology	2269	-0.026
+3	326 mph	0.1322	Eriq	soccer	1112	Tony	698 m/s	1341	1392	628	0.1705	-0.8657	Natural Language Processing	2681	-0.1514
+6	266 mph	2.0806	Tony	golf	1086	Fabrice	1125 m/s	911	691	1003	-0.0583	0.7227	Games and Playable Media	912	-0.5159
+1	558 mph	0.2255	Fabrice	Baseball	-525	Vani	283 m/s	1042	-386	-856	0.1499	0.6135	Bioinformatics	117	-0.2087
+1	1519 mph	-0.052	Fabrice	baseball	261	Andrew	-1053 m/s	1201	195	-568	0.8207	1.6548	Bioinformatics	-413	0.6749
+1	8 mph	0.8101	Fabrice	baseball	-874	Andrew	-1496 m/s	-561	1063	311	0.0913	1.271	Bioinformatics	1372	-0.9448
+5	1357 mph	-0.227	Michael	football	1822	Sam	2860 m/s	-1252	-114	2044	-0.471	0.5818	Bioinformatics	-919	1.0667
+1	1211 mph	0.6577	Fabrice	ice hockey	330	Andrew	681 m/s	1159	359	495	1.92	1.2137	Bioinformatics	2174	0.5312
+7	176 mph	-0.2975	Inan	tennis	1157	Inan	762 m/s	-98	-368	-972	-1.2209	0.8327	Computational Media	746	0.1997
+7	-815 mph	0.3354	Inan	basketball	544	Inan	147 m/s	-206	-792	1372	-0.5107	0.4819	Computational Media	380	1.3329
+4	138 mph	1.3998	Chris	volleyball	83	Vani	1496 m/s	-112	332	302	-0.9113	1.9617	Computer Engineering	760	0.3787
+5	1596 mph	-0.4058	Eriq	football	1873	Sam	-243 m/s	933	742	-1211	0.6361	0.6694	?	133	0.2454
+6	1074 mph	0.3428	Tony	golf	965	Fabrice	1594 m/s	174	1465	1253	0.7436	1.5196	COMPUTER GAME DESIGN	369	0.1054
+1	125 mph	0.9678	Fabrice	baseball	49	Andrew	-234 m/s	674	373	147	1.4271	0.5489	Bioinformatics	-661	-0.84
+4	387 mph	-0.8404	Inan	volleyball	1087	Vani	541 m/s	2302	1126	688	0.5881	1.916	n/a	1442	-0.7064
+4	1288 mph	0.7749	chris	boxing	312	Vani	1541 m/s	571	1507	754	0.5335	1.203	Computer Engineering	-169	0.3057
+4	744 mph	1.4436	Vani	boxing	685	Vani	745 m/s	908	522	1369	0.43	1.5173	Technology and Information Management	338	0.164
+2	-243 mph	1.2062	Reilly	track & field	323	Lise	2452 m/s	1087	1312	488	-0.0852	1.3734	Applied Mathematics	1182	0.6571
+6	534 mph	1.561	Tony	Track & Field	3064	Chris	456 m/s	973	612	1454	0.0956	-1.1206	Games and Playable Media	879	1.2014
+3	83 mph	-0.2567	Inan	soccer	186	Inan	2105 m/s	526	464	-1537	0.6605	-0.8134	Computer Science	1190	0.5847
+1	982 mph	0.2005	Andrew	baseball	739	Andrew	167 m/s	1023	48	-271	0.3261	1.6987	Bioinformatics	-997	0.1768
+4	1221 mph	1.5399	Chris	volleyball	2474	Vani	1134 m/s	128	1077	1053	-1.0248	-0.0815	Technology and Information Management	-121	-0.4706
+0	None	0.7224	Lise	motor sports	1979	Michael	-188 m/s	976	-252	611	-0.2055	-0.0371	Computational Media	498	1.2691
+5	555 mph	0.5185	Michael	football	435	Sam	685 m/s	-193	328	1232	0.1561	1.1276	Biotechnology	-189	1.146
+7	1795 mph	0.1039	Inan	basketball	1892	Inan	1183 m/s	263	1280	1493	0.5561	-1.0982	Computational Media	-494	0.8014
+4	-594 mph	1.0511	Chris	volleyball	1175	Vani	-358 m/s	-862	114	-113	0.0514	0.5612	Technology and Information Management	1908	0.3958
+2	496 mph	1.2178	Vani	track & field	-1653	REILLY	1377 m/s	1398	1918	71	0.745	?	Applied Mathematics	-926	1.7653
+7	822 mph	0.6055	Inan	basketball	304	Inan	584 m/s	2077	-149	215	0.2494	0.4921	Computational Media	538	1.5334
+3	132 mph	0.3291	Andrew	baseball	786	Tony	1835 m/s	1635	1891	682	0.7263	0.2867	Natural Language Processing	740	0.5791
+5	-472 mph	0.3649	Michael	football	-248	Sam	673 m/s	2860	724	2258	-0.0217	0.2236	Biotechnology	336	0.5834
+3	269 mph	-0.287	Andrew	soccer	2010	Tony	988 m/s	476	-39	-440	1.7862	1.3841	Computer Science	342	-0.0695
+5	-739 mph	0.0186	Eriq	running	371	Sam	1274 m/s	-1553	130	572	-0.3962	0.4017	Biotechnology	-97	0.1863
+2	1276 mph	0.8413	Reilly	track & field	119	Reilly	845 m/s	1770	2094	-1238	1.0789	0.8654	Data Science	-1404	-0.2555
+5	-161 mph	1.0367	Vani	football	-221	Sam	893 m/s	262	572	1046	-0.3502	-0.2417	Biotechnology	-1252	-0.4016
+7	603 mph	1.0978	Inan	basketball	397	Inan	791 m/s	1446	221	1482	1.4386	1.5013	Computational Media	376	2.2507
+4	-402 mph	0.8231	Chris	volleyball	8	Vani	972 m/s	None	1591	1018	-0.3604	-0.492	Technology and Information Management	-1222	-0.1716
+7	-18 mph	-0.4824	Inan	tennis	152	Inan	569 m/s	1011	-1173	-2095	0.4122	-0.1745	COMPUTATIONAL MEDIA	-149	-0.3797
+5	911 mph	0.4863	Eriq	baseball	1020	Sam	-440 m/s	216	1832	-1	1.0017	1.8601	GAMES AND PLAYABLE MEDIA	866	0.6552
+4	455 mph	1.7404	Andrew	volleyball	1247	Vani	-870 m/s	707	-57	-769	0.3237	1.2421	Technology and Information Management	-2704	0.6393
+2	-326 mph	1.3632	Reilly	track & field	803	Reilly	1372 m/s	453	1662	149	0.7112	0.7223	Applied Mathematics	463	1.1219
+5	584 mph	-0.1545	Eriq	football	846	Sam	292 m/s	-211	-785	-343	-0.0311	0.1589	Biotechnology	-711	0.3404
+0	200 mph	0.9872	Lise	MOTOR SPORTS	1913	Michael	1535 m/s	1011	887	377	1.1332	-1.2371	Bioengineering	-258	0.5157
+2	1049 mph	0.6199	Reilly	track & field	-1313	Reilly	-766 m/s	212	335	-1156	-2.2029	1.3935	Applied Mathematics	1040	0.7882
+0	-1432 mph	0.6379	Eriq	running	1184	Eriq	855 m/s	753	236	367	0.4885	0.236	Electrical Engineering	1270	0.1847
+7	495 mph	0.0312	Andrew	tennis	1152	Inan	275 m/s	1753	-120	872	-0.7234	0.4475	Computational Media	292	-0.0767
+6	818 mph	1.3921	Tony	football	821	Fabrice	42 m/s	1180	1462	-1002	1.2332	-0.7715	Computer Game Design	272	1.4
+4	533 mph	1.0931	Chris	boxing	1766	Vani	727 m/s	-299	1858	1523	0.2619	1.3481	Bioinformatics	1058	-0.207
+6	37 mph	0.6927	Tony	baseball	1648	Fabrice	13 m/s	1088	846	-689	1.4066	-0.0015	Human Computer Interaction	-349	0.2141
+7	-24 mph	-0.234	Inan	tennis	1199	Andrew	2496 m/s	158	-29	-602	0.0215	0.3622	Computational Media	649	0.7545
+5	-451 mph	-0.2999	Michael	football	2038	Sam	596 m/s	-282	1103	-446	-0.0825	0.7682	Biotechnology	1577	0.8288
+1	978 mph	1.135	Fabrice	baseball	429	Andrew	-725 m/s	2155	76	1887	0.0204	1.1698	Bioinformatics	-643	-0.1664
+5	13 mph	-1.5545	Michael	football	788	Sam	2210 m/s	155	386	832	0.4754	1.1117	Biotechnology	-22	-0.3585
+7	2334 mph	-0.8019	Inan	tennis	1324	iNAN	1593 m/s	-496	-375	452	-0.5065	0.0119	Computational Media	-597	-0.7087
+4	-1381 mph	-0.1017	Chris	boxing	1094	Vani	462 m/s	-466	321	386	0.0117	0.964	Computer Engineering	381	-0.5636
+2	850 mph	0.6295	Tony	track & field	1190	Reilly	-405 m/s	-66	1339	-845	0.3258	-0.1646	Data Science	-85	1.1777
+3	75 mph	-0.3781	Andrew	soccer	702	Sam	163 m/s	980	2386	655	0.1519	0.2604	Computer Science	1327	1.8945
+0	561 mph	0.485	Lise	motor sports	850	Eriq	1045 m/s	1544	1560	762	0.5939	1.0215	Electrical Engineering	1067	n/a
+4	233 mph	1.9326	chris	boxing	1296	Vani	991 m/s	1303	2056	-113	-0.0781	-0.374	Robotics Engineering	-307	
+6	579 mph	0.5125	Tony	golf	1173	Fabrice	2436 m/s	54	1518	999	-0.2395	-0.2914	Computer Game Design	1104	1.2795
+7	253 mph	-1.379	Inan	basketball	651	Inan	558 m/s	826	795	430	0.4254	0.3104	Computational Media	833	1.5115
+1	1213 mph	-0.8645	Fabrice	baseball	643	Andrew	1807 m/s	65	369	767	0.3362	2.7491	Bioinformatics	-98	0.0481
+1	710 mph	0.7907	Fabrice	baseball	348	Andrew	374 m/s	1140	-948	-398	2.5314	-0.3798	Bioinformatics	-326	-0.3906
+3	69 mph	0.7021	Andrew	soccer	175	Tony	539 m/s	461	2024	-55	1.168	1.9557	Computer Science	-1132	0.2347
+5	-657 mph	-0.6759	Lise	running	608	NULL	2318 m/s	-213	337	194	-1.2857	1.8732	Biotechnology	1427	0.0516
+5	1215 mph	-0.4296	Eriq	running	2200	Sam	791 m/s	544	869	-171	0.0945	1.9597	Biotechnology	-402	0.334
+0	1446 mph	0.3489	Lise	volleyball	-287	Eriq	2185 m/s	426	617	804	1.1443	0.6515	Electrical Engineering	-345	-0.6341
+2	755 mph	1.119	Reilly	track & field	999	Lise	1267 m/s		1541	253	1.157	2.0447	Data Science	737	0.979
+1	1554 mph	-0.4812	Fabrice	baseball	-118	Andrew	-27 m/s	1638	-728	3	0.883	1.0838	Bioinformatics	590	0.6132
+2	114 mph	1.5925	Vani	track & field	640	Reilly	121 m/s	626	1421	2115	1.7515	0.1186	Robotics Engineering	563	1.3396
+0	928 mph	0.2633	Lise	n/a	917	Eriq	1797 m/s	301	622	-604	0.9496	1.3494	Bioengineering	-168	1.4745
+6	1450 mph	-0.2249	Tony	golf	447	Fabrice	1280 m/s	n/a	514	2606	-0.2309	-0.1322	Computer Game Design	-637	0.066
+6	1404 mph	1.6778	Lise	golf	1578	Chris	561 m/s	-253	450	52	1.4778	1.7411	Natural Language Processing	546	1.4914
+3	738 mph	-0.2656	Andrew	soccer	846	Tony	1198 m/s	397	289	-276	-0.4372	0.9622	Computer Science	None	0.5008
+3	425 mph	1.2587	Andrew	soccer	N/A	Tony	1113 m/s	-583	1145	2909	0.6338	-0.0526	Computer Science	549	1.2855
+2	610 mph	0.3227	Reilly	baseball	-431	Reilly	1416 m/s	190	1199	-358	0.736	0.4124	Data Science	-1231	0.2774
+6	830 mph	0.8484	Fabrice	ice hockey	1709	Chris	1179 m/s	-507	401	-218	N/A	1.1902	games and playable media	1616	0.3718
+1	1675 mph	1.0921	Fabrice	track & field	-98	Andrew	790 m/s	-170	-431	-687	1.816	0.9862	Bioinformatics	-122	-0.3982
+6	755 mph	0.9565	Tony	golf	1962	Fabrice	1056 m/s	2246	1801	-260	0.4034	1.4744	cOMPUTER gAME dESIGN	1958	1.9355
+5	869 mph	0.2843	Eriq	football	NULL	Sam	2349 m/s	1328	1215	853	-1.505	0.4295	Biotechnology	130	1.0617
+3	1257 mph	0.348	Andrew	soccer	272	Tony	1144 m/s	378	975	2247	0.2335	0.9642	Natural Language Processing	-1026	1.1008
+4	-220 mph	0.2264	Chris	volleyball	1046	Vani	-487 m/s	42	1476	1640	-0.0597	1.0491	Robotics Engineering	-737	1.8194
+1	N/A	0.1078	Fabrice	baseball	357	Andrew	-237 m/s	109	242	-270	2.2137	0.3412	Technology and Information Management	1195	0.2052
+5	-602 mph	0.283	Lise	running	776	Sam	1615 m/s	1463	1039	-162	0.4952	0.8813	Biotechnology	67	-1.3702
+0	276 mph	-1.2403	Lise	badminton	1055	Michael	1335 m/s	-268	744	-21	-0.7192	-0.0943	Bioengineering	129	-0.3394
+6	285 mph	1.266	Tony	ice hockey	923	Chris	1479 m/s	488	1173	813	1.968	-0.3522	Computer Game Design	331	0.8295
+6	1591 mph	2.2687	Tony	ice hockey	703	Fabrice	1613 m/s	574	753	285	1.3563	0.1247	Computer Game Design	191	1.3155
+5	111 mph	0.1544	Eriq	running	762	Sam	1209 m/s	643	315	981	-2.2266	0.9778	Biotechnology	-351	-0.3208
+3	1164 mph	-0.4684	Andrew	soccer	233	Tony	1997 m/s	1067	429	-443	-0.5862	0.7198	Computer Science	-275	1.6617
+2	32 mph	-0.2748	Reilly	track & field	-725	Reilly	-878 m/s	-208	198	824	0.0696	0.0635	Applied Mathematics	15	1.5636
+2	276 mph	0.8554	Vani	track & field	-1218	Lise	964 m/s	149	767	-1224	0.3013	-0.0152	Computer Engineering	-444	0.2567
+4	175 mph	1.5388	Chris	boxing	939	Vani	-684 m/s	2442	910	2063	-1.5234	0.7774	Computer Engineering	-1447	-0.1344
+7	-174 mph	0.8125	Inan	tennis	-122	Inan	2328 m/s	-201	-539	1217	-1.738	0.5596	Computational Media	319	2.5773
+2	588 mph	0.2756	Reilly	track & field	-613	Lise	479 m/s	-726	1434	-1013	0.6812	1.2178	Applied Mathematics	-534	0.5961
+6	-1209 mph	0.2227	Tony	motor sports	891	Chris	1311 m/s	-25	337	706	2.0542	0.0468	Human Computer Interaction	971	0.6921
+1	570 mph	0.5496	Fabrice	baseball	-169	Andrew	17 m/s	-413	854	-840	0.0192	1.2394	Bioinformatics	-797	1.5383
+0	1224 mph	-0.1758	Inan	badminton	739	Eriq	554 m/s	1392	80	-115	0.6336	0.6816	Electrical Engineering	1682	-0.1935
+1	1155 mph	1.1325	Fabrice	baseball	353	Andrew	717 m/s	733	34	906	0.1557	1.0638	Bioinformatics	-2387	N/A
+1	361 mph	0.5277	Fabrice	tennis	-573	Andrew	2076 m/s	615	124	1006	2.0827	2.1669	Bioinformatics	3069	-0.4174
+5	566 mph	-0.1861	None	football	1216	Sam	-25 m/s	68	-209	182	1.0238	0.7002	Biotechnology	-871	0.35
+5	50 mph	0.1385	Vani	running	999	Sam	363 m/s	1067	1227	1968	-0.7715	1.0521	Biotechnology	76	0.0126
+1	781 mph	0.7442	Fabrice	baseball	1322	Andrew	863 m/s	920	482	517	1.1762	1.2074	Bioinformatics	241	1.1038
+2	916 mph	1.4085	Vani	track & field	149	Reilly	1583 m/s	2175	366	-1013	-0.9664	1.6882	Applied Mathematics	523	0.3188
+6	1711 mph	0.1902	Tony	ice hockey	1860	Fabrice	1423 m/s	-410	644	752	2.5181	0.3747	Games and Playable Media	-1624	1.0046
+4	556 mph	2.0392	Chris	boxing	297	Sam	-502 m/s	1193	730	-692	0.1741	1.4692	Biotechnology	15	-0.2228
+2	-432 mph	0.4616	Vani	track & field	-715	Lise	1348 m/s	609	857	2047	0.6949	0.1812	Data Science	2863	1.7149
+6	2463 mph	N/A	Tony	golf	814	Fabrice	1912 m/s	1156	290	-665	1.7347	-0.085	Computer Game Design	1333	0.9944
+6	928 mph	0.9104	Tony	ice hockey	1456	Chris	1248 m/s	-239	1086	-873	1.4192	0.2105	Games and Playable Media	1529	-0.2149
+0	-774 mph	0.0596	Lise	badminton	130	Eriq	2749 m/s	642	1017	1108	0.1808	NULL	Electrical Engineering	1163	0.1396
+1	405 mph	2.2715	Fabrice	BASEBALL	1246	Andrew	493 m/s	180	1218	1750	1.139	2.0382	Technology and Information Management	1143	2.1777
+1	2197 mph	-0.3406	Fabrice	baseball	-964	Andrew	-61 m/s	298	-725	-150	1.5128	0.2955	Bioinformatics	1486	-0.3671
+2	1161 mph	0.1497	Vani	TRACK & FIELD	922	Tony	?	923	1113	306	1.159	2.3498	Data Science	-1303	-0.6353
+3	29 mph	1.1087	Michael	soccer	487	Tony	-355 m/s	1252	1217	1829	-0.3566	0.0142	Natural Language Processing	605	-0.2551
+1	1458 mph	-0.1316	Fabrice	baseball	942	Andrew	1389 m/s	943	122	271	0.8884	2.3314	Bioinformatics	-2352	0.13
+7	192 mph	-0.1273	Inan	basketball	516	Inan	-383 m/s	798	-71	-202	-0.0248	-0.07	Computational Media	1383	1.6928
+7	476 mph	0.0	Chris	basketball	708	Inan	1106 m/s	-737	-394	-1574	1.1429	0.1825	Computational Media	-311	1.1138
+3	102 mph	0.4641	Andrew	soccer	210	Tony	828 m/s	-70	397	965	0.9337	1.4105	Computer Science	943	-0.1182
+6	396 mph	0.8203	Tony	golf	1316	Chris	2467 m/s	-587	342	-2065	0.3249	0.3742	Games and Playable Media	1038	0.6728
+7	1410 mph	0.1687	Inan	boxing	307	Inan	1006 m/s	1575	-634	-2397	1.0785	0.4207		-229	-0.1157
+2	1494 mph	1.3843	Reilly	track & field	6	Sam	159 m/s	-162	686	2402	0.0563	-0.5807	Applied Mathematics	-405	0.4611
+2	870 mph	2.1725	Reilly	track & field	721	Lise	2215 m/s	1812	1368	-2114	0.6461	2.7359	Applied Mathematics	419	1.1332
+5	-219 mph	-0.1829	Eriq	RUNNING	-358	Sam	701 m/s	-1056	-787	-141	-0.8817	0.9769	Biotechnology	1312	1.0707
+5	189 mph	1.2783	Eriq	running	-648	Sam	1763 m/s	2817	834	238	-0.2338	-0.6022	Biotechnology	684	0.5216
+6	956 mph	1.247	Tony	boxing	730	Fabrice	1609 m/s	1017	579	208	1.3742	0.8197	Human Computer Interaction	355	1.408
+0	-163 mph	0.1022	Lise	badminton	829	Eriq	1446 m/s	651	80	620	0.3622	0.252	Statistics	68	1.4582
+7	487 mph	-0.6099	Inan	basketball	1241	Inan	-340 m/s	1136	534	-354	-0.89	1.3388	Computational Media	-1	1.5766
+5	-440 mph	-0.1971	Michael	football	1150	Sam	1252 m/s	-186	-116	783	0.0067	0.7598	Biotechnology	-1353	-0.0735
+0	841 mph	0.2769	Lise	badminton	1311	Eriq	2188 m/s	984	402	-525	1.119	-0.2952	Bioengineering	1916	0.0325
+3	672 mph	0.3389	Andrew	soccer	878	tONY	1262 m/s	2055	?	231	1.0317	2.2898	Natural Language Processing	790	1.9671
+1	1053 mph	-0.3367	Fabrice	baseball	?	Andrew	-634 m/s	833	-261	1635	2.1471	1.4619	Bioinformatics	1862	0.6081
+3	1410 mph		Andrew	Soccer	-318	Tony	232 m/s	2280	634	1529	1.2451	0.8185	Natural Language Processing	1871	2.1581
+3	-139 mph	-0.6052	Andrew	soccer	-539	Tony	NULL	463	1166	1958	-2.0329	1.1808	Natural Language Processing	-167	1.4994
+7	649 mph	1.2322	Inan	basketball	10	Inan	614 m/s	1934	263	1481	0.5293	-0.6646	Computational Media	1911	-0.7745
+7	549 mph	-0.271	Inan	tennis	662	Inan	482 m/s	1815	253	1663	-0.0059	-0.4149	Computational Media	463	2.0037
+2	1483 mph	1.9214	Chris	soccer	-296	Lise	-1241 m/s	261	292	-730	-0.6882	0.2233	Data Science	227	1.0964
+0	-533 mph	-0.1722	Lise	motor sports	1454	Eriq	1814 m/s	1006	503	1147	-0.707	0.5018	Statistics	2261	0.5786
+1	852 mph	0.315	Fabrice	baseball	435	Andrew	1272 m/s	1845	-660	-57	1.0774	0.89	Bioinformatics	208	0.1281
+4	824 mph	0.885	Chris	?	1238	Vani	-280 m/s	2008	1163	1023	-0.0248	0.2177	Technology and Information Management	2228	0.6993
+4	602 mph	1.9939	Chris	volleyball	514	Vani	750 m/s	463	318	757	-0.6376	2.1225	Computer Engineering	-933	-0.6119
+5	303 mph	-0.0682	Eriq	running	1984	Sam	233 m/s	938	459	884	-0.5461	0.9807	Biotechnology	1369	-0.1577
+1	1593 mph	1.6922	Fabrice	Baseball	243	Andrew	98 m/s	1609	1097	-73	-0.778	2.0472	Bioinformatics	952	0.8289
+5	928 mph	0.4554	Sam	running	1832	Sam	2267 m/s	285	384	982	-0.436	1.8344	Biotechnology	1162	0.1914
+7	-405 mph	0.4265	Inan	tennis	916	Inan	1832 m/s	1608	211	-815	0.4851	0.9372	Computational Media	1504	1.581
+4	34 mph	1.5574	Inan	boxing	761	Vani	584 m/s	463	1858	582	-0.5547	1.6643	Robotics Engineering	154	-0.4831
+7	974 mph	-0.0592	Inan	basketball	923	Inan	1751 m/s	202	-45	454	-1.7869	0.4753	Bioengineering	-1145	0.6162
+6	1145 mph	1.4676	Lise	golf	1674	Chris	339 m/s	-20	1889	707	-0.3505	-0.3514	Games and Playable Media	83	-0.0822
+4	241 mph	-0.0988	Chris	volleyball	1838	Vani	-42 m/s	1409	698	-556	0.3645	0.8269	Robotics Engineering	2	-0.7411
+0	-55 mph	1.323	Lise	soccer	556	Michael	1726 m/s	2735	1994	554	2.1975	1.4407	Statistics	-611	-0.6694
+6	-297 mph	0.6116	Tony	ice hockey	1181	chris	329 m/s	-170	37	?	0.9764	2.3018	Games and Playable Media	-349	0.9722
+3	-377 mph	-1.5051	Andrew	soccer	320	Tony	374 m/s	299	1262	-811	1.5506	1.1422	Natural Language Processing	766	-0.3765
+6	589 mph	1.4764	Tony	golf	1761	Fabrice	1815 m/s	-276	850	-215	-0.1159	-0.6543	Games and Playable Media	906	0.5583
+3	1089 mph	0.2956	Andrew	soccer	908	Tony	1650 m/s	1391	634	914	0.7643	1.7085	Natural Language Processing	464	0.6684
+3	567 mph	0.2085	Andrew	soccer	669	Tony	-931 m/s	181	549	98	0.668	1.857	Computer Science	-333	0.1743
+7	-378 mph	0.6257	Inan	tennis	-132	Inan	1582 m/s	686	1097	177	-1.4381	2.0405	Computational Media	423	-0.0268
+7	515 mph	-0.247	Inan	basketball	-401	Inan	1304 m/s	691	302	-433	-0.1927	1.898	Computational Media	600	0.8714
+0	784 mph	0.1536	Lise	motor sports	889	Michael	-657 m/s	1039	-100	1402	NULL	-0.0215	Statistics	393	0.5507
+3	568 mph	-0.0624	Andrew	soccer	562	Tony	286 m/s	448	1991	1208	-0.3921	0.3215	Computer Science	866	0.1424
+6	879 mph	1.0972	Tony	n/a	1368	Fabrice	-273 m/s	834	1196	716	1.4973	-0.2731	Games and Playable Media	49	0.6592
+0	-25 mph	0.1895	Andrew	motor sports	1378	Eriq	861 m/s	-537	171	-630	0.2043	-0.4204	Robotics Engineering	2190	1.9625
+7	-733 mph	-0.584	Inan	basketball	-144	Inan	2657 m/s	2026	715	482	-0.2622	1.4546	COMPUTATIONAL MEDIA	53	0.4015
+6	620 mph	0.1244	Tony	football	1135	Fabrice	2329 m/s	1226	1663	995	1.5094	0.525	Human Computer Interaction	1186	0.1874
+3	1608 mph	0.0704	andrew	baseball	556	Tony	1152 m/s	483	1259	1070	0.7368	0.6551	Natural Language Processing	None	1.899
+6	639 mph	1.0452	Tony	ice hockey	1910	aNDREW	378 m/s	157	950	-283	1.1318	1.1852	gAMES AND pLAYABLE mEDIA	-831	0.9557
+2	2856 mph	1.8453	Vani	track & field	112	REILLY	1726 m/s	-2325	-87	330	1.8793	0.2841	Bioinformatics	-479	0.8284
+7	-362 mph	0.2524	Inan	tennis	161	Inan	1723 m/s	2259	282	402	-0.4129	-0.5033	Computational Media	288	1.6979
+5	1218 mph	-0.281	Michael	running	1453	Inan	586 m/s	-42	574	-786	-0.1701	-0.3336	Biotechnology	876	0.3617
+7	509 mph	0.0845	Inan	basketball	1771	Inan	3132 m/s	1020	-440	89	0.1069	-0.2588	Computational Media	-214	0.8062
+4	284 mph	1.8149	Chris	boxing	1663	Vani	2056 m/s	-402	1740	682	0.0071	-0.1607	Robotics Engineering	-1798	0.6039
+7	1636 mph	-0.5849	Inan	tennis	1112	Inan	971 m/s	1121	4	27	0.1569	?	Computational Media	315	0.9592
+5	193 mph	1.3182	Michael	football	-26	Sam	1320 m/s	1995	-694	14	-1.3887	2.8672	Biotechnology	123	0.281
+2	-413 mph	0.4818	Reilly	track & field	-1262	Lise	1389 m/s	507	275	-2324	-1.0873	1.3279	Applied Mathematics	53	-0.3726
+2	1506 mph	0.9305	Vani	track & field	871	Reilly	-95 m/s	1338	1840	437	0.0206	2.2938	Applied Mathematics	-858	1.1153
+4	1331 mph	1.5114	Chris	volleyball	446	Vani	12 m/s	578	262	141	-1.5188	1.9072	Robotics Engineering	1420	0.3319
+6	992 mph	1.9825	Tony	golf	656	Lise	687 m/s	-470	907	88	0.975	0.7875	Games and Playable Media	288	-0.2566
+2	1504 mph	0.7158	Reilly	track & field	608	Reilly	-5 m/s	-199	575	400	0.6051	0.9992	Data Science	170	0.3622
+1	-163 mph	0.3821	Fabrice	baseball	-288	Andrew	-714 m/s	928	-746	527	0.0584	2.2872	Electrical Engineering	829	0.5279
+5	574 mph	0.0454	Eriq	football	1139	Sam	2323 m/s	-1448	813	-929	-0.118	1.5095	Biotechnology	1683	-0.0082
+5	145 mph	-0.0081	Eriq	boxing	1047	Andrew	1567 m/s	171	490	-279	1.1881	0.6645	Biotechnology	1022	-0.1699
+3	111 mph	-0.1156	Fabrice	soccer	382	Tony	1020 m/s	-291	204	-868	-1.236	0.0714	Computer Science	1496	0.8921
+0	-950 mph	0.1733	Lise	motor sports	-77	Eriq	-690 m/s	379	310	-48	1.1333	0.4044	Electrical Engineering	-30	0.9512
+5	291 mph	0.6328	Sam	boxing	1655	Sam	1605 m/s	1247	226	1397	-0.8661	2.0971	Biotechnology	1431	-1.3163
+5	173 mph	0.0072	Eriq	football	2268	Sam	784 m/s	349	528	-133	0.1355	-0.1613	Biotechnology	1080	0.2801
+1	300 mph	-0.5119	Fabrice	baseball	-156	Andrew	-905 m/s	831	111	29	0.8495	0.3444	Bioinformatics	-1359	-0.2914
+6	2034 mph	1.9456	Tony	ice hockey	777	Fabrice	2507 m/s	1317	1743	-603	1.1717	0.2142	Games and Playable Media	961	0.7052
+4	-342 mph	0.7504	Lise	baseball	-1174	Vani	-936 m/s	783	1681	-1056	0.4707	3.2422	Robotics Engineering	-236	-0.1935
+3	-673 mph	-0.262	Andrew	soccer	817	Tony	3440 m/s	-864	569	1307	0.453	0.2499	Natural Language Processing	1829	0.6747
+5	781 mph	-0.2122	Eriq	running	627	Sam	1221 m/s	920	647	1815	0.2747	1.2546	biotechnology	-552	-0.4049
+1	715 mph	-0.3849	Fabrice	baseball	-977	aNDREW	532 m/s	-295	1318	-164	-0.9903	0.7063	Bioinformatics	-621	0.6523
+7	483 mph	0.4902	Inan	basketball	292	Inan	363 m/s	1677	455	1729	1.2934	0.5778	Computational Media	-108	1.6394
+2	720 mph	1.3666	Vani	basketball	-178	Lise	278 m/s	739	847	-157	0.3683	0.5286	Data Science	-200	1.3747
+1	897 mph	0.5528	Fabrice	baseball	339	Reilly	1726 m/s	153	?	-1215	1.0397	1.093	Bioinformatics	636	0.5704
+3	1085 mph	1.293	Andrew	soccer	2713	Tony	1834 m/s	164	244	-61	-0.3689	0.3185	Natural Language Processing	955	1.6
+7	369 mph	0.2203	Chris	basketball	1193	Inan	1536 m/s	580	-141	-82	0.0541	-0.8874	Computational Media	-1138	0.9042
+3	291 mph	-0.1003	Inan	soccer	6	Tony	-1688 m/s	1035	1103	-64	0.8595	2.657	Computer Science	2764	1.0529
+1	1909 mph	0.2141	Fabrice	baseball	-519	Andrew	-1727 m/s	2596	-269	-643	0.8587	1.3844	Bioinformatics	70	0.0774
+5	-150 mph	-0.6841	Eriq	running	2004	Sam	1000 m/s	909	1156	724	-1.2641	0.2755	Bioinformatics	1338	0.2933
+7	-167 mph	0.332	inan	basketball	759	Inan	1794 m/s	1144	907	-10	-0.7908	-1.4148	Computational Media	1639	0.0957
+5	-978 mph	-0.8982	Fabrice	running	2130	Sam	1404 m/s	-1520	-763	1879	-0.473	1.6095	Biotechnology	-698	-0.4338
+0	582 mph	0.7294	Lise	motor sports	2036	Eriq	2401 m/s	150	-39	1299	0.5739	0.8379	bIOENGINEERING	1355	1.0853
+6	-443 mph	0.88	Tony	golf	901	Chris	613 m/s	68	-341	1051	0.1183	0.0345	Games and Playable Media	788	0.1516
+6	575 mph	2.6708	Tony	ice hockey	1386	Chris	409 m/s	552	-101	893	1.3485	0.5698	Computer Science	169	0.8635
+4	-23 mph	0.5122	Chris	boxing	583	Vani	-1997 m/s	92	949	-274	-1.3944	2.1661	Robotics Engineering	-1333	0.7885
+3	945 mph	0.0931	ANDREW	soccer	458	Tony	2728 m/s	34	750	-332	-0.5578	-0.1672	Computer Science	1192	0.7334
+1	-1510 mph	0.9401	Fabrice	baseball	653	Andrew	-68 m/s	1802	653	-1135		0.7039	Bioinformatics	416	0.3465
+3	-51 mph	-1.1305	Andrew	soccer	-121	Tony	-127 m/s	623	1067	189	2.139	1.6099	Computer Science	88	1.5827
+7	-1062 mph	-0.6347	Inan	basketball	953	Inan	1937 m/s	-5	1252	-1024	0.1172	0.4312	Computational Media	-342	0.2817
+0	-76 mph	0.7419	Lise	motor sports	141	Eriq	2249 m/s	310	31	1262	None	-0.3101	Statistics	1190	-0.0269
+3	184 mph	1.2093	Andrew	soccer	1077	Tony	1619 m/s	-411	2357	1835	0.8289	0.755	computer science	1131	-0.1891
+7	95 mph	-0.0899	Inan	tennis	-624	Inan	1086 m/s	76	1494	-486	?	-0.2898	Computational Media	-141	1.3888
+5	1217 mph	-0.0908	Michael	running	1846	Vani	1862 m/s	1516	1333	-1331	-1.7056	1.407	Biotechnology	184	0.9392
+5	1627 mph	-0.266	Sam	running	160	Sam	1003 m/s	1105	1023	801	0.0382	1.1686	Biotechnology	-510	-0.3546
+7	506 mph	-0.5743	Inan	basketball	527	Inan	741 m/s	1772	1882	-216	-0.2673	2.3781	Computational Media	1369	1.4482
+0	298 mph	1.0225	Lise	badminton	-510	Vani	2233 m/s	562	-66	-187	2.0867	-0.8377	Bioengineering	-176	0.2772
+2	1379 mph	1.3038	Vani	tennis	-478	Reilly	1646 m/s	-58	1211	738	0.3814	1.6203	Data Science	-767	0.6304
+0	1165 mph	-0.1589	Lise	motor sports	1676	Michael	1185 m/s	16	1326	1058	1.1594	0.6062	Electrical Engineering	102	0.4516
+6	747 mph	0.2528	Tony	golf	591	Fabrice	1633 m/s	182	198	-33	2.0521	-0.4221	Games and Playable Media	1321	-0.5263
+7	41 mph	0.6241	Inan	tennis	-954	Inan	1018 m/s	1592	-238	-1878	0.3649	2.0616	Computational Media	1293	0.4547
+5	-929 mph	0.8474	Lise	running	-587	Sam	1441 m/s	554	287	-1238	0.6204	1.0367	Biotechnology	388	0.905
+3	-361 mph	0.0315	Andrew	soccer	1081	Vani	-1660 m/s	505	870	267	-0.1622	0.452	Natural Language Processing	1302	0.4833
+1	1310 mph	0.571	Fabrice	baseball	-955	Andrew	15 m/s	-122	1944	141	-0.4436	0.6541	Bioinformatics	400	0.0857
+4	-162 mph	0.4657	Chris	volleyball	1006	Vani	1024 m/s	650	813	1146	0.0044	0.7207	Technology and Information Management	402	-0.136
+3	480 mph	-1.5473	Andrew	soccer	700	Tony	-264 m/s	54	1218	-6	1.3293	1.0727	Electrical Engineering	1246	-0.2833
+0	2226 mph	1.6836	Lise	baseball	1727	ERIQ	1302 m/s	803	-19	-397	2.5464	0.8008	Computer Engineering	321	1.0021
+4	512 mph	1.1919	Chris	boxing	952	Lise	1201 m/s	446	673	2029	1.1945	0.7492	Technology and Information Management	442	0.5106
+2	1218 mph	1.3262	Vani	track & field	-826	Reilly	-261 m/s	3082	-58	1619	0.1696	-0.5331	Data Science	685	0.9488
+0	291 mph	1.5917	Lise	badminton	989	Eriq	498 m/s	23	-173	875	0.6882	0.8838	Statistics	1512	0.1731
+6	564 mph	0.5347	Tony	golf	1483	Fabrice	1543 m/s	1347	2064	-1279	1.0723	0.6639	Human Computer Interaction	2524	-0.2157
+7	446 mph	0.8432	Inan	tennis	1201	Inan	1969 m/s	751	-191	325	None	-0.339	Computational Media	-242	-0.3257
+6	748 mph	1.6472	Tony	golf	1042	Chris	-1114 m/s	-1048	866	-233	1.1044	1.1456	Human Computer Interaction	1800	-0.248
+2	-452 mph	0.9288	Vani	track & field	-281	N/A	445 m/s	-635	-636	-138	-1.6044	1.8186	Data Science	-1402	0.6045
+7	615 mph	0.864	Chris	basketball	234	Inan	2436 m/s	1231	-51	51	2.5451	1.8409	Computational Media	320	1.6149
+4	897 mph	2.23	Chris	boxing	2133	Vani	455 m/s	-28	1627	753	1.3661	-1.3576	Technology and Information Management	121	-0.8826
+0	333 mph	0.165	Lise	motor sports	622	Eriq	432 m/s	1617	546	422	1.3746	1.749	Statistics	1843	0.28
+1	781 mph	-0.6571	Fabrice	running	655	Andrew	575 m/s	425	-134	-459	0.0278	-0.9649	Computer Game Design	-383	-0.3611
+2	263 mph	0.1844	Vani	track & field	514	Reilly	1312 m/s	252	1444	-220	-0.5155	-0.9991	Biotechnology	-287	1.446
+0	-303 mph	0.1985	Lise	running	903	Michael	2415 m/s	1423	488	1542	0.9587	0.1944	Electrical Engineering	2092	1.2957
+4	471 mph	0.6847	Chris	volleyball	1031	Vani	-935 m/s	1106	1717	1028	0.3254	1.3912	Robotics Engineering	801	0.8634
+6	767 mph	1.154	Tony	golf	1447		441 m/s	2037	2212	783	1.369	-0.1517	Human Computer Interaction	1176	1.9502
+1	860 mph	-0.2068	Fabrice	baseball	-755	Andrew	413 m/s	1859	756	-260	0.5655	1.2333	Bioinformatics	378	0.8785
+0	-263 mph	0.0523	Fabrice	badminton	167	Michael	171 m/s	1620	35	-882	0.8617	-0.3098	Electrical Engineering	69	0.035
+5	1924 mph	0.1037	Sam	volleyball	n/a	n/a	1099 m/s	292	87	312	0.0204	1.9076	Biotechnology	1170	0.3664
+0	466 mph	0.9964	Lise	badminton	1470	Michael	1113 m/s	1250	635	578	3.2852	1.8488	Computer Science	1256	0.0442
+7	1240 mph	1.0232	Inan	basketball	794	Inan	2006 m/s	735	-1667	1638	0.4604	0.1747	Computational Media	-878	0.3611
+4	659 mph	2.0345	Chris	baseball	697	Vani	-1205 m/s	-523	333	-26	-0.5006	1.3643	Robotics Engineering	678	0.547
+5	163 mph	-0.5772	Michael	football	1098	Sam	1729 m/s	-47	1418	-464	0.5228	0.3827	Biotechnology	790	0.4828
+0	1522 mph	0.8706	Lise	motor sports	940	Eriq	1251 m/s	-463	-83	-17	1.4105	0.9661	Natural Language Processing	1653	-0.5145
+2	35 mph	1.4027	Reilly	boxing	154	Reilly	330 m/s	1816	343	-815	-0.3787	0.1731	Data Science	652	1.2919
+7	1175 mph	N/A	Inan	basketball	288	Inan	873 m/s	1739	570	74	-0.6563	1.1266	Computational Media	575	-0.9686
+0	NULL	-0.3711	Lise	badminton	587	Eriq	477 m/s	263	-172	1437	0.7153	0.6547	Bioengineering	606	-0.7272
+1	-1158 mph	0.209	Fabrice	baseball	-1026	Andrew	694 m/s	438	-304	-1737	1.4607	0.1844	Bioinformatics	438	0.1693
+2	524 mph	-0.9972	Vani	Track & Field	1569	Lise	1792 m/s	1414	1517	80	0.1304	3.2614	Applied Mathematics	903	1.3448
+2	1384 mph	0.3268	Reilly	track & field	194	Lise	744 m/s	744	1500	-399	0.7533	2.0049	Applied Mathematics	938	0.1682
+5	-91 mph	1.0112	Sam	football	1092	Sam	1233 m/s	-1689	501	1138	0.3531	1.6524	Biotechnology	827	-0.1202
+5	264 mph		Sam	football	881	sam	367 m/s	193	770	-1424	-0.4813	0.491	Biotechnology	669	0.0842
+5	-1282 mph	-2.0128	Tony	football	1942	n/a	1508 m/s	323	-102	N/A	-0.4036	1.4924	Biotechnology	-776	-0.4093
+7	883 mph	-0.4015	Inan	tennis	106	Inan	1388 m/s	926	-425	299	0.4855	1.3397	Computational Media	-392	0.0448
+7	1944 mph	0.6383	Inan	basketball	1836	Inan	1547 m/s	-2076	673	-436	-0.3456	0.4841	Computational Media	-867	1.3692
+1	868 mph	1.0341	Fabrice	baseball	985	Andrew	-441 m/s	386	633	-934	0.6715	0.4357	Bioinformatics	1709	0.8714
+5	-242 mph	-0.6656	Michael	running	789	Sam	1048 m/s	504	648	909	0.9952	0.346	Biotechnology	-1871	-0.3262
+6	382 mph	1.0509	Tony	golf	862	Fabrice	1375 m/s	343	1365	623	0.7614	0.9922	gAMES AND pLAYABLE mEDIA	-1565	0.0436
+0	1321 mph	-0.3184	Lise	badminton	1133	Michael	-579 m/s	2007	322	527	-0.1706	2.1635	Bioengineering	-858	-0.3364
+1	1050 mph	0.2827	Fabrice	baseball	-207	Andrew	459 m/s	1634	-483	-228	1.5106	1.3769	Bioinformatics	1824	0.9334
+7	182 mph	1.0759	Inan	basketball	-136	Tony	2828 m/s	-546	486	139	0.1345	1.6034	Computational Media	-460	1.028
+1	476 mph	0.246	Fabrice	baseball	-1090	Andrew	2011 m/s	1230	517	-568		1.2907	Bioinformatics	-417	0.5027
+0	1382 mph	0.6777	Lise	motor sports	1215	Eriq	313 m/s	325	591	-556	0.7399	1.6165	Electrical Engineering	-536	0.9303
+4	-1117 mph	1.7307	Chris	boxing	2022	vani	?	-544	-67	776	-1.3225	1.8618	Technology and Information Management	-155	N/A
+3	395 mph	0.5628	Andrew	soccer	1342	Tony	1067 m/s	-10	926	944	0.1985	2.4805	Natural Language Processing	1454	1.5994
+3	-472 mph	0.0356	Andrew	soccer	944	Tony	1809 m/s	-315	793	514	0.5281	-0.397	Natural Language Processing	423	-0.5351
+7	-401 mph	0.4925	Inan	N/A	804	Inan	-79 m/s	446	-212	-306	-1.0093	0.3841	Computational Media	953	0.8496
+1	-266 mph	0.0276	Fabrice	baseball	99	Chris	-1586 m/s	-106	1329	-913	1.9752	1.5546	Bioinformatics	838	0.3387
+3	1088 mph	1.2424	Andrew	soccer	1186	NULL	1103 m/s	-575	1795	1368	0.9602	1.8875	Computer Science	-274	1.9985
+3	-174 mph	-0.2494	Andrew	soccer	572	Tony	1195 m/s	93	1104	-60	-0.5779	0.4357	Computational Media	795	1.6572
+7	1153 mph	-1.4979	Fabrice	basketball	433	Inan	1681 m/s	390	281	-1034	-0.0815	-0.1955	Computational Media	907	1.4559
+1	1356 mph	0.5068	Fabrice	baseball	1131	aNDREW	-887 m/s	1639	35	1515	-0.2634	2.2347	Bioinformatics	-169	0.6389
+7	-880 mph	1.1886	Inan	basketball	298	Inan	2525 m/s	1366	243	-690	0.4167	0.6793	Statistics	195	-0.3167
+0	852 mph	0.083	Lise	badminton	547	Michael	-388 m/s	1772	1147	229	0.1919	1.1447	Statistics	1797	0.7818
+0	-531 mph	-1.3613	Lise	motor sports	782	Michael	516 m/s	185	480	-1894	1.7148	1.4383	Technology and Information Management	1902	0.3108
+7	-286 mph	0.1599	Inan	golf	1052	Inan	1052 m/s	144	-1097	-537	0.0981	-0.5015	Bioinformatics	1689	0.8952
+7	1061 mph	0.1942	Inan	tennis	322	inan	937 m/s	536	-875	28	0.7261	0.0679	Biotechnology	1236	-0.1048
+2	-64 mph	0.5797	Reilly	track & field	-21	Lise	2030 m/s	558	388	478	0.4749	1.853	Applied Mathematics	151	1.119
+1	722 mph	0.1683	Michael	baseball	488	Andrew	1504 m/s	318	-90	-1767	1.1858	0.1329	Bioinformatics	677	0.3806
+6	1476 mph	0.9094	Tony	GOLF	123	Chris	-103 m/s	-125	790	2145	1.2887	0.1633	Games and Playable Media	-291	0.6324
+0	-264 mph	0.5184	Lise	motor sports	816	Eriq	1280 m/s	628	870	121	0.8124	-0.9099	Bioengineering	1228	0.3939
+2	-31 mph	1.5331	Reilly	track & field	17	Reilly	1254 m/s	459	944	477	0.7056	2.4936	Applied Mathematics	-69	0.6
+5	1655 mph	0.4131	MICHAEL	football	444	Sam	1607 m/s	611	1927	1740	-1.0711	-0.0545	Biotechnology	-88	-0.2545
+4	1128 mph	1.4175	Chris	VOLLEYBALL	217	Vani	-781 m/s	1637	26	84	0.3834	1.935	Robotics Engineering	-884	0.3153
+2	1215 mph	0.6376	Reilly	track & field	214	Lise	1962 m/s	1207	162	-1131	1.4636	1.5778	Data Science	-811	0.0679
+2	1139 mph	0.6476	Tony	track & field	1296	Reilly	489 m/s	-370	2008	-735	0.6203	1.0474	Data Science	-397	0.2876
+7	632 mph	N/A	Inan	volleyball	579	Inan	1228 m/s	-174	174	579	-1.2588	1.435	Computational Media	-116	0.5009
+5	-153 mph	0.8485	Eriq	running	1550	Sam	-133 m/s	-2577	368	-21	0.4098	1.1102	Biotechnology	180	-0.7056
+7	57 mph	-0.6339	Eriq	Tennis	544	Inan	941 m/s	2407	697	932	-0.5933	0.4729	Computational Media	-537	-0.6637
+2	680 mph	1.362	Andrew	track & field	-2417	Reilly	1128 m/s	857	1223	-1028	0.6023	1.1626	Applied Mathematics	762	-0.2737
+4	511 mph	1.1553	Eriq	boxing	876	Vani	352 m/s	178	1276	914	-0.7262	0.9698	ROBOTICS ENGINEERING	-209	0.7989
+0	1263 mph	0.658	Lise	badminton	2586	Michael	-889 m/s	1213	-541	-114	0.5251	1.2701	Statistics	1540	0.3975
+3	1906 mph	1.412	Andrew	soccer	1066	Tony	2778 m/s	188	294	79	-0.2584	1.026	Computer Science	-142	1.0555
+1	517 mph	1.4079	Fabrice	BASEBALL	-367	Andrew	-224 m/s	1401	716	544	1.2916	0.5095	Bioinformatics	506	0.3289
+1	499 mph	-0.7226	Fabrice	volleyball	306	Andrew	2064 m/s	461	996	-16	0.166	0.7377	Bioinformatics	-599	0.4773
+7	1182 mph	-0.5887	Inan	basketball	-211	Inan	-323 m/s	1349	-276	1546	-1.2867	0.2903	Computational Media	-1357	0.1604
+1	906 mph	0.5405	Andrew	baseball	-726	CHRIS	1031 m/s	666	475	-724	0.5408	1.5271	bIOINFORMATICS	-605	-0.3497
+4	593 mph	1.5894	Chris	volleyball	802	Vani	-435 m/s	-111	1482	1248	-0.3736	1.2584	Computer Engineering	-1507	0.4992
+1	1172 mph	-1.1726	Fabrice	baseball	1510	Sam	-1393 m/s	1377	1192	31	1.5666	0.016	Bioinformatics	767	-0.0233
+0	508 mph	0.1345	Lise	badminton	1635	Michael	1493 m/s	1316	662	-228	1.3019	-0.0515	Statistics	1307	0.9154
+2	-268 mph	0.6219	Vani	Track & Field	1834	LISE	1294 m/s	-182	1356	-498	-0.8804	1.3035	Applied Mathematics	524	0.881
+7	323 mph	0.1748	Vani	Track & Field	2250	Inan	80 m/s	2586	-301	-812	0.3246	0.3844	Computational Media	289	1.7452
+3	-319 mph	0.1911	Andrew	soccer	312	Tony	614 m/s	613	1125	503	0.2045	0.069	Computer Science	1717	-0.1239
+5	436 mph	-0.3239	Michael	football	158	Sam	1292 m/s	-283	-104	194	1.5945	2.4018	Biotechnology	1002	1.5794
+7	NULL	-0.0308	Inan	tennis	-202	Inan	1686 m/s	698	716	-120	0.1231	1.1161	Computational Media	2541	1.0
+4	-955 mph	0.042	Fabrice	badminton	1835	Vani	1255 m/s	2004	945	212	-0.0165	1.8307	Robotics Engineering	-69	-0.9229
+3	1381 mph	0.0158	None	soccer	2065	Tony	1954 m/s	50	800	280	-1.2787	0.1649	Computer Science	129	-0.2931
+0	-757 mph	0.0729	Lise	motor sports	1096	Michael	2270 m/s	803	629	890	1.1113	-0.6629	Electrical Engineering	-743	NULL
+7	850 mph	-0.1963	Inan	running	1815	Inan	866 m/s	962	445	-727	-0.1663	1.3126	Computational Media	1101	1.5199
+0	-558 mph	0.9143	Lise	motor sports	1495	Michael	-79 m/s	403	-1223	1705	0.412	0.6817	Bioengineering	1765	0.9398
+6	1242 mph	0.9268	Tony	golf	1925	Chris	1952 m/s	-227	625	-691	0.2928	1.7831	Computer Game Design	1262	1.7118
+0	899 mph	0.4772	Andrew	boxing	14	Eriq	1493 m/s	-214	366	739	-1.0302	-0.0374	Statistics	2033	-1.6974
+5	-544 mph	-0.7922	Chris	running	430	Sam	680 m/s	860	1122	697	-0.2061	1.4367	Biotechnology	1097	1.2804
+3	-406 mph	0.5969	Andrew	soccer	274	Tony	881 m/s	NULL	400	261	-0.4884	0.1883	Computer Science	1957	1.3574
+5	-1965 mph	-0.2162	Sam	running	-228	Sam	-246 m/s	1377	889	1288	-0.263	0.6485	Biotechnology	593	0.464
+4	14 mph	0.8176	Chris	running	1441	Vani	475 m/s	606	630	728	1.2589	0.3572	Robotics Engineering	816	0.9065
+0	697 mph	-0.2869	Lise	motor sports	540	Michael	-74 m/s	1670	712	1867	1.2924	-0.6812	Bioengineering	73	1.2989
+5	-182 mph	-0.5676	Michael	football	n/a	sAM	-96 m/s	628	-428	975	0.6088	1.6562	Biotechnology	-1203	1.225
+2	741 mph	1.9621	Vani	track & field	-391	Reilly	1025 m/s	253	627	256	-0.2428	1.7458	Applied Mathematics	-319	0.8055
+7	712 mph	0.4052	Chris	tennis	1087	Inan	356 m/s	520	-138	388	-0.2286	0.6156	Technology and Information Management	-695	-1.0043
+1	977 mph	-0.2441	Fabrice	baseball	-363	Andrew	47 m/s	1197	-832	1261	0.5089	-0.081	Bioinformatics	2249	0.081
+5	392 mph	-0.83	Sam	running	2440	Sam	-406 m/s	120	751	807	0.91	2.3778	Biotechnology	464	-1.3517
+2	1199 mph	1.95	Reilly	track & field	-1144	Reilly	1464 m/s	841	1150	1920	-1.4372	1.4287	Bioinformatics	469	-0.9934
+5	-196 mph	-0.3324	Eriq	running	461	Sam	1340 m/s	393	-424	1722	-1.0873	1.0584	Biotechnology	276	-0.5666
+7	-432 mph	-0.6994	Inan	basketball	392	iNAN	-355 m/s	1253	-541	151	0.4765	0.4017	Computational Media	1026	-0.3061
+1	1218 mph	0.5349	Fabrice	baseball	-99	Andrew	-568 m/s	1431	470	-1323	1.474	0.4201	Bioinformatics	431	0.1123
+6	-528 mph	1.6157	N/A	GOLF	915	Michael	445 m/s	N/A	447	-71	1.2059	0.3188	Games and Playable Media	1287	-0.2132
+5	-706 mph	-0.0124	Michael	football	391	Sam	1763 m/s	1295	-802	1115	0.6768	-0.0347	Biotechnology	1529	0.1339
+3	411 mph	0.5716	Andrew	soccer	1090	Tony	309 m/s	81	1460	1194	1.2545	0.2533	Bioengineering	-5	1.5908
+5	542 mph	-0.1966	Sam	RUNNING	1143	Sam	1363 m/s	398	-175	-227	0.5644	2.0558	Biotechnology	-309	0.469
+7	147 mph	-0.1135	Inan	basketball	2357	Inan	2761 m/s	601	243	1003	0.6852	0.0476	Computer Engineering	-1103	-0.3359
+6	1207 mph	1.338	Tony	golf	1746	Chris	1061 m/s	-827	1203	1552	0.0189	-0.7375	Applied Mathematics	-423	0.4847
+3	13 mph	0.176	Andrew	soccer	848	Tony	-280 m/s	1780	61	131	-0.2501	1.2747	nATURAL lANGUAGE pROCESSING	2053	1.6794
+3	-424 mph	?	Andrew	soccer	-105	Tony	2095 m/s	981	2733	1392	-0.048	1.4209	Computer Science	373	0.9213
+3	592 mph	0.4804	Andrew	soccer	984	Tony	886 m/s	85	-86	97	-0.5776	1.1527	Computer Science	717	0.3773
+7	-311 mph	-0.0705	Andrew	basketball	386	Inan	836 m/s	1303	743	50	-1.022	1.2033	Computational Media	1290	-0.5206
+5	103 mph	-0.1761	Sam	football	786	Michael	707 m/s	868	744	-833	0.218	2.5143	Biotechnology	611	-0.0481
+4	247 mph	0.7033	Chris	boxing	433	Vani	1160 m/s	1252	1572	-105	0.2432	0.1486	Technology and Information Management	-186	0.003
+2	-517 mph	1.4358	Vani	track & field	-1605	Reilly	430 m/s	1203	2073	-608	0.9218	0.5452	Applied Mathematics	102	-0.2465
+4	-191 mph		Chris	volleyball	1410	Vani	1213 m/s	-673	2258	1057	-0.7084	2.9526	Computer Engineering	722	0.2643
+0	634 mph	0.0542	Lise	motor sports	718	Eriq	1336 m/s	1160	-417	1896	-0.0268	1.2975	Statistics	652	1.7935
+7	-239 mph	-0.4102	Inan	basketball	2480	Inan	1383 m/s	390	752	896	1.0607	0.9442	Computational Media	189	0.4247
+2	60 mph	0.9908	Vani	track & field	676	Reilly	869 m/s	-923	958	-364	-1.1896	1.4656	Data Science	961	1.2295
+2	369 mph	1.4485	Andrew	track & field	801	Lise	1067 m/s	671	1895	-642	0.5487	0.8403	Data Science	802	-0.1535
+1	1237 mph	-0.0463	Fabrice	baseball	75	Andrew	1542 m/s	1127	1787	2124	2.2056	0.5118	Bioinformatics	56	-1.34
+0	-183 mph	0.8201	Lise	badminton	2354	Michael	1232 m/s	592	-400	-498	1.0119	-0.5331	Bioengineering	1908	-0.5506
+4	740 mph	0.2084	Chris	track & field	228	Vani	-694 m/s	-293	416	2122	0.8927	2.0881	Computer Engineering	135	0.3702
+2	333 mph	1.0879	Reilly	boxing	117	Reilly	1588 m/s	432	165	973	0.636	1.2903	Data Science	-605	-1.3115
+3	1402 mph	-0.4213	Andrew	soccer	482	Tony	920 m/s	129	238	533	0.8777	1.4176	Computer Science	927	0.9278
+2	887 mph	1.7917	Vani	track & field	-127	Reilly	1229 m/s	256	732	735	1.2224	0.8403	Applied Mathematics	558	0.8551
+5	-251 mph	0.5113	Eriq	running	1462	Sam	-778 m/s	-552	-151	1906	-0.0542	1.7783	Biotechnology	-200	-0.6195
+2	837 mph	0.8428	None	track & field	-96	Reilly	2112 m/s	254	1185	1709	0.3732	0.1825	Data Science	391	1.2429
+7	488 mph	-0.0849	Inan	tennis	782	Inan	1390 m/s	-182	-725	-662	0.3331	0.6669	Computational Media	-701	-0.4099
+0	-1845 mph	0.8537	Tony	motor sports	654	Eriq	11 m/s	680	-862	301	0.0814	0.3514	Statistics	-1219	-0.1381
+2	1232 mph	0.8633	Vani	track & field	-786	Lise	-398 m/s	2197	1069	998	1.0145	-0.3014	Applied Mathematics	-331	0.416
+2	2417 mph	0.8619	Vani	track & field	733	Reilly	571 m/s	1824	896	1470	-0.5819	0.9513	Applied Mathematics	1057	1.1303
+4	-425 mph	1.868	Chris	volleyball	1060	Vani	-498 m/s	-190	1580	1061	1.4514	-0.0737	Computer Engineering	-422	0.8264
+6	-54 mph	0.8124	Chris	ice hockey	1721	Chris	1926 m/s	1351	1467	NULL	0.7305	0.5843	Human Computer Interaction	-1193	-0.2754
+4	867 mph	1.4511	Chris	volleyball	1772	Vani	1890 m/s	-688	341	1288	0.7486	1.4566	Technology and Information Management	-1072	1.3616
+5	212 mph	-0.2539	Michael	running	1198	Sam	2132 m/s	728	543	-278	2.055	0.0942	Biotechnology	1591	1.5874
+4	-34 mph	1.7646	CHRIS	boxing	-231	Vani	517 m/s	79	188	266	-0.5535	1.2909	Computational Media	-275	0.7675
+0	50 mph	-0.7172		motor sports	2041	Michael	2562 m/s	948	1434	-729	1.6017	-0.6123	Bioengineering	-991	-0.8747
+1	1566 mph	-0.3571	Fabrice	baseball	-55	Andrew	98 m/s	775	1606	64	1.7073	2.1514	Bioinformatics	-75	-0.8833
+6	430 mph	0.2125	Tony	golf	1677	Chris	613 m/s	1176	1068	2074	0.482	0.1526	Computer Game Design	724	1.3748
+2	1138 mph	0.7254	Vani	track & field	-394	Inan	527 m/s	-1040	2177	2076	0.2655	-1.386	Data Science	759	3.0932
+6	1741 mph		Tony	ice hockey	-626	Chris	848 m/s	-641	953	-697	-0.2468	0.8306	Games and Playable Media	1054	1.624
+3	1239 mph	0.0801	Andrew	motor sports	161	Tony	861 m/s	866	400	-417	-0.0207	2.1576	Natural Language Processing	615	0.2552
+4	394 mph	0.7275	Chris	volleyball	374	Vani	686 m/s	-97	1368	-20	-0.5248	-0.4624	Technology and Information Management	306	-0.3859
+3	1021 mph	-0.0389	Andrew	soccer	973	Tony	2463 m/s	-393	838	2744	-0.3151	0.8602	Computer Science	1148	0.1207
+5	355 mph	-0.2528	Michael	running	145	Sam	1427 m/s	-345	457	1091	0.0207	2.7892	Biotechnology	-881	1.259
+3	1098 mph	0.6597	Andrew	soccer	1068	Chris	1980 m/s	717	621	-732	-1.3002	0.5622	None	2577	1.6723
+3	1031 mph	-0.7302	Andrew	soccer	337	Tony	1407 m/s	897	1582	-394	-0.0291	0.5516	Computer Science	149	1.1732
+4	1689 mph	-0.0203	Chris	volleyball	1104	Vani	470 m/s	179	603	1687	-0.3686	-0.3943	Robotics Engineering	111	-1.5008
+0	340 mph	0.7847	Lise	motor sports	1773	Michael	1263 m/s	704	30	616	0.9272	?	Bioengineering	403	0.5911
+7	870 mph	0.0768	Fabrice	track & field	842	Inan	2146 m/s	645	509	-8	-1.165	-1.4954	Computational Media	-251	1.1951
+1	619 mph	-0.2151	Fabrice	baseball	-1366	Andrew	1182 m/s	1509	-86	-373	0.268	1.8808	Bioinformatics	-84	-0.1827
+2	523 mph	1.4914	Vani	track & field	-174	Reilly	439 m/s	-131	1423	2312	-0.2275	1.6991	Applied Mathematics	-1692	1.4464
+2	-394 mph	1.2424	Vani	TRACK & FIELD	104	Reilly	-801 m/s	522	-675	-1931	-0.8449	-0.1741	aPPLIED mATHEMATICS	2200	0.4799
+1	1457 mph	0.0565	Fabrice	baseball	-416	Andrew	-785 m/s	3002	246	1655	1.5808	1.4712	Bioinformatics	800	-0.5008
+2	-303 mph	0.2963	Reilly	track & field	85	Reilly	924 m/s	-1131	1189	-409	-0.7823	1.8572	Data Science	2446	0.7915
+0	358 mph	0.1587	Lise	badminton	108	Eriq	-460 m/s	1060	-435	1718	0.5128	-0.0956	Computational Media	712	0.2836
+7	814 mph	-0.222	Reilly	tennis	1388	Inan	746 m/s	2253	n/a	1426	1.5217	-0.168	Computational Media	148	0.8437
+5	842 mph	-0.2475	Michael	football	41	Sam	274 m/s	?	882	1285	1.1301	1.8313	BIOTECHNOLOGY	-193	-0.3004
+6	886 mph	1.0575	Tony	golf	1283	cHRIS	1330 m/s	1268	1341	-206	0.8759	-1.9888	Computer Game Design	1488	0.4509
+5	967 mph	-0.3342	Eriq	running	1453	Sam	2279 m/s	-636	191	755	-1.551	1.524	Biotechnology	1605	0.8698
+5	960 mph	1.2616	eriq	football	-82	Sam	997 m/s	2247	76	296	-1.1379	0.6378	Biotechnology	717	1.2339
+6	661 mph	1.3043	Tony	golf	432	Fabrice	1390 m/s	1358	565	-1046	0.869	1.4418	Computer Game Design	1333	0.2282
+6	538 mph	0.0173	Tony	golf	1052	Fabrice	1192 m/s	1378	729	-49	-0.2628	0.2026	Games and Playable Media	318	1.3605
+0	361 mph	0.2118	N/A	badminton	2087	ERIQ	661 m/s	1913	428	1764	0.793	-0.1983	Statistics	1553	-0.2859
+3	-422 mph	1.1943	Andrew	soccer	-117	Tony	-227 m/s	897	662	-528	-1.9032	1.0206	Computer Science	156	-0.4529
+2	1093 mph	1.2462	Reilly	track & field	489	Reilly	3287 m/s	106	1666	-610	-0.1755	2.027	Data Science	1517	-0.4122
+6	1941 mph	0.6271	Fabrice	ice hockey	301	Fabrice	1722 m/s	1392	648	44	1.0649	0.9441	Computer Game Design	2276	-0.6096
+0	-94 mph	-0.0424	Lise	motor sports	634	Eriq	1454 m/s	1454	-188	100	0.5837	-0.9715	Bioengineering	131	2.3359
+7	-587 mph	0.763	Inan	tennis	818	Inan	881 m/s	772	786	66	1.2276	-0.391	Computational Media	-45	0.0798
+6	1723 mph	1.7572	tONY	golf	1413	Chris	258 m/s	773	2261	-305	1.7526	0.403	GAMES AND PLAYABLE MEDIA	-1263	0.9816
+6	764 mph	1.552	Tony	ice hockey	2623	Chris	1665 m/s	1442	1585	616	-0.2939	-0.1183	Computer Game Design	984	0.9753
+5	N/A	0.3285	Sam	None	405	Sam	430 m/s	1358	196	753	0.0211	1.4472	Biotechnology	-986	0.9923
+1	927 mph	0.5006	Fabrice	running	537	Andrew	106 m/s	396	339	485	-1.4259	-1.1118	Computational Media	905	1.3742
+1	1862 mph	0.0887	Fabrice	baseball	251	Andrew	571 m/s	-45	620	-599	0.9501	1.1309	Bioinformatics	-1292	0.2243
+4	1323 mph	0.6654	Chris	badminton	1283	Vani	1004 m/s	771	844	112	-0.9577	0.7333	Computer Engineering	1498	0.3964
+7	-1129 mph	0.0786	Inan	tennis	-47	Inan	1878 m/s	4	40	-137	-0.4741	-0.0843	Computational Media	987	1.719
+4	341 mph	1.7758	Chris	boxing	153	Vani	1702 m/s	368	451	-1538	-0.9708	0.6423	Computer Engineering	-507	1.5215
+1	397 mph	0.39	Fabrice	baseball	-47	Andrew	105 m/s	-328	135	-851	0.8679	1.5801	Bioinformatics	-300	-0.5488
+5	-30 mph	-1.5654	Michael	football	610	Sam	-389 m/s	1191	651	796	-0.7196	0.2911	Biotechnology	-686	0.0884
+4	780 mph	0.9893	Chris	volleyball	616	Vani	1058 m/s	-97	1475	-1740	-0.6511	2.0083	Robotics Engineering	-334	0.6454
+7	789 mph	-0.0053	Inan	track & field	1088	Inan	153 m/s	1366	269	-898	2.0033	-1.4082	Computational Media	1077	0.103
+7	2335 mph	0.3062	Inan	tennis	977	Chris	1924 m/s	1892	597	89	1.619	-0.4098	Computational Media	-146	0.1373
+4	1758 mph	1.7051	CHRIS	volleyball	627	Vani	290 m/s	1957	None	1567	-0.1552	0.4821	Computer Engineering	645	0.7491
+3	168 mph	1.0004	Andrew	soccer	233	Tony	-88 m/s	415	957	435	-1.5694	2.1721	Natural Language Processing	252	-0.0291
+7	1709 mph	0.3234	Inan	tennis	1909	Tony	1682 m/s	2028	1070	-387	-0.1168	2.2213	Computational Media	-400	0.4248
+3	1277 mph	-0.7687	Andrew	soccer	1483	Tony	795 m/s	757	2389	840	-0.5231	1.7468	Natural Language Processing	1680	0.5482
+1	1551 mph	0.7897	Fabrice	baseball	-885	Andrew	737 m/s	1044	685	55	3.3069	0.2465	Bioinformatics	-915	0.5506
+7	-339 mph	0.6885	Inan	tennis	1059	Inan	1766 m/s	1250	568	891	1.6061	0.5878	Bioinformatics	378	1.3074
+4	-649 mph	0.9073	Chris	boxing	568	Vani	-1244 m/s	2184	1062	1324	1.3114	2.2569	Computer Engineering	37	1.1857
+4	-525 mph	2.287	Chris	boxing	-698	Vani	990 m/s	1465	-155	410	-0.0922	0.5311	Computer Engineering	-1254	1.3251
+1	-223 mph	0.5436	Fabrice	baseball	-152	Andrew	1084 m/s	706	746	-38	0.6398	0.6356	Bioinformatics	981	0.0137
+1	145 mph	-0.6772	Fabrice	baseball	885	aNDREW	911 m/s	-734	1403	1536	1.5814	0.8664	Bioinformatics	1289	1.1677
+5	-1536 mph	0.2588	Sam	football	1549	Sam	2300 m/s	140	108	1297	-0.9851	1.5545	Computational Media	327	1.2764
+1	-201 mph	0.4215	Fabrice	baseball	-286	Andrew	391 m/s	1273	53	368	0.4806	1.6527	Bioinformatics	460	-0.2052
+7	238 mph	-0.9694	Inan	basketball	217	iNAN	-213 m/s	-504	733	-69		1.2217	Computational Media	977	-0.1164
+1	566 mph	0.1975	Fabrice	baseball	-969	Andrew	121 m/s	n/a	703	520	-0.5494	N/A	Bioinformatics	926	1.0251
+3	-101 mph	-0.9653	Andrew	soccer	1494	Tony	1861 m/s	-1222	1499	1931	0.4136	1.1487	Natural Language Processing	649	-0.0553
+4	-259 mph	0.6888	Chris	boxing	1320	Vani	-1112 m/s	34	213	575	0.2098	1.6939	Computer Engineering	-312	2.2655
+0	177 mph	1.0804	Lise	badminton	1284	Eriq	1293 m/s	606	-74	761	1.7989	0.7166	Bioengineering	-492	-0.002
+2	668 mph	1.7258	Reilly	TRACK & FIELD	2149	Reilly	517 m/s	456	1238	129	0.8295	1.2507	Computer Game Design	-511	0.2693
+2	768 mph	1.2483	Vani	boxing	1335	Tony	-998 m/s	-499	1582	70	0.3872	0.3147	Applied Mathematics	-795	-0.3298
+1	1360 mph	0.999	Fabrice	baseball	-26	Andrew	None	2449	338	-441	0.1949	1.1207	Computational Media	1238	-0.721
+5	-579 mph	-1.4063	Fabrice	football	1610	Sam	1148 m/s	-1083	1107	240	-0.1973	-0.1895	Biotechnology	-124	-0.0248
+6	-585 mph	0.1019	Tony	golf	424	Fabrice	1284 m/s	189	654	-17	0.3954	0.7013	Games and Playable Media	427	2.3593
+7	-20 mph	0.5877	Inan	basketball	2284	Inan	813 m/s	-834	1274	-1109	1.1688	0.6021	Computational Media	-632	1.3008
+4	1060 mph	1.4607	Inan	volleyball	840	Vani	-286 m/s	698	930	577	-0.0471	0.9765	Technology and Information Management	-317	0.4651
+6	1111 mph	1.4095	Inan	volleyball	1279	Fabrice	553 m/s	774	970	1143	2.4237	0.499	Robotics Engineering	703	1.367
+5	1793 mph	-0.2308	Sam	running	2054	Sam	251 m/s	-376	468	254	0.5403	0.7733	Biotechnology	1219	1.0664
+5	964 mph	0.2391	Michael	football	1272	Sam	1497 m/s	795	400	-261	0.2096	0.6742	Biotechnology	2187	-0.1305
+2	-272 mph	0.6414	Vani	ice hockey	278	Reilly	365 m/s	2036	1824	1674	0.2667	-0.8614	Applied Mathematics	138	1.4593
+0	-114 mph	0.0816	lise	volleyball	1406	Eriq	1646 m/s	733	867	-285	2.8679	0.5467	Statistics	846	-0.3419
+5	1061 mph	2.105	Eriq	football	1563	Sam	1143 m/s	11	448	-424	0.4097	0.4088	Biotechnology	570	1.5971
+4	685 mph	0.1715	Chris	volleyball	1629	Vani	488 m/s	501	552	735	0.8921	1.7212	Computer Engineering	407	-0.6204
+6	1138 mph	0.7911	Tony	golf	883	Fabrice	2371 m/s	302	1009	706	1.7348	1.7807	Computer Game Design	2328	0.76
+6	97 mph	1.1593	Tony	golf	864	Chris	-354 m/s	842	N/A	712	-0.6728	2.2106	Games and Playable Media	209	1.1184
+5	1069 mph	-0.0887		football	728	Sam	2046 m/s	-677	-521	-1970	-0.5072	0.4888	Biotechnology	209	0.4251
+2	1478 mph	0.0343	Reilly	track & field	949	Reilly	621 m/s	1178	251	982	-0.2481	0.6081	Data Science	240	1.317
+1	816 mph	1.1059	Fabrice	baseball	468	ANDREW	1014 m/s	1166	742	1633	1.2102	0.3146	Bioinformatics	-48	0.5937
+4	95 mph	2.7516	Chris	volleyball	710	Vani	-841 m/s	733	1310	982	1.1076	2.0114	Technology and Information Management	541	1.8773
+1	978 mph	-0.0489	Fabrice	baseball	939	Andrew	771 m/s	702	376	-1632	2.2289	-0.3922	Bioinformatics	0	-0.471
+7	815 mph	0.2654	Inan	tennis	310	Inan	1521 m/s	109	380	-849	-0.9349	2.0712	Computational Media	-10	0.3017
+4	-481 mph	0.9512	Chris	boxing	2651	Vani	-623 m/s	790	-135	174	-1.3811	-0.0203	Electrical Engineering	899	-0.145
+3	1391 mph	0.8068	Andrew	soccer	1502	Tony	1246 m/s	1339	799	1655	0.2707	0.797	Natural Language Processing	-583	-0.2723
+7	1510 mph	0.652	Inan	ice hockey	445	Fabrice	794 m/s	1334	753	-172	0.0563	0.3944	Computational Media	-929	-0.5617
+4	-224 mph	2.0764	Chris	tennis	856	Vani	-430 m/s	484	1993	1180	-0.9155	2.1429	Technology and Information Management	1184	-0.4959
+5	-1014 mph	0.4558	Michael	football	483	Sam	515 m/s	1359	1160	356	-1.1862	-0.1792	Biotechnology	168	
+4	462 mph	0.4114	Chris	volleyball	251		166 m/s	-1083	663	-452	-1.7226	-0.7218	Computer Engineering	-725	1.0789
+6	999 mph	0.4518	Tony	golf	2448	Chris	1324 m/s	102	1107	-1141	0.2542	0.0714	Computer Game Design	894	-0.2777
+0	-625 mph	-0.4603	Lise	basketball	1822	Michael	1161 m/s	765	1067	233	0.4303	0.0982	Statistics	458	0.5268
+4	-41 mph	0.775	Chris	boxing	?	Vani	988 m/s	1200	1324	-298	-1.2391	-1.1931	Robotics Engineering	1187	1.6216
+1	1245 mph	0.1742	Reilly	baseball	1298	Andrew	-674 m/s	1240	594	45	1.3213	0.6373	Bioinformatics	1177	0.088
+3	204 mph	0.4996	Andrew	soccer	15	Tony	-137 m/s	1209	1436	19	0.4307	0.1539	Natural Language Processing	-41	1.1087
+0	230 mph	0.2757	Lise	badminton	727	Lise	1752 m/s	1064	-15	292	1.1207	0.9858	Statistics	675	1.3496
+4	324 mph	1.037	Chris	boxing	1626	Vani	1749 m/s	-1036	401	-1060	-0.5194	0.7949	Computational Media	-813	0.9531
+7	317 mph	1.1636	Inan	boxing	279	Inan	71 m/s	1704	-416	-228	-0.3277	-0.0251	cOMPUTATIONAL mEDIA	-499	0.9622
+6	None	1.4358	Tony	ice hockey	1126	Chris	-8 m/s	539	479	-526	1.0422	1.2399	Games and Playable Media	-826	-0.6152
+2	-131 mph	1.302	Vani	track & field	-442	Inan	1220 m/s	1942	-610	1430	-0.2499	0.0715	Applied Mathematics	-730	-0.5316
+4	1328 mph	1.9992	Chris	boxing	1712	Vani	890 m/s	1191	1623	1125	0.128	3.0338	Computer Engineering	51	0.2672
+7	372 mph	-0.1146	Inan	tennis	501	Inan	532 m/s	33	770	-207	-0.9635	1.0039	Computational Media	-605	0.5475
+3	-1027 mph	0.3647	Andrew	soccer	1047	Tony	1124 m/s	-896	622	-228	0.2009	0.6361	Computer Science	769	0.5004
+2	270 mph	1.1668	Reilly	track & field	-304	Reilly	-495 m/s	437	1225	891	-0.5791	1.9865	Applied Mathematics	-621	0.0535
+1	378 mph	0.1247	Fabrice	baseball	1203	Andrew	-486 m/s	1312	74	985	0.6382	-0.0761	Bioinformatics	-120	-0.1255
+2	448 mph	0.595	Reilly	baseball	-293	Reilly	1547 m/s	2056	1234	1299	0.0462	1.1658	Applied Mathematics	1029	0.6144
+4	667 mph	0.2394	Chris	volleyball	1499	Vani	-514 m/s	1083	257	532	-1.6429	1.3125	Computer Engineering	534	1.4825
+6	1281 mph	0.8894	Tony	golf	1706	Chris	1246 m/s	351	1053	103	0.1467	0.1809	Computer Game Design	1073	1.048
+1	2199 mph	-0.3031	Fabrice	Baseball	-94	Andrew	-1131 m/s	-507	38	465	3.1648	-0.0497	Bioinformatics	-1023	1.0802
+2	1138 mph	0.5203	Vani	track & field	-330	Reilly	1364 m/s	641	1207	-1212	-0.4378	1.6055	Applied Mathematics	-643	0.6422
+5	40 mph	0.82	Michael	running	99	Sam	1109 m/s	627	190	1646	0.3709	-0.3211	Biotechnology	-627	-0.0038
+4	1233 mph	1.3385	Chris	Boxing	1123	Vani	662 m/s	433	757	2912	1.8054	3.0056	Computer Engineering	-593	n/a
+2	589 mph	0.0318	Reilly	track & field	14	Reilly	1626 m/s	1234	574	-205	-0.8029	1.5244	Data Science	45	0.7211
+0	1138 mph	-0.1991	Lise	badminton	1597	Eriq	734 m/s	-526	-1255	158	1.5438	0.7797	Statistics	1371	0.8167
+6	1288 mph	1.2121	Tony	ice hockey	-20	CHRIS	77 m/s	571	950	-410	1.4924	0.5001	Computer Game Design	-310	0.4094
+0	-955 mph	-0.5227	Lise	motor sports	-268	Michael	1273 m/s	-810	-559	1050	-0.1058	0.3302	Electrical Engineering	869	0.0613
+3	170 mph	-0.4698	Chris	?	-429	Tony	2349 m/s	210	984	-17	0.0895	1.4642	Natural Language Processing	1188	0.8034
+4	140 mph	1.3117	Chris	boxing	-939	Vani	-1132 m/s	359	4	-506	0.1482	0.0879	Computer Engineering	847	-0.5363
+5	-466 mph	-0.4277	Eriq	basketball	1738	Sam	742 m/s	1569	351	1312	-1.7652	1.1239	Biotechnology	3889	-0.2627
+2	1119 mph	0.2745	Reilly	track & field	241	Reilly	2319 m/s	1038	1680	-1270	0.1787	1.6711	Data Science	-183	0.3629
+0	1560 mph	-1.3255	Lise	motor sports	731	Eriq	1772 m/s	821	1106	-75	-0.0067	0.3839	Bioengineering	74	-0.1598
+1	21 mph	-0.4957	Fabrice	baseball	978	Andrew	221 m/s	1728	591	-242	0.4033	1.0051	Bioinformatics	853	0.1283
+4	792 mph	0.2493	Fabrice	running	1847	Vani	-880 m/s	-1273	1841	1130	0.6626	2.147	Computer Engineering	1055	1.2519
+3	1374 mph	0.8693	Andrew	soccer	1018	Tony	1147 m/s	317	862	892	-0.6359	1.1288	Computer Science	174	0.4548
+1	1528 mph	0.2566	Fabrice	baseball	355	Andrew	-1107 m/s	2061	1007	647	-0.2129	0.0487	Bioinformatics	387	0.5398
+6	379 mph	1.52	Tony	golf	892	Chris	90 m/s	-40	-237	-1520	1.1637	-1.2888	Computer Science	2126	-1.1585
+7	-641 mph	0.4496	Inan	basketball	-523	Inan	685 m/s	431	655	-842	0.3227	-0.2485	Computational Media	-673	0.4145
+1	1007 mph	0.9628	Fabrice	baseball	1585	Andrew	125 m/s	1682	-104	1046	1.6359	1.3101	Bioinformatics	120	0.6481
+7	944 mph	-0.6846	Reilly	track & field	665	Inan	1679 m/s	1429	-10	196	0.3933	1.4334	Data Science	-2059	-0.0898
+6	541 mph	0.214	Tony	ice hockey	25	Chris	1394 m/s	239	1530	-1076	1.5539	1.0031	Statistics	1352	0.9799
+2	1814 mph	1.3665	Reilly	TRACK & FIELD	88	Lise	196 m/s	-134	845	990	-0.7329	-0.0566	Applied Mathematics	-229	0.4967
+7	12 mph	1.6254	Inan	basketball	2347	Lise	1192 m/s	1602	174	-431	-0.0566	-1.2513	Computational Media	1173	1.2653
+6	562 mph	0.3657	Tony	golf	1167	Chris	1459 m/s	1151	958	1016	1.1798	1.8385	Computer Game Design	1319	1.2191
+5	-9 mph	0.5126	Sam	football	771	Sam	1734 m/s	552	230	434	2.0943	1.5619	Biotechnology	921	1.501
+4	-496 mph	0.4833	Andrew	volleyball	-173	Vani	10 m/s	-493	1034	402	1.2135	0.358	Biotechnology	-357	0.443
+1	1908 mph	0.5995	Fabrice	baseball	742	Andrew	212 m/s	1582	-580	575	1.2514	1.8398	Data Science	1417	0.3063
+7	-334 mph	0.4094	Inan	tennis	962	Reilly	1090 m/s	792	1589	201	1.3348	-0.2921	cOMPUTATIONAL mEDIA	154	0.5726
+0	914 mph	0.6325	Lise	motor sports	1303	Michael	1856 m/s	2101	-1238	2081	1.2932	0.3029	Electrical Engineering	1581	-0.1595
+4	-93 mph	0.8784	Chris	volleyball	1079	Vani	307 m/s	885	2284	-710	0.9286	1.7268	Technology and Information Management	325	0.7419
+3	56 mph	0.5627	Andrew	soccer	611	Tony	569 m/s	575	1783	1104	0.9583	0.4881	Natural Language Processing	2448	-1.0008
+0	1764 mph	-0.0167	Lise	badminton	635	Eriq	258 m/s	-226	835	-446	0.9821	0.7141	Statistics	-1334	0.7821
+7	548 mph	2.0966	iNAN	tennis	989	Inan	705 m/s	1786	393	582	0.0852	-0.1934	Computational Media	1300	0.0259
+6	423 mph	2.6542	Andrew	golf	769	Fabrice	561 m/s	-1826	1428	-198	-0.4036	0.7605	Games and Playable Media	984	0.2567
+0	-493 mph	0.2028	Lise	motor sports	1389	Michael	-912 m/s	-439	-226	356	0.5505	0.4817	eLECTRICAL eNGINEERING	-611	-0.2167
+6	878 mph	0.706	Tony	track & field	342	FABRICE	-1124 m/s	1331	814	784	0.8983	-0.7417	Computer Game Design	1755	0.2989
+5	27 mph	0.304	Michael	VOLLEYBALL	289	Michael	1911 m/s	1180	873	-680	-1.2242	0.4823	Biotechnology	-24	0.511
+6	965 mph	1.7057	Tony	baseball	133	chris	274 m/s	1602	332	1906	1.9152	1.0299	Games and Playable Media	544	-0.1199
+6	1228 mph	0.9084	Tony	NULL	188	Vani	1590 m/s	-598	-240	1504	1.6992	0.7673	Games and Playable Media	1152	1.2007
+5	-1053 mph	0.8698	Eriq	tennis	76	Sam	1482 m/s	n/a	552	541	0.2661	1.3385	Biotechnology	-604	-0.0849
+0	854 mph	-0.3364	Lise	badminton	96	Michael	607 m/s	1404	45	154	-0.551	0.5113	Bioengineering	2334	-0.5666
+5	-343 mph	-0.9767	Sam	football	1710	Reilly	70 m/s	-1725	-413	1512	1.5004	1.6304	Biotechnology	-153	1.1866
+7	529 mph	0.9127	Lise	tennis	84	Inan	489 m/s	173	391	384	-0.2059	-0.7453	Computational Media	-131	0.023
+5	296 mph	0.2087	Eriq	running	1117	Sam	954 m/s	-589	867	-250	0.1523	2.1131	Biotechnology	1044	-1.2867
+5	-298 mph	-0.1943	Eriq	football	1005	Sam	144 m/s	783	n/a	363	-0.894	2.8832	Biotechnology	1944	0.4734
+0	415 mph	0.3434	Lise	ice hockey	984	Vani		1373	1112	-385	2.2069	-0.6475	Bioengineering	886	0.8574
+3	2468 mph	0.619	Andrew	soccer	1692	Tony	1574 m/s	1140	-996	23	-0.5054	0.9156	Natural Language Processing	-70	2.0515
+4	99 mph	0.4198	Chris	baseball	330	Vani	124 m/s	836	2535	-65	-0.2685	1.9294	?	-176	0.0864
+4	-262 mph	0.6063	Chris	volleyball	245	Vani	1016 m/s	1381	787	2014	-0.2572	-0.807	Computer Engineering	1087	0.4759
+4	741 mph	0.059	Chris	volleyball	148	Vani	-977 m/s	-235	1265	2402	1.4224	1.0008	Robotics Engineering	347	0.1995
+2	1101 mph	0.7928	Chris	track & field	1727	Reilly	494 m/s	1111	1009	-336	-1.4682	1.1552	Data Science	775	-0.2568
+7	20 mph	1.228	Inan	tennis	2183	Inan	728 m/s	2502	n/a	385	-0.3086	-0.2836	Computational Media	-1285	0.115
+3	960 mph	-0.1651	Andrew	soccer	2035	Tony	410 m/s	842	1171	837	-1.4913	1.2144	Natural Language Processing	1308	0.3793
+4	262 mph	0.0707	Chris	volleyball	658	Vani	1101 m/s	1235	658	1431	-0.3995	-0.2291	Technology and Information Management	2795	0.4159
+2	524 mph	1.3463	Vani	track & field	401	Reilly	1104 m/s	1540	472	1073	-0.0108	-0.1671	Data Science	692	-0.0077
+0	705 mph	1.2693	Lise	badminton	694	Michael	945 m/s	2075	-148	-1175	-0.0534	-0.482	Bioengineering	2260	-0.2419
+4	1038 mph	1.0994	Chris	boxing	556	Vani	909 m/s	-305	354	843	-0.4221	0.8106	Computer Engineering	-111	0.3055
+4	-42 mph	1.3258	Chris	volleyball	-454	Vani	-547 m/s	1099	553	-1347	0.5527	1.184	Robotics Engineering	-68	0.5641
+6	346 mph	1.8095	TONY	ice hockey	1210	Eriq	1990 m/s	-32	747	-727	0.5191	None	Games and Playable Media	940	0.7992
+0	540 mph	0.2268	Lise	badminton	681	Eriq	457 m/s	-715	-269	780	0.7912	-1.0632	Electrical Engineering	2359	-1.5961
+1	1255 mph	0.3194	Fabrice	baseball	-472	Andrew	228 m/s	2012	-349	331	0.9566	0.0513	Bioinformatics	2229	0.2208
+1	1960 mph	-0.3675	Fabrice	baseball	602	Andrew	-94 m/s	1097	1240	942	1.1726	-0.1577	Bioinformatics	363	-0.1178
+2	1410 mph	2.1275	Reilly	Track & Field	1059	Reilly	-289 m/s	795	1643	-809	0.7377	0.8325	Applied Mathematics	791	1.1735
+6	968 mph	-0.2497	Tony	track & field	1270	Chris	913 m/s	1226	1367	2421	1.8888	0.4109	Games and Playable Media	2398	1.3433
+2	703 mph	0.3236	Vani	baseball	-441	None	1350 m/s	340	2113	641	0.2653	-0.1104	Computer Game Design	-616	-0.8202
+6	-225 mph	1.9983	Tony	golf	1546	Fabrice	593 m/s	1021	2242	1642	0.5145	-0.7199	Human Computer Interaction	1205	0.7335
+6	-23 mph	1.8483	Tony	golf	824	Fabrice	2090 m/s	253		-366	1.5227	0.8851	Computer Engineering	440	0.5631
+5	-950 mph	0.43	Eriq	ice hockey	1217	Michael	1289 m/s	-460	943	145	0.7023	2.3692	Biotechnology	-717	1.2848
+5	664 mph	0.7079	eriq	football	1012	Sam	1610 m/s	-55	386	1020	-0.0506	0.5711	Biotechnology	309	-0.0865
+3	1566 mph	-0.8579	Andrew	soccer	884	Tony	1811 m/s	-189	1010	-745	1.9495	1.2827	Computer Science	1543	1.1402
+0	1196 mph	-0.4755	Lise	badminton	1662	Tony	883 m/s	1477	-1097	1583	0.9139	0.6099	Electrical Engineering	1711	-0.4388
+1	664 mph	NULL	Fabrice	baseball	374	Andrew	383 m/s	1827	860	-247	2.3597		Bioinformatics	1205	-0.8329
+6	-598 mph	1.5071	Tony	golf	2434	Fabrice	-57 m/s	1194	486	298	0.9721	1.2173	Human Computer Interaction	648	1.9201
+2	1219 mph	1.2363	Reilly	baseball	1146	Lise	853 m/s	-1223	770	911	0.0272	-0.2979	Applied Mathematics	-206	1.8381
+5	-1505 mph	1.0781	Eriq	running	462	Sam	721 m/s	18	519	1701	0.239	-0.0421	Biotechnology	-1629	-0.0968
+7	308 mph	-0.8075	Inan	tennis	1410	Inan	1035 m/s	1922	231	249	0.9511	0.4051	Computational Media	568	0.329
+0	1189 mph	-0.3471	Chris	soccer	1584	Eriq	175 m/s	2132	353	1613	1.5066	1.328	Electrical Engineering	1044	1.1522
+0	1529 mph	0.2815	Inan	motor sports	1314	Eriq	719 m/s	746	706	93	0.8936	-0.9017	Statistics	-954	1.1268
+1	841 mph	0.5776	Fabrice	baseball	-311	Andrew	1301 m/s	107	749	733	-0.5891	0.2092	Bioinformatics	-1044	0.6109
+4	859 mph	0.8108	Chris	golf	1014	Vani	-570 m/s	-971	772	2718	-0.0738	0.9539	Computer Engineering	1362	0.4131
+4	45 mph	0.9123	Chris	boxing	3080	Vani	1451 m/s	-331	99	1219	0.6078	1.2956	Technology and Information Management	-257	-0.587
+3	N/A	1.6511	Andrew	soccer	1776	Tony	1951 m/s	355	1044	-50	0.513	0.7733	Biotechnology	902	-0.6616
+1	720 mph	0.7281	Fabrice	baseball	332	Andrew	622 m/s	1484	1680		0.0771	1.5714	Bioinformatics	-512	-0.8086
+5	946 mph	0.5259	Michael	track & field	319	Sam	1566 m/s	-504	-864	-1310	1.5285	1.8086	Biotechnology	-521	0.0231
+0	-1121 mph	0.5069	Lise	motor sports	777	Michael	1478 m/s	1533	358	1175	0.5803	-0.5209	Electrical Engineering	933	-0.3582
+5	1520 mph	-0.0884	mICHAEL	running	-427	Sam	1637 m/s	-386	-337	2546	-0.1497	NULL	Games and Playable Media	1576	0.1515
+6	734 mph	0.6121	Tony	ice hockey	-236	Fabrice	2784 m/s	538	873	-66	0.0952	0.3508	Computer Game Design	-553	0.1136
+6	16 mph	0.9468	Tony	ice hockey	1677	Fabrice	2743 m/s	1032	1312	-182	1.9326	0.8849	Games and Playable Media	1333	1.1735
+6	1155 mph	0.4313	Tony	ice hockey	35	Chris	1873 m/s	-1017	1158	-935	0.1547	-0.2418	Human Computer Interaction	-418	2.1922
+4	1032 mph	0.9061	Chris	BOXING	1453	Vani	1539 m/s	904	1507	-689	0.5827	0.8867	Robotics Engineering	-237	1.5132
+4	671 mph	1.023	Chris	boxing	1738	Vani	-101 m/s	936	-112	1006	-0.0096	-1.0242	Computer Engineering	1044	-0.1506
+6	764 mph	1.4605	Tony	golf	307	Fabrice	1604 m/s	-90	1139	-849	0.6163	0.2119	Computer Game Design	967	1.0336
+2	1729 mph	0.864	Reilly	track & field	465	Reilly	632 m/s	1262	1245	1008	1.4914	1.1406	Data Science	1793	1.1165
+4	897 mph	1.492	Chris	boxing	767	Vani	-665 m/s	-188	880	636	0.3914	1.4773	Computer Engineering	-382	0.1564
+6	-10 mph	0.3177	Tony	golf	1541	Fabrice	1428 m/s	-797	1504	976	0.7657	0.3002	Human Computer Interaction	901	1.2407
+5	-103 mph	-1.6032	Eriq	running	877	Sam	496 m/s	126	1629	332	-1.21	0.9979	Biotechnology	69	-0.1987
+6	537 mph	2.3187	Tony	golf	2407	Chris	1942 m/s	576	1783	670	1.8141	-1.1449	Human Computer Interaction	-637	0.4933
+4	-27 mph	1.3293	Chris	boxing	1472	Vani	1680 m/s	-1035	1844	-987	0.4559	1.9774	Technology and Information Management	-207	0.8912
+2	-22 mph	0.8492	Reilly	Track & Field	-300	Reilly	2004 m/s	1029	280	1033	0.806	1.0346	Data Science	-702	1.1163
+6	-385 mph	1.2759	Tony	ice hockey	0	Fabrice	587 m/s	-450	318	878	0.6878	-0.5862	Human Computer Interaction	1255	1.8704
+7	583 mph	0.2416	Inan	basketball	199	Inan	-679 m/s	568	670	1026	-1.163	0.3294	Computational Media	-738	-0.5575
+5	1650 mph	0.314	Eriq	football	1959	Sam	790 m/s	-182	-10	128	0.5517	2.2464	Biotechnology	-70	1.129
+7	-402 mph	1.3193	Inan	basketball	274	Inan	891 m/s	1238	-261	-1611	0.5545	-0.846	Computational Media	1499	0.3078
+6	-536 mph	-0.4504	Tony	ice hockey	687	Chris	999 m/s	-106	713	595	1.1608	1.3857	Human Computer Interaction	311	0.3542
+6	502 mph	1.5442	Tony	golf	1036	Vani	996 m/s	283	-249	-505	0.5854	0.3942	Computer Game Design	-554	0.8938
+1	1364 mph	0.399	Fabrice	baseball	750	Andrew	-186 m/s	617	-432	-1149	0.4196	1.5601	Bioinformatics	-835	0.2831
+7	1871 mph	0.1228	Lise	tennis	1107	Inan	795 m/s	573	-226	-15	0.4363	1.8136	Computational Media	-723	0.2886
+0	-602 mph	-0.2459	Lise	motor sports	1519	Eriq	710 m/s	825	239	1415	-0.0931	0.6566	Electrical Engineering	2697	-0.8049
+3	2375 mph	-0.1186	Andrew	soccer	249	Tony	1801 m/s	-340	830	1050	-0.3497	0.3252	Computer Science	-346	1.0577
+3	272 mph	0.2012	Andrew	soccer	2080	Tony	2303 m/s	-158	1851	-107	0.3007	1.8888	Computer Science	1072	0.1859
+4	101 mph	0.3204	Chris	boxing	697	Vani	1066 m/s	-89	1509	-1500	0.1418	0.2081	Computer Engineering	-287	-0.1761
+5	-256 mph	0.3472	Sam	running	790	Sam	1467 m/s	1454	79	-53	1.568	1.1295	Biotechnology	839	0.0218
+7	-731 mph	0.2194	Tony	basketball	600	Inan	988 m/s	2791	1092	1270	0.7214	0.6014	Computational Media	-761	0.4028
+2	154 mph	1.7832	Vani	soccer	-83	Lise	989 m/s	-931	1519	-981	-1.3221	0.9703	Applied Mathematics	-1126	-0.4765
+0	-1273 mph	n/a	Lise	N/A	2264	Andrew	1376 m/s	964	-862	1131	-0.7678	-0.1946	Bioengineering	-251	-0.7791
+3	1884 mph	0.9851	Andrew	soccer	1005	Tony	-418 m/s	-187	1297	818	1.4924	0.0907	Natural Language Processing	1030	1.4027
+0	419 mph	0.8382	Lise	badminton	909	Michael	1547 m/s	2114	521	1141	-0.4918	0.1019	Statistics	1353	-0.7826
+3	77 mph	0.0983	Andrew	soccer	2050	Tony	1160 m/s	-839	365	-160	-1.7179	1.3914	NATURAL LANGUAGE PROCESSING	1280	0.6813
+6	906 mph	0.9931	Andrew	golf	120	Fabrice	1707 m/s	437	1446	-1103	0.5457	-0.3059	Computer Game Design	1880	0.3685
+1	683 mph	-0.1439	Fabrice	baseball	721	aNDREW	818 m/s	817	1328	-24	-0.0637	1.6392	Bioinformatics	-1591	1.581
+1	1058 mph	0.4127	Fabrice	baseball	1025	Andrew	1539 m/s	1030	-134	69	1.2997	2.1388	Computational Media	-825	-0.2897
+3	-160 mph	0.9794	Andrew	soccer	1363	Tony	1443 m/s	1115	1471	593	0.1869	3.0942	Natural Language Processing	2750	0.9284
+1	906 mph	0.7871	Fabrice	baseball		Andrew	88 m/s	493	473	-541	0.5367	-0.3385	Bioengineering	1070	-0.5464
+1	2162 mph	-1.0616	Fabrice	running	-195	Lise	1261 m/s	199	1254	970	-0.1015	-0.1889	Bioinformatics	-452	0.469
+1	-72 mph	-0.8724	Fabrice	baseball	-266	Andrew	1314 m/s	-21	929	-334	1.9123	0.7612	Bioinformatics	571	0.0142
+6	-148 mph	0.2949	Tony	golf	869	Chris	2456 m/s	836	1124	1849	-0.0717	-1.3809	Computer Game Design	868	-0.2519
+7	1443 mph	1.3736	Inan	basketball	-965	Inan	1255 m/s	3202	396	160	1.2699	NULL	Computational Media	599	0.0383
+7	?	-1.2132	Inan	tennis	1065	Inan	278 m/s	588	749	282	1.3275	0.7731	Computational Media	-660	0.5671
+6	481 mph	2.5197	Tony	golf	806	Chris	2319 m/s	1049	1580	1122	-0.7314	1.4414	Human Computer Interaction	457	1.3677
+1	1263 mph	0.4664	Lise	baseball	24	Andrew	104 m/s	325	-551	-1489	-0.3703	2.4359	Bioinformatics	174	1.2268
+7	-139 mph	-1.564	Inan	tennis	-116	Inan	1209 m/s	2019	22	384	-0.5364	0.7908	Computational Media	1522	1.3257
+5	38 mph	-0.5005	Chris	football	833	Sam	1168 m/s	260	787	647	0.6924	0.5409	Biotechnology	894	0.3225
+1	910 mph	0.3081	Fabrice	baseball	-642	Andrew	0 m/s	277	885	-816	1.3168	1.0647	Bioinformatics	910	-0.3411
+5	83 mph	-0.7755	Eriq	running	-313	Sam	1044 m/s	1492	-234	2138	1.1099	0.7277	Biotechnology	1962	-0.6196
+2	254 mph	-0.8253	Reilly	tennis	548	Lise	-268 m/s	1245	722	-604	-0.5275	-1.2133	Applied Mathematics	-188	0.5714
+0	-321 mph	-0.3521	Andrew	badminton	503	Michael	1009 m/s	976	-409	1259	-0.0364	-0.0464	Bioengineering	870	0.3042
+6	-579 mph	1.3638	Tony	soccer	1418	Chris	459 m/s	-221	1054	-830	1.1754	0.3552	Human Computer Interaction	1597	1.0665
+4	-218 mph	0.2354	Chris	volleyball	564	Vani	-163 m/s	877	773	1520	-0.5704	1.283	Computer Engineering	1695	None
+2	1822 mph	1.345	Vani	track & field	-111	Vani	2388 m/s	1475	1357	-435	-0.2568	2.4395	Data Science	-1904	-0.6893
+5	-739 mph	1.0671	Michael	running	-398	Sam	2109 m/s	2311	1308	-154	0.1739	1.2789	Biotechnology	-701	-0.2894
+6	437 mph	1.0478	Tony	golf	1825	Fabrice	1122 m/s	776	1243	-522	-0.8978	0.3775	Human Computer Interaction	495	0.1242
+4	1336 mph	0.8445	Chris	boxing	2843	Vani	1794 m/s	378	-281	304	-0.8039	-0.1586	Computer Engineering	735	-0.1527
+2	751 mph	0.93	Reilly	track & field	-449	Lise	894 m/s	720	2124	-751	-2.8585	1.3449	Data Science	-955	0.5702
+6	344 mph	0.4397	Tony	golf	621	Chris	-358 m/s	-2	335	822	2.706	0.0086	Games and Playable Media	1272	0.0257
+7	-236 mph	0.5573	Inan	basketball	320	Inan	840 m/s	1597	-142	252	-0.4969	-1.1057	Natural Language Processing	821	0.1891
+1	1871 mph	-1.0795	Fabrice	baseball	-710	andrew	959 m/s	-847	230	1908	0.2339	0.5216	Bioinformatics	1312	1.2123
+7	425 mph	-0.319	Inan	basketball	1265	Inan	460 m/s	1012	519	32	-0.4046	-0.5	Data Science	1059	1.0712
+0	-214 mph	-0.9814	Lise	badminton	1221	Michael	-175 m/s	1342	-63	768	-0.0472	-0.4613	bioengineering	645	-0.6064
+4	484 mph	0.6343	Chris	BOXING	-16	Fabrice	449 m/s	688	220	982	1.4316	0.11	Robotics Engineering	360	-0.3325
+6	951 mph	0.6772	Tony	ice hockey	1783	Fabrice	-607 m/s	2161	1616	543	1.2152	1.2218	Human Computer Interaction	-623	1.5847
+3	61 mph	-0.6627	Andrew	soccer	371	Tony	2285 m/s	-512	964	-291	1.0223	-0.1212	Computer Science	-428	-0.5857
+7	-560 mph	0.4026	Inan	tennis	720	Inan	821 m/s	712	377	-145	1.1549	0.641	Bioinformatics	716	0.6811
+7	1503 mph	-0.1839	Inan	basketball	827	Lise	1320 m/s	28	1222	492	0.7457	-0.4032	Computational Media	362	0.9406
+6	430 mph	0.2678	Tony	ice hockey	514	Fabrice	-421 m/s	-1514	1305	-1297	0.6556	0.7395	Games and Playable Media	802	-0.1706
+0	1084 mph	0.1296	LISE	badminton	454	Eriq	945 m/s	1819	1272	858	0.9966	1.5228	Electrical Engineering	1240	0.4538
+6	-331 mph	0.5814	Tony	ice hockey	1416	Fabrice	853 m/s	-233	1516	2660	-0.4811	1.5235	Games and Playable Media	1682	1.5491
+2	-508 mph	0.676	Vani	track & field	-476	Reilly	1678 m/s	124	475	-1013	-0.0863	1.0591	Applied Mathematics	537	0.2135
+6	2206 mph	1.1437	Lise	golf	263	Inan	2240 m/s	-431	1204	152	1.8994	-0.1195	Computer Game Design	28	1.0395
+2	-448 mph	1.3488	Reilly	track & field	-353	Reilly	-34 m/s	242	441	n/a	-0.2915	2.2432	Data Science	128	0.8808
+1	116 mph	-0.67	Eriq	baseball	-1536	Chris	-1048 m/s	34	637	-411	-0.4196	1.2134	Bioinformatics	166	0.8895
+1	1802 mph	0.4323	Fabrice	baseball	964	Andrew	-21 m/s	65	488	1541	-1.3008	0.5643	Bioinformatics	27	0.946
+0	-1319 mph	0.206	Lise	badminton	1102	Michael	190 m/s	1416	372	-184	0.0122	-1.1543	Applied Mathematics	-203	-0.4238
+4	-1617 mph	0.1403	Chris	volleyball	1145	Sam	-610 m/s	951	1153	31	0.9665	0.1171	Computer Engineering	3	0.1109
+0	-934 mph	0.1844	Lise	motor sports	189	Sam	667 m/s	1586	-205	-128	1.2196	-0.1334	Bioengineering	1146	0.3309
+2	-234 mph	0.35	Vani	track & field	281	Reilly	-765 m/s	670	187	338	-0.2601	-0.2283	Data Science	2156	0.9246
+7	20 mph	0.9937	Inan	tennis	1609	Inan	216 m/s	1519	-267	435	-0.8722	0.5581	Computational Media	-136	2.6495
+7	-438 mph	0.1514	Inan	tennis	645	Inan	904 m/s	59	422	1319	0.7483	0.8129	Computational Media	794	-0.8281
+1	1772 mph	0.9012	Chris	baseball	720	Andrew	1487 m/s	494	858	-1295	1.592	-0.4741	Bioinformatics	247	-0.1325
+1	197 mph	1.5778	Fabrice	RUNNING	676	Andrew	-322 m/s	828	283	2051	0.8882	2.1011	Bioinformatics	1107	1.7597
+4	-253 mph	0.7365	Chris	volleyball	939	vani	-689 m/s	635	1388	-323	0.0906	0.9382	tECHNOLOGY AND iNFORMATION mANAGEMENT	-323	0.8614
+3	1369 mph	-0.2755	Andrew	soccer	804	Tony	793 m/s	769	-222	365	0.0889	-0.0233	Natural Language Processing	1555	1.836
+4	460 mph	1.529	Chris	boxing	-309	Vani	-171 m/s	594	-225	1560	-1.3394	1.8684	Bioinformatics	187	1.0779
+4	120 mph	0.8086	Chris	badminton	1097	Vani	-163 m/s	497	1088	-144	0.3642	2.2483	Technology and Information Management	619	0.0602
+2	-37 mph	-0.0075	Vani	track & field	-126	Reilly	411 m/s	482	1050	-175	0.8402	0.5054	Data Science	1270	0.7528
+1	596 mph	-0.331	Fabrice	running	6	Andrew	1319 m/s	2253	485	-362	1.951	1.9776	Bioinformatics	-1873	-0.5091
+3	493 mph	0.5795	Andrew	running	558	Tony	-591 m/s	-644	1060	2306	1.5045	1.3264	Natural Language Processing	817	0.8597
+4	643 mph	1.052	Chris	boxing	597	Vani	256 m/s	400	-765	1273	0.0614	0.4443	Robotics Engineering	-14	1.3213
+1	735 mph	-0.0383	Fabrice	baseball	-26	andrew	-359 m/s	30	402	-794	0.7195	1.1529	Bioinformatics	402	-0.256
+1	1484 mph	0.7804	Fabrice	track & field	-231	Andrew	-908 m/s	1524	-121	830	0.7619	0.8336	Games and Playable Media	-1101	0.1089
+1	1229 mph	-0.2564	Fabrice	baseball	-258	Andrew	-69 m/s	860	259	1304	-1.0605	0.0156	bIOINFORMATICS	549	1.9794
+2	61 mph	0.5408	Vani	track & field	819	Reilly	1070 m/s	549	647	79	0.4828	1.5244	Data Science	-834	0.0534
+7	-682 mph	0.6579	Inan	football	565	Inan	1283 m/s	1299	973	793	0.3555	-0.5198	Computational Media	645	1.4389
+1	1608 mph	-0.0748	Fabrice	football	-878	Andrew	1054 m/s	567	1474	-158	1.5901	0.7607	Bioinformatics	803	-0.9696
+6	-89 mph	2.1041	Tony	golf	1908	Fabrice	2107 m/s	588	-273	180	0.3939	1.2723	Games and Playable Media	1213	0.4144
+6	2022 mph	1.9294	tONY	ice hockey	20	Chris	924 m/s	659	-8	1115	-0.1323	0.0199	Computer Game Design	-185	0.2615
+4	-117 mph	-0.1574	Chris	boxing	954	Vani	-997 m/s	-25	742	-152	-0.3797	2.0252	Computer Engineering	1354	0.7076
+5	1070 mph	-1.0153	Michael	football	683	Sam	599 m/s	921	-284	1993	0.6689	1.2372	Biotechnology	796	0.6821
+1	943 mph	-0.6043	N/A	baseball	290	aNDREW	-1205 m/s	2085	-260	-4	0.7116	0.3963	Bioinformatics	-147	0.1663
+7	495 mph	-1.005	Inan	tennis	1905	iNAN	610 m/s	888	57	-303	0.0771	0.1752	Computational Media	1411	0.8424
+3	466 mph	0.1405	Andrew	boxing	300	Tony	1695 m/s	876	378	-82	-0.3859	0.2147	N/A	-668	1.0717
+1	1679 mph	-0.3983	n/a	BASEBALL	15	Eriq	152 m/s	1373	1698	-971	1.0523	0.8805	Bioinformatics	763	-0.3759
+5	49 mph	0.0981	Sam	running	815	Sam	2897 m/s	1551	-221	236	0.463	0.4961	Biotechnology	996	-1.1017
+7	-31 mph	-1.2717	Inan	tennis	695	Inan	1373 m/s	2300	-185	163	0.6525	-0.7219	Computational Media	93	0.4972
+3	517 mph	1.0332	Andrew	soccer	442	Tony	1893 m/s	2321	1440	598	0.9463	-0.2802	Natural Language Processing	1122	0.7579
+7	-242 mph	0.3034	Inan	boxing	661	Inan	2580 m/s	1208	553	1021	-0.1223	2.2553	Computational Media	1201	0.9337
+5	859 mph	-0.3711	MICHAEL	football	2053	Sam	1664 m/s	718	229	1184	1.0633	0.8877	Biotechnology	408	1.0427
+0	308 mph	0.9912	Lise	boxing	-502	Michael	1445 m/s	-1019	777	508	-0.2523	0.0624	Statistics	1403	1.5964
+5	19 mph	-0.0649	Sam	running	496	Sam	2829 m/s	684	-289	1324	0.6772	1.7001	Biotechnology	323	0.1731
+3	515 mph	-0.4511	Andrew	soccer	611	Tony	-1213 m/s	65	1113	2913	0.2779	-0.1971	Natural Language Processing	494	0.9259
+1	1957 mph	0.9597	Fabrice	baseball	176	Andrew	1307 m/s	892	-95	812	0.2968	-0.153	Bioinformatics	730	-0.6594
+4	?	1.1199	Andrew	VOLLEYBALL	1451	Vani	-37 m/s	-136	1149	240	0.1955	1.7464	Technology and Information Management	759	0.1643
+3	-494 mph	1.1371	Andrew	soccer	816	Tony	616 m/s	1297	351	848	0.0588	1.4643	Computer Science	516	1.44
+1	539 mph	1.294	Fabrice	baseball	-403	Andrew	498 m/s	1536	851	-1571	-0.2415	1.0975	Bioinformatics	1032	0.636
+2	443 mph	1.258	Vani	track & field	-117	Reilly	103 m/s	-21	-137	306	0.1043	0.0852	Applied Mathematics	-1771	0.5748
+2	1290 mph	1.3954	Reilly	football	-70	Lise	1132 m/s	1746	-410	1064	-0.2703	1.8609	Data Science	-252	0.4272
+0	592 mph	0.7898	Lise	motor sports	1927	Michael	600 m/s	1111	-220	1602	0.5935	0.7251	Statistics	-720	0.2807
+2	1870 mph	1.4479	Vani	track & field	-171	Reilly	699 m/s	1420	1141	-272	0.6489	1.5503	Data Science	1287	0.9982
+5	-573 mph	-0.3803	Sam	football	1041	Sam	803 m/s	-721	922	894	1.5298	-0.2041	Biotechnology	131	-0.8777
+4	1786 mph	0.8324	Chris	boxing	1622	Vani	-66 m/s	135	1453	332	-1.1475	1.4125	Bioinformatics	206	0.1556
+3	445 mph	0.2239	FABRICE	soccer	338	Tony	461 m/s	1270	1223	861	-0.2074	-0.2306	Bioinformatics	2710	0.3262
+6	-1172 mph	1.4776	Tony	ice hockey	-146	Fabrice	-164 m/s	291	132	1547	-0.3906	-0.0708	Computer Game Design	1547	-1.1537
+2	-381 mph	0.9388	Reilly	track & field	273	Reilly	1748 m/s	131	1758	735	0.9821	0.651	Applied Mathematics	1057	-0.1354
+6	790 mph	1.6617	Tony	ice hockey	941	Chris	68 m/s	-815	943	1526	0.8387	-0.5847	Computer Game Design	-104	1.1577
+6	383 mph	-0.1362	Tony	golf	1371	Fabrice	2002 m/s	406	1652	630	1.2745	-0.3139	Human Computer Interaction	3425	1.2302
+1	753 mph	-0.5968	Fabrice	running	536	Andrew	841 m/s	2371	713	-710	1.3986	1.9659	Bioinformatics	-367	0.3027
+5	591 mph	0.4104	Michael	running	692	Sam	1319 m/s	516	115	-923	-0.3574	1.8195	Biotechnology	1743	0.0879
+0	261 mph	0.8475	Lise	badminton	920	Eriq	628 m/s	-449	648	2700	-0.0729	0.0124	Bioengineering	431	0.4996
+4	-210 mph	0.6221	Chris	volleyball	496	Vani	-182 m/s	60	625	661	-0.043	0.5425	Computer Engineering	-612	-0.4621
+0	1056 mph	0.2256	Andrew	Track & Field	1715	Tony	1926 m/s	343	384	252	0.9105	-0.1842	Statistics	-58	0.3906
+6	711 mph	-0.6196	Tony	golf	1495	Fabrice	-113 m/s	1045	1016	656	0.4185	1.1726	Computer Game Design	-647	2.0922
+6	107 mph	0.8234	Tony	golf	722	Fabrice	1990 m/s	923	1080	313	0.8958	2.1791	Games and Playable Media	-58	0.7448
+4	-26 mph	0.9531	Sam	volleyball	4	Vani	614 m/s	1890	807	906	-0.111	0.8249	Technology and Information Management	-1460	-0.0154
+4	-150 mph	1.4102	Chris	boxing	74	Chris	283 m/s	143	353	742	0.2889	-0.4703	Robotics Engineering	-510	0.73
+1	2394 mph	0.7644	fABRICE	baseball	-187	Andrew	-1380 m/s	873	769	694	0.1561	0.8277	Bioinformatics	-947	0.1216
+5	788 mph	-0.7551	Eriq	running	544	Sam	-899 m/s	-52	688	1282	2.064	1.19	Biotechnology	228	1.575
+5	375 mph	-0.5469	Michael	running	746	Sam	1574 m/s	-622	95	1638	-1.3965	1.5699	Biotechnology	-887	1.0314
+5	1571 mph	0.505	Michael	football	685	Sam	2885 m/s	-301	733	-350	1.104	?	Biotechnology	899	1.2508
+0	435 mph	-0.0991	Michael	motor sports	1934	Michael	1272 m/s	1222	1308	1267	1.8708	-0.4121	Statistics	582	0.645
+7	357 mph	0.1248	Inan	basketball	639	Inan	-283 m/s	1253	-342	-92	0.656	0.5756	Natural Language Processing	-954	1.0725
+2	-296 mph	1.6294	Reilly	track & field	-768	Reilly	-201 m/s	-80	126	-380	1.0855	0.2574	Statistics	1756	2.0902
+3	551 mph	1.1956	andrew	soccer	311	Tony	356 m/s	-220	749	79	-0.315	1.4434	Computer Science	-338	2.5746
+3	852 mph	-1.4611	Andrew	soccer	2884	Sam	2482 m/s	1200	941	-1220	0.7927	1.0338	Computer Science	1176	0.5188
+6	203 mph	0.9501	Tony	ice hockey	1663	Chris	1106 m/s	562	1099	332	0.8576	-0.7889	Games and Playable Media	-567	1.8782
+7	-243 mph	-0.5513	Inan	basketball	710	Inan	1018 m/s	277	-6	225	-0.4804	1.1553	Computational Media	-167	1.3323
+7	2534 mph	-1.0094	Inan	tennis	1236	Inan	2506 m/s	631	596	85	-0.5766	0.028	Bioinformatics	-1210	0.5329
+7	51 mph	-0.1923	Inan	tennis	1243	Inan	3409 m/s	829	1157	313	-1.1277	0.5017	Bioengineering	2042	-1.6524
+0	1034 mph	-0.7192	Lise	motor sports	1627	Eriq	1912 m/s	2672	86	163	0.5064	0.724	Statistics	-539	-0.5806
+2	-446 mph	0.7098	Reilly	track & field	85	Reilly	999 m/s	-16	2082	-39	0.9229	0.2341	Data Science	-398	0.0212
+3	2086 mph	0.1189	Andrew	soccer	3010	Tony	1371 m/s	255	1708	-1035	0.7067	2.8944	nATURAL lANGUAGE pROCESSING	1103	0.8545
+5	292 mph	0.4408	Michael	football	621	Sam	1446 m/s	93	-354	2089	-0.1363	0.4961	Biotechnology	-463	0.5856
+3	939 mph	0.2612	Andrew	ice hockey	871	Tony	1873 m/s	1194	-978	1511	0.4071	1.0405	Natural Language Processing	2802	1.0026
+3	1608 mph	-0.5457	Andrew	soccer	461	Tony	2522 m/s	235	933	-422	0.0579	0.6959	Computer Science	1466	1.0143
+6	111 mph	1.4088	Tony	ice hockey	898	Fabrice	1195 m/s	-464	1096	-1081	0.3226	-0.3009	Games and Playable Media	668	0.7851
+1	1719 mph	0.8159	Inan	baseball	537	Inan	-154 m/s	731	N/A	-128	0.4768	1.5436	Bioinformatics	788	-0.4462
+0	278 mph	-0.7123	Lise	badminton	1106	Michael	1377 m/s	1790	174	605	1.4605	1.2206	BIOENGINEERING	1203	-0.339
+4	-791 mph	0.0945	Chris	boxing	1560	Vani	1038 m/s	150	871	2550	0.0879	1.8865	Computer Science	-357	?
+3	427 mph	1.4103	Andrew	soccer	1558	Inan	-163 m/s	-741	420	-826	1.9402	2.3157	Bioengineering	1852	0.2375
+7	1020 mph	0.6923	Inan	badminton	1826	Inan	1058 m/s	714	149	604	0.5091	1.1967	Computational Media	88	1.0323
+0	-243 mph	0.0147	Lise	MOTOR SPORTS	888	Michael	854 m/s	1017	-415	55	1.1193	-0.2531	Bioinformatics	285	0.1637
+5	1157 mph	0.1699	Michael	running	426	Sam	2619 m/s	1282	-123	597	0.8758	0.514	Electrical Engineering	1849	0.1741
+2	1130 mph	1.9209	Reilly	track & field	-152	Lise	1695 m/s	2222	1328	71	1.3019	0.4278	Applied Mathematics	1521	0.672
+0	-75 mph	0.3636	Lise	track & field	590	Eriq	385 m/s	1093	-189	1236	2.5379	0.3034	Statistics	1348	1.428
+2	786 mph	1.722	Reilly	baseball	491	Lise	1457 m/s	2318	1474	1097	-0.0507	2.962	Data Science	1258	1.0897
+7	2547 mph	0.7185	Inan	tennis	1938	Inan	1671 m/s	1018	260	-222	1.1711	0.0779	Computational Media	376	-0.6482
+4	1842 mph	1.0195	Chris	boxing	485	Vani	-220 m/s	-1203	1379	1131	0.2925	1.0542	Computer Engineering	-92	-0.7046
+3	324 mph	0.6786	Andrew	soccer	1957	Tony	1477 m/s	-514	1858	1808	-0.8421	1.3526	Natural Language Processing	2212	0.4597
+7	226 mph	1.0158	Inan	tennis	1881	Inan	709 m/s	1491	53	-51	-0.4458	1.0244	Computational Media	1929	1.3021
+3	534 mph	-0.042	Andrew	soccer	1786	TONY	1495 m/s	1471	162	1489	-1.3409	1.2236	Computer Science	632	0.2996
+5	660 mph	0.5061	Sam	football	-253	Sam	2228 m/s	1517	-646	1687	0.5227	0.7689	Applied Mathematics	166	-0.5487
+0	157 mph	-0.911	Lise	motor sports	769	Michael	-142 m/s	350	57	891	1.0385	0.4086	Bioengineering	1666	0.1112
+3	932 mph	0.7444	Andrew	soccer	1371	Tony	1385 m/s	1032	1041	1018	-0.3988	1.102	Computer Science	3037	-0.275
+2	895 mph	0.8218	Reilly	track & field	-48	Reilly	135 m/s	2239	1313	-1292	-0.5435	1.7863	Applied Mathematics	332	0.1462
+2	593 mph	0.4077	Reilly	track & field	301	Lise	881 m/s	1312	1483	630	-1.2542	1.1886	DATA SCIENCE	-417	-0.4447
+7	-578 mph	-0.3852	Inan	tennis	2236	Inan	1856 m/s	1722	-332	1207	-0.1618	0.1125	Computational Media	-421	0.0999
+4	-80 mph	1.9382	Chris	volleyball	677	Vani	103 m/s	285	2037	608	-0.4536	0.8262	Technology and Information Management	-170	0.6055
+3	34 mph	0.2172	Inan	boxing	1103	Tony	1380 m/s	800	1184	583	-1.5979	1.5419	Computer Science	844	0.9075
+7	415 mph	-0.0485	inan	tennis	153	Inan	379 m/s	-180	530	564	-0.6725	0.0707	Biotechnology	2600	0.6983
+5	1316 mph	0.348	Eriq	football	817	Sam	463 m/s	915	-611	-43	0.4791	n/a	bIOTECHNOLOGY	153	1.4347
+2	872 mph	1.1894	Vani	soccer	-334	Reilly	3416 m/s	1979	344	2426	0.0666	0.2702	Applied Mathematics	1705	-0.3875
+2	-358 mph	0.7703	Vani	track & field	-999	Reilly	2514 m/s	720	1172	-465	0.6228	0.9065	Data Science	-926	-0.776
+4	566 mph	1.4306	Chris	boxing	668	Vani	459 m/s	304	1173	89	-0.5993	0.2008	Computer Engineering	246	0.4346
+7	365 mph	0.3985	Inan	tennis	741	Inan	539 m/s	1808	853	144	-1.1227	0.1772	Computational Media	-1169	1.6206
+0	-1506 mph	0.2648	Lise	badminton	1990	Eriq	560 m/s	741	-677	600	1.4487	-0.9299	Statistics	-770	0.1675
+4	1733 mph	0.3045	Chris	Boxing	794	Vani	887 m/s	281	295	1567	-1.6901	0.0313	Technology and Information Management	1828	0.1392
+0	162 mph	0.2502	Lise	basketball	683	Michael	624 m/s	212	-153	44	0.2482	0.6988	Bioengineering	2680	0.7241
+0	1223 mph	0.571	Lise	badminton	1421	Eriq	2752 m/s	1200	-450	1198	0.7089	2.1817	Natural Language Processing	-1224	-0.6722
+4	598 mph	0.8488	Chris	baseball	850	Vani	-470 m/s	1416	1496	507	-0.8671	1.0597	Technology and Information Management	57	-1.2463
+1	574 mph	0.7089	Fabrice	baseball	190	Andrew	167 m/s	747	1231	846	1.3917	1.1017	Bioinformatics	-409	1.0982
+1	1138 mph	0.754	Fabrice	baseball	-491	Andrew	-50 m/s	-539	-799	-622	-0.1319	1.4334	Bioinformatics	529	-0.5945
+0	-574 mph	-0.7616	Lise	motor sports	1187	Eriq	786 m/s	828	122	-51	0.0714	-0.4757	Statistics	944	1.5063
+4	100 mph	1.4845	Chris	volleyball	666	Vani	42 m/s	758	1615	1164	-0.3	2.2823	Computer Engineering	1104	1.6965
+3	705 mph	0.0578	Andrew	soccer	996	Tony	822 m/s	-1077	736	111	-0.1184	1.4778	Computer Science	936	0.7
+1	1717 mph	0.1047	Fabrice	baseball	227	Andrew	435 m/s	2622	927	-1463	1.8712	2.443	Bioinformatics	1356	1.6828
+6	-379 mph	0.298	Inan	soccer	606	Chris	1048 m/s	574	950	215	0.3228	0.3345	Computer Game Design	-21	0.2925
+5	1006 mph	-0.4795	Eriq	running	1596	Sam	2540 m/s	-142	-63	-74	0.4472	1.2791	Biotechnology	779	-0.2688
+2	-213 mph	1.5363	Vani	track & field	-459	Reilly	10 m/s	1936	616	-796	0.9797	0.0322	Data Science	1647	0.3064
+2	1634 mph	0.1068	Vani	soccer	-522	Reilly	1839 m/s	1984	205	-10	-1.3484	1.2199	Data Science	1652	1.8732
+6	425 mph	1.2235	Tony	GOLF	937	Fabrice	127 m/s	194	1171	275	-0.1892	-0.4951	Games and Playable Media	1453	-0.4403
+4	508 mph	0.0666	Chris	volleyball	943	Vani	1244 m/s	699	1812	56	-0.0778	0.7759	Computer Engineering	-218	0.0681
+4	-521 mph	1.5617	Chris	boxing	1078	Vani	839 m/s	1103	939	861	0.0701	0.9849	Robotics Engineering	-379	2.1779
+2	710 mph	1.4777	Reilly	track & field	95	Reilly	1112 m/s	1247	1764	-982	-0.9818	1.1343	Data Science	767	0.5408
+6	833 mph	0.486	?	golf	1470	Eriq	1433 m/s	-669	1283	127	-0.6094	0.4779	Computer Game Design	152	-0.3159
+4	-1436 mph	1.2708	Chris	golf	408	Vani	150 m/s	985	912	9	-0.6027	1.9351	Technology and Information Management	514	0.1109
+4	-166 mph	1.583	Chris	volleyball	NULL	Vani	-895 m/s	152	1591	-793	1.3236	0.4659	Robotics Engineering	924	-0.0031
+5	-996 mph	0.2146	Michael	football	1400	Sam	1750 m/s	771	262	216	0.9869	2.1065	Applied Mathematics	618	0.9571
+7	717 mph	1.1529	Inan	TENNIS	243	Inan	2178 m/s	-331	305	-754	2.2528	0.4781	Computational Media	-516	1.4246
+2	55 mph	2.3205	Vani	track & field	-1059	Reilly	1544 m/s	727	679	1077	0.1452	-0.5172	Applied Mathematics	-92	1.7259
+3	333 mph	0.2139	Andrew	baseball	1101	Tony	1922 m/s	153	1169	381	n/a	1.2391	Natural Language Processing	-88	-0.3247
+1	321 mph	0.1371	Fabrice	baseball	-234	Andrew	-772 m/s	1932	-132	2	-0.3975	1.8867	Bioinformatics	333	-0.116
+5	873 mph	0.018	Michael	running	2941	Sam	2028 m/s	599	1061	1273	0.9444	0.3609	Biotechnology	1509	1.8065
+6	1348 mph	1.1362	Tony	ice hockey	785	Chris	657 m/s	-1027	911	-1059	0.2387	1.3113	Human Computer Interaction	-158	-0.5529
+7	-1765 mph	-0.616	Inan	tennis	2003	Inan	492 m/s	-167	126	428	0.7679	0.3829	Computational Media	1202	1.3185
+1	364 mph	1.1525	Fabrice	baseball	55	Andrew	-641 m/s	-789	245	432	0.384	0.9289	Bioinformatics	605	0.4051
+0	-60 mph	0.9043	Lise	badminton	670	Michael	-111 m/s	448	-225	-160	1.818	-0.1938	Bioengineering	-14	0.6241
+7	-87 mph	0.3251	Inan	tennis	1877	Inan	234 m/s	1221	1377	837	0.6687	-0.8109	Computational Media	702	2.6102
+7	1284 mph	0.2293	Inan	basketball	-239	Inan	1587 m/s	1825	-218	214	-0.5922	-0.0378	Computational Media	340	-1.205
+3	433 mph	-0.7529	Andrew	track & field	727	Tony	1672 m/s	-533	585	1358	0.51	0.6768	Computer Science	1534	-0.1898
+5	-596 mph	1.228	Michael	running	273	Sam	794 m/s	910	398	640	0.233	-0.1962	Biotechnology	346	-0.1558
+0	737 mph	?	Lise	badminton	-145	Michael	-157 m/s	672	1857	944	0.4391	0.0374	Bioengineering	-631	0.2911
+2	495 mph	0.9773	Reilly	track & field	1493	Reilly	591 m/s	723	1172	965	1.1838	-0.2606	Data Science	-769	-0.033
+7	771 mph	0.182	Inan	tennis	1525	Vani	2098 m/s	1627	1020	2218	-1.7648	0.8914	Computational Media	-1670	1.2344
+4	451 mph	0.7352	Chris	volleyball	213	Vani	-1279 m/s	1268	97	-686	0.5523	1.1221	Robotics Engineering	262	1.485
+5	50 mph	0.1984	Eriq	ice hockey	285	Sam	1097 m/s	274	1106	569	0.1188	None	Biotechnology	-441	-1.4425
+7	-107 mph	-0.6703	Inan	tennis	243	Inan	2568 m/s	1504	-428	-1156	-0.6846	-0.4277	Computational Media	-395	1.2473
+2	1215 mph	0.5336	Vani	track & field	227	REILLY	1103 m/s	-1185	2546	106	-0.9144	0.4388	Applied Mathematics	981	1.9057
+4	-369 mph	-0.0632	Chris	volleyball	1673	Vani	215 m/s	-265	1423	811	0.8661	-0.5734	Computer Engineering	-457	-0.2733
+1	1291 mph	-1.3688	Chris	basketball	-175	aNDREW	-739 m/s	261	556	-152	-0.2117	2.0174	Bioinformatics	305	-0.1049
+0	-358 mph	0.4326	Lise	motor sports	96	Eriq	1167 m/s	939	271	485	0.0826	1.6196	Statistics	541	0.4795
+1	532 mph	0.5038	Fabrice	baseball	404	Andrew	-962 m/s	2360	597	-1208	0.6889	0.681	Bioinformatics	1863	0.9045
+0	2186 mph	0.1995	Lise	badminton	2016	Michael	706 m/s	-1255	-362	-1442	0.5939	1.9417	Computer Engineering	450	0.2826
+0	464 mph	0.4779	Lise	track & field	445	Sam	903 m/s	790	448	-324	0.0199	0.0957	Electrical Engineering	234	1.0722
+6	1733 mph	1.0747	Tony	golf	515	Fabrice	1987 m/s	328	968	1071	0.4005	1.0173	Human Computer Interaction	1671	1.0605
+4	-75 mph	1.2208	Chris	volleyball	1854	Michael	559 m/s	-180	1152	448	0.9694	0.2547	Technology and Information Management	-312	-0.4792
+3	-16 mph	-0.6799	Andrew	soccer	299	Tony	2240 m/s	1095	1088	-412	-1.222	1.5726	Natural Language Processing	680	1.4444
+6	-758 mph	0.8309	Tony	golf	-363	Tony	55 m/s	453	844	848	1.1439	1.0289	Computer Game Design	459	0.8773
+1	1412 mph	-1.4349	Fabrice	baseball	-479	Andrew	-276 m/s	2165	370	907	2.0723	1.8738	Bioinformatics	173	-0.6637
+6	481 mph	0.2637	Tony	ice hockey	812	Chris	193 m/s	409	1353	719	1.2098	0.0071	Computer Game Design	1180	1.3418
+3	214 mph	-1.1514	Andrew	soccer	1465	Tony	1011 m/s	1352	373	468	0.3069	1.7449	Computer Science	1558	0.2998
+5	1159 mph	1.1089	ERIQ	football	830	Sam	74 m/s	1052	-492	-311	-0.9287	1.112	Biotechnology	-1986	-0.1127
+1	586 mph	0.3782	Fabrice	track & field	-685	Andrew	682 m/s	774	-75	679	-0.0509	2.0786	Bioinformatics	2116	0.424
+3	270 mph	-0.4951	Andrew	soccer	2615	Tony	-155 m/s	-463	64	368	-0.3039	n/a	Statistics	2032	0.2523
+1	627 mph	-0.271	Fabrice	baseball	383	Andrew	917 m/s	1502	105	-646	0.3139	2.3299	Bioinformatics	201	0.9826
+6	145 mph	?	Tony	golf	1531	Chris	-285 m/s	-834	1449	2208	1.4788	1.4825	n/a	2585	-0.3461
+2	1022 mph	0.7893	Vani	track & field	495	Reilly	-44 m/s	2200	408	919	-1.0407	-1.0795	Applied Mathematics	884	2.4215
+0	1204 mph	-0.1736	Lise	motor sports	2009	Michael	1815 m/s	1673	-1349	671	0.7116	0.679	Computer Science	1995	0.7589
+4	274 mph	1.6905	Chris	volleyball	571	Vani	1568 m/s	773	1109	663	-0.4156	0.7568	Technology and Information Management	-447	-0.2084
+5	-271 mph	-0.8609	Eriq	running	1337	Sam	1731 m/s	225	-190	895	-0.4758	-0.267	Biotechnology	1513	-0.7392
+5	279 mph	0.2442	Michael	running	1034	Sam	307 m/s	830	389	408	0.4431	1.6795	Biotechnology	585	0.7251
+1	664 mph	-0.0183	Fabrice	baseball	-86	Andrew	679 m/s	1445	-89	-417	0.5585	1.1153	Bioinformatics	1152	1.6258
+7	1134 mph	0.9768	Inan	tennis	1683	Inan	799 m/s	549	129	-1076	-0.6581	0.6386	Computational Media	-736	0.9731
+7	474 mph	-0.3847	Inan	tennis	1645	Lise	1946 m/s	-1057	-431	384	-1.2513	0.9584	Computational Media	-346	2.2918
+4	50 mph	0.9059	CHRIS	volleyball	429	Vani	1745 m/s	-122	510	1252	-0.3821	1.1044	Computer Engineering	-82	-0.4329
+0	1144 mph	-0.044	Inan	motor sports	857	ERIQ	1556 m/s	741	-698	913	1.5578	0.669	Electrical Engineering	1279	1.0368
+3	735 mph	-0.532	Andrew	soccer	974	Tony	1101 m/s	-532	1167	959	0.6853	0.4766	Computer Science	1622	0.2085
+3	-1136 mph	0.9277	Andrew	soccer	989	TONY	1628 m/s	-1118	2907	1572	-0.3094	1.7012	Natural Language Processing	-337	0.085
+4	156 mph	0.0979	Chris	volleyball	1007	Vani	-524 m/s	-1044	2032	289	-0.1032	0.206	Technology and Information Management	1215	0.7858
+0	1024 mph	-0.6147	Lise	badminton	603	Michael	1572 m/s	2316	818	1506	1.3989	0.5129	Statistics	-625	-0.2655
+2	276 mph	0.0201	Reilly	track & field	75	Lise	-63 m/s	701	929	1254	-0.146	1.2522	Applied Mathematics	344	0.3359
+4	1072 mph	3.0325	Chris	boxing	776	Vani	300 m/s	98	1365	1762	-0.4809	0.2446	Technology and Information Management	1315	0.855
+5	1312 mph	0.1963	Sam	volleyball	-557	sAM	525 m/s	320	581	-732	-0.9911	1.2002	Biotechnology	2163	0.044
+2	755 mph	1.8127	Vani	track & field	961	Lise	1305 m/s	1182	-244	-45	0.9897	0.8345	Applied Mathematics	-170	0.1156
+5	751 mph	-1.0131	Michael	running	402	Sam	1882 m/s	-536	694	-216	-1.8569	1.7664	Biotechnology	817	-0.0255
+6	829 mph	1.3563	Tony	golf	1839	Chris	-94 m/s	854	1389	1323	-0.0917	0.3185	Computer Game Design	859	0.1574
+7	1267 mph	0.5108	Inan	basketball	239	Inan	2252 m/s	798	695	-608	-1.6406	0.8784	Computational Media	-489	2.1751
+5	14 mph	0.3506	Eriq	running	1915	Sam	781 m/s	1888	872	501	0.9142	1.5554	Biotechnology	351	0.0074
+2	-203 mph	-0.0049	Vani	track & field	-436	Reilly	1907 m/s	1044	1447	585	1.8936	1.2712	Data Science	1422	-0.3396
+5	999 mph	0.6818	Michael	running	164	Sam	850 m/s	1466	1361	1491	0.7954	1.5685	Biotechnology	1899	1.0947
+3	1111 mph	-0.0874	Andrew	soccer	1121	Michael	1026 m/s	-512	1121	138	-0.4005	0.646	Computer Science	-786	1.5654
+1	860 mph	-0.0881	Fabrice	track & field	124	Andrew	1382 m/s	-15	110	216	0.3399	1.9322	Bioinformatics	1512	0.1584
+2	1506 mph	0.4107	Reilly	track & field	108	Lise	584 m/s	150	1602	784	0.2245	0.7957	Data Science	1033	1.3883
+6	473 mph	1.2678	Tony	golf	1701	Fabrice	496 m/s	-1529	594	590	1.4587	0.5431	Human Computer Interaction	519	0.0382
+4	-37 mph	1.5474	Chris	volleyball	1777	vani	172 m/s	-398	1389	-359	1.7856	1.5972	Computer Engineering	1004	0.5443
+3	264 mph	-0.1825	Andrew	soccer	733	Tony	1106 m/s	-274	1457	255	0.4122	0.1441	Computer Science	-423	-0.5349
+4	968 mph	1.243	Chris	boxing	1463	Vani	1224 m/s	713	119	2385	0.1593	2.1611	Computer Engineering	-61	-0.3774
+4	558 mph	0.1971	Lise	boxing	-93	Vani	-416 m/s	519	786	1007	2.0198	0.7762	Technology and Information Management	-629	-0.4084
+4	-848 mph	0.5969	Chris	volleyball	853	Vani	322 m/s	360	204	1224	0.5234	1.1341	Bioinformatics	-839	0.6685
+0	494 mph	-0.0925	Lise	motor sports	1232	Michael	605 m/s	1585	2038	629	0.9825	0.9394	Bioengineering	524	-0.5324
+7	116 mph	0.3663	Inan	tennis	1122	Inan	624 m/s	1308	44	-97	-1.4918	-1.1138	Computational Media	443	1.3497
+1	1018 mph	0.0087	Fabrice	baseball	1078	Andrew	-923 m/s	413	-805	2353	1.727	-0.0549	Bioinformatics	-951	0.0398
+7	413 mph	-0.9454	inan	tennis	2044	Inan	2485 m/s	842	-550	-88	0.395	0.6601	Computational Media	2431	-0.1336
+4	-94 mph	1.229	Chris	boxing	-211	Vani	-109 m/s	1878	1140	298	1.377	1.1871	Computer Engineering	-134	-0.7369
+5	1337 mph	0.008	N/A	soccer	2110	Sam	411 m/s	-187	948	689	3.0199	-0.4049	Robotics Engineering	195	0.7229
+0	824 mph	0.5913	Lise	motor sports	1396	Michael	n/a	-455	305	1547	0.8025	1.407	Bioengineering	969	0.7098
+6	-178 mph	2.282	Tony	running	342	Fabrice	509 m/s	933	1080	-687	0.9595	1.0858	Human Computer Interaction	965	0.3817
+5	1467 mph	-0.0291	Michael	ice hockey	328	Sam	-3 m/s	647	1159	315	-0.0858	1.5501	Biotechnology	1219	1.1085
+5	26 mph	-0.7073	Sam	running	875	Sam	809 m/s	684	-556	255	0.1109	0.7435	Biotechnology	1148	0.7775
+6	1191 mph	0.559	Tony	golf	561	Chris	1904 m/s	402	2173	-438	0.1647	0.943	Human Computer Interaction	-204	0.0354
+3	259 mph	0.5592	Andrew	soccer	1119	Tony	-618 m/s	-831	-24	609	2.5212	0.9013	Natural Language Processing	617	0.4685
+0	-82 mph	-0.0834	Lise	badminton	1697	Michael	-258 m/s	288	811	290	0.7801	0.542	Bioengineering	1376	0.884
+7	-54 mph	0.5212	Inan	TENNIS	900	Inan	773 m/s	3074	-516	292	0.2712	-0.1004	Computational Media	348	1.2872
+4	990 mph	2.4499	cHRIS	BOXING	1042	Vani	-269 m/s	206	1993	-409	-0.1904	-0.3759	Robotics Engineering	396	-0.5754
+5	1147 mph	0.5406	Sam	football	1214	Vani	1106 m/s	-571	-435	798	0.2891	1.7041	Biotechnology	2396	0.9443
+6	1282 mph	0.5792	Tony	golf	30	Fabrice	882 m/s	-1965	1173	-520	1.214	0.7561	computer game design	1010	1.1859
+6	991 mph	1.3027	Tony	running	373	Fabrice	1102 m/s	557	255	-959	0.2582	0.8693	Computer Game Design	2006	0.2476
+2	926 mph	1.4491	Reilly	track & field	-428	Reilly	293 m/s	681	879	239	0.7295	1.332	Data Science	590	0.7635
+2	77 mph	0.6866	Vani	track & field	1111	Reilly	1326 m/s	1446	581	2363	-1.2441	1.0561	Applied Mathematics	-484	1.4529
+2	1009 mph	1.6512	Vani	boxing	-874	Reilly	1216 m/s	840	648	1338	0.9828	1.7528	Data Science	878	2.0071
+3	-647 mph	-1.0092	Andrew	soccer	2322	Tony	3242 m/s	102	261	375	0.8126	0.8781	Natural Language Processing	-974	0.7889
+3	825 mph	0.0904	Andrew	soccer	1219	Tony	707 m/s		1266	425	0.2233	0.5202	Computer Science	208	-0.2721
+7	359 mph	0.7524	Inan	tennis	539	Inan	1227 m/s	1092	497	141	-2.0975	-1.0919	Computational Media	799	-1.1971
+5	-758 mph	?	Eriq	running	1432	Sam	2821 m/s	1981	-136	1263	-0.6221	0.6903	Biotechnology	?	0.5978
+0	-580 mph	0.1344	Lise	motor sports	1185	Fabrice	736 m/s	598	587	204	0.5486	-0.1063	Electrical Engineering	-49	0.3875
+4	-349 mph	1.3262	Chris	boxing	238	Vani	594 m/s	1337	773	-2217	-0.2158	0.8329	Robotics Engineering	-371	0.7924
+2	-171 mph	0.4396	Vani	track & field	205	Lise	898 m/s	111	954	366	0.8287	0.5435	Electrical Engineering	?	0.383
+3	9 mph	-0.5403	Andrew	soccer	1131	Tony	1360 m/s	467	1379	1160	-2.0145	-0.7112	Computer Science	-654	0.053
+0	-569 mph	0.039	Lise	badminton	-108	Michael	1731 m/s	1044	-268	1521	0.9472	1.1019	Bioengineering	663	1.0326
+2	1275 mph	1.2053	Inan	track & field	423	Lise	529 m/s	310	532	400	0.0203	None	Data Science	211	0.1
+5	-529 mph	-1.4913	Michael	Running	706	Sam	322 m/s	-412	-222	1219	0.6125	1.6281	Biotechnology	32	2.0192
+5	561 mph	0.0475	Michael	football	1134	Inan	1021 m/s	2313	652	1625	0.835	-0.6791	Biotechnology	1167	-0.3466
+6	-961 mph	1.138	Tony	track & field	1330	Chris	-962 m/s	-184	1105	2244	-0.6982	1.8672	Computer Game Design	234	1.1703
+0	-831 mph	0.2002	Lise	motor sports	290	Michael	1435 m/s	1186	N/A	-62	0.3174	0.9545	Electrical Engineering	2267	2.2171
+7	458 mph	0.3734	Inan	tennis	483	Inan	222 m/s	384	-26	-640	-0.7067	0.9679	Computational Media	839	1.2746
+4	1274 mph	0.6122	Fabrice	Volleyball	1198	Vani	665 m/s	2882	373	-1792	0.285	1.483	Robotics Engineering	-67	-0.7166
+3	-139 mph	0.152	Andrew	soccer	n/a	Tony	102 m/s	581	726	905	-0.4034	2.4351	Computer Science	918	0.7267
+4	1202 mph	1.3865	N/A	boxing	1237	Vani	1445 m/s	-1016	1755	-963	2.2193	0.1917	Computer Engineering	428	0.5602
+6	750 mph	1.0819	Tony	golf	1456	Fabrice	248 m/s	303	671	-336	0.2024	0.8077	Games and Playable Media	1031	-0.1036
+3	654 mph	-0.8241	Andrew	soccer	577	Tony	750 m/s	1061	-801	1417	0.2905	0.4588	Natural Language Processing	924	0.0693
+3	564 mph	-0.6805	Andrew	track & field	579	Tony	2701 m/s	28	444	888	1.83	NULL	Computer Science	506	-0.1973
+3	1661 mph	0.3484	Andrew	soccer	1150	Tony	2887 m/s	-1399	-31	19	0.1554	0.2298	Computer Science	-920	-0.9654
+4	1257 mph	1.1669	Chris	volleyball	1610	Inan	1828 m/s	1840	607	423	-0.7507	2.0053	Biotechnology	803	1.3858
+0	681 mph	1.3505	Lise	badminton	1263	Eriq	1193 m/s	642	-765	-377	1.3769	1.2922	Electrical Engineering	316	-0.2154
+5	1218 mph	1.0177	Sam	football	1422	Sam	243 m/s	2	1079	-1070	0.3487	1.16	Biotechnology	59	-0.0441
+1	1114 mph	1.003	fABRICE	Baseball	-344	Andrew	1374 m/s	162	310	360	0.0786	2.1008	Bioinformatics	184	0.0008
+7	236 mph	-0.2125	Inan	tennis	774	Inan	-74 m/s	801	-480	-362	0.1495	-0.725	Computational Media	124	0.4044
+7	-155 mph	1.278	Reilly	tennis	1032	Inan	1393 m/s	1936	284	-101	-0.0681	-0.3509	Computational Media	-960	-0.2288
+2	298 mph	0.8746	Reilly	track & field	161	REILLY	120 m/s	-591	154	-237	0.5546	1.1969	Applied Mathematics	-1087	1.219
+4	696 mph	1.4253	Chris	volleyball	-584	Vani	2680 m/s	-716	693	434	0.2047	0.3584	Computer Engineering	22	0.5972
+1	285 mph	0.9071	Fabrice	ice hockey	-175	ANDREW	612 m/s	1739	932	1995	1.4454	None	Bioinformatics	-92	0.4989
+2	1102 mph	1.1188	Michael	running	-350	Lise	-178 m/s	110	848	535	0.9104	-0.958	Applied Mathematics	-1663	0.6359
+4	1107 mph	2.2162	Chris	volleyball	541	Vani	302 m/s	1884	-52	1119	1.2099	1.2904	Biotechnology	-1489	-0.6568
+6	713 mph	1.8028	Tony	golf	1635	Chris	949 m/s	-727	1809	702	1.2268	0.7552	Games and Playable Media	1021	1.8036
+2	926 mph	0.3526	Vani	track & field	127	Reilly	1397 m/s	-1224	1818	361	-0.2887	1.9489	Statistics	-178	0.8303
+0	668 mph	-0.3314	Lise	badminton	1083	Eriq	1477 m/s	183	-122	814	-0.2067	0.5468	Bioengineering	2042	2.0898
+5	1989 mph	0.6153	Michael	running	1628	Sam	2095 m/s	1257	1450	-1903	-0.3737	0.9222	Biotechnology	120	-0.1037
+5	425 mph	0.7135	Michael	tennis	158	Sam	1515 m/s	-1346	388	841	1.06	2.2768	Computer Science	-421	0.2059
+3	608 mph	0.3149	andrew	soccer	699	Tony	278 m/s	393	2152	1227	0.2968	2.0154	Applied Mathematics	953	1.7589
+3	1924 mph	-0.0426	Andrew	track & field	2035	TONY	322 m/s	1752	1252	9	-1.4047	0.7779	Computer Science	1572	0.7577
+6	265 mph	1.3826	Tony	track & field	-356	Fabrice	1556 m/s	2182	696	668	1.4747	-0.6404	Computer Game Design	-2120	1.2235
+3	-321 mph	0.3292	Andrew	soccer	1197	Tony	1530 m/s	1457	1447	955	-1.0986	1.5677	Computer Science	1136	0.1891
+7	-90 mph	0.3006	Inan	tennis	1421	inan	1156 m/s	1604	-455	-6	-0.4155	0.6674	Computational Media	-403	0.1897
+3	-291 mph	0.741	Andrew	football	276	Tony	1078 m/s	1351	1581	-316	-0.2258	2.2961	Natural Language Processing	-967	0.3979
+2	595 mph	1.0087	Vani	motor sports	795	Lise	1000 m/s	1003	412	629	0.5429	0.2428	Applied Mathematics	-237	-0.7403
+0	-360 mph	-0.3341	Lise	motor sports	1374	mICHAEL	1392 m/s	1148	1414	-127	0.0695	1.0193	Bioengineering	1242	-0.0239
+3	-780 mph	-0.1881	Andrew	soccer	1163	Tony	260 m/s	2271	1044	1214	0.8846	1.0268	Computer Science	-145	-0.2719
+4	-35 mph	0.7162	Chris	football	208	Vani	-306 m/s	560	412	875	1.985	1.9715	Robotics Engineering	752	0.7931
+3	-662 mph	-0.4697	Andrew	soccer	425	Andrew	1226 m/s	-685	260	-520	n/a	2.115	Computer Science	-1760	-0.5403
+7	328 mph	-0.1202	Inan	tennis	2183	Inan	315 m/s	-592	-966	-73	1.771	0.3551	Computational Media	348	None
+4	-233 mph	0.5338	Chris	boxing	1471	Vani	1132 m/s	1380	605	1695	-1.2934	0.979	Robotics Engineering	185	0.5104
+1	1073 mph	-0.6714	Fabrice	ice hockey	231	Andrew	899 m/s	1105	-561	1152	0.554	0.9004	Bioinformatics	761	1.439
+5	1095 mph	-0.4008	Tony	football	-757	Sam	-15 m/s	382	60	2300	0.8397	0.3433	Biotechnology	-664	-0.4944
+5	1263 mph	0.1397	Eriq	running	-143	Sam	1009 m/s	598	373	-1156	0.6517	0.7443	Biotechnology	322	-0.0199
+0	-1329 mph	1.0967	Lise	badminton	750	Chris	961 m/s	560	596	-486	0.4921	0.3497	Statistics	915	1.5659
+6	646 mph	-0.8052	Tony	golf	1732	Chris	-308 m/s	133	1486	-52	2.1721	-1.5218	Computer Game Design	2011	2.1664
+6	863 mph	1.2331	Michael	golf	761	Andrew	1122 m/s	-345	439	1181	0.7658	0.7793	Computer Game Design	975	0.3489
+4	1420 mph	-0.0186	Chris	boxing	1625	Vani	530 m/s	-1253	2116	554	-0.095	-0.3183	Computer Engineering	-658	-0.1745
+7	1096 mph	-0.2314	Inan	track & field	2156	Andrew	1657 m/s	837	835	1143	1.6741	1.0986	Computational Media	645	0.0746
+2	895 mph	1.222	Reilly	track & field	228	Reilly	658 m/s	1850	389	1187	1.9151	0.7753	Data Science	466	0.3739
+2	429 mph	1.5837	Vani	track & field	396	Lise	2025 m/s	2205	705	635	-1.1708	1.3993	Applied Mathematics	333	0.2752
+6	289 mph	1.5298	Tony	golf	849	Tony	656 m/s	2114	539	168	-0.0929	-0.8199	Games and Playable Media	870	0.5646
+7	350 mph	0.5483	Inan	tennis	670	Inan	653 m/s	615	68	339	0.1	2.4341	Computational Media	140	1.4575
+3	1463 mph	-0.0621	Andrew	ice hockey	-278	Tony	1674 m/s	1087	631	226	0.6046	0.8631	Computer Science	-118	1.1959
+7	521 mph	-1.002	Inan	tennis	983	Inan	681 m/s	1169	427	261	1.2008	1.0294	Computational Media	384	0.3957
+4	-804 mph	1.0782	Chris	badminton	657	Vani	167 m/s	-899	1967	253	1.1767	None	Applied Mathematics	-1432	-0.6581
+6	1109 mph	0.8671	Tony	golf	1114	Chris	3008 m/s	353	1629	-378	0.7717	0.6322	Games and Playable Media	555	0.5452
+4	-643 mph	1.7351	Chris	boxing	1338	Vani	-1155 m/s	2378	1330	740	1.5394	1.7111	Technology and Information Management	73	1.2654
+2	1142 mph	0.4198	Vani	track & field	-1171	Lise	2547 m/s	315	780	230	-0.5901	0.4184	Applied Mathematics	1042	0.9492
