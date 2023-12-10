@@ -8,7 +8,7 @@ You will start with an unprocessed dataset and do all the steps from previous as
 
 ## Submitting the Assignment
 
-Submit your code by running `python3 -m autograder.cli.submit assignment.ipynb` from your local repository directory.
+Submit your code by running `python -m autograder.cli.submit assignment.ipynb` from your local repository directory.
 This script will check for your cruzid, password, and assignment id in `config.json`
 and submit your work to a server controlled by the TAs where tests will be run, reporting the results back to you.
 
